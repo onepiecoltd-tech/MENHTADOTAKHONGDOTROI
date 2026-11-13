@@ -1,0 +1,21 @@
+# Phụ thuộc + file build ra (không đẩy lên GitHub)
+node_modules/
+app/node_modules/
+app/dist/
+app/release/
+app/web/app.js
+app/web/app.js.map
+
+# Log + hệ thống
+*.log
+.DS_Store
+Thumbs.db
+
+# Khóa API / cấu hình máy local — KHÔNG BAO GIỜ commit
+.env
+.env.*
+cau-hinh.json
+ai-gia.json
+ai-luot-goi.jsonl
+
+app/web/assets/*.mp4

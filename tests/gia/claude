@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+// Lệnh `claude` giả cho test: ghi lại tham số, stdin và trả JSON như `claude -p --output-format json`.
+import fs from 'node:fs';
+const a = process.argv.slice(2);
+if (a[0] === 'auth' && a[1] === 'status') { console.log(JSON.stringify({ loggedIn: true, authMethod: process.env.FAKE_AUTH || 'claude.ai' })); process.exit(0); }
+const sys = fs.readFileSync(a[a.indexOf('--system-prompt-file') + 1], 'utf8');
+let vao = '';
+process.stdin.on('data', (d) => (vao += d)).on('end', () => {
+  fs.appendFileSync(process.env.FAKE_LOG, JSON.stringify({ args: a, sys, vao, coKhoa: 'ANTHROPIC_API_KEY' in process.env, cwd: process.cwd() }) + '\n');
+  const chon = sys.includes('bộ định tuyến');
+  const result = chon ? 'Đây là lựa chọn:\n{"cong_cu":[{"ten":"xem_tu_vi"},{"ten":"gieo_que","cau_hoi":"Có nên đổi việc?","phuong_phap":"xu"}]}' : 'Bài luận từ tài khoản.';
+  console.log(JSON.stringify({ type: 'result', subtype: 'success', is_error: false, result, session_id: 'x', total_cost_usd: chon ? 0.001 : 0.02, usage: { input_tokens: 10, output_tokens: 5 } }));
+});

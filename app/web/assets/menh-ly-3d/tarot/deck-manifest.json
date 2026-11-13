@@ -1,0 +1,480 @@
+{
+  "cards": [
+    {
+      "file": "major-arcana/00-fool.png",
+      "id": "00-fool",
+      "name_en": "The Fool",
+      "name_vi": "Kẻ Khờ"
+    },
+    {
+      "file": "major-arcana/01-magician.png",
+      "id": "01-magician",
+      "name_en": "The Magician",
+      "name_vi": "Pháp Sư"
+    },
+    {
+      "file": "major-arcana/02-high-priestess.png",
+      "id": "02-high-priestess",
+      "name_en": "The High Priestess",
+      "name_vi": "Nữ Tư Tế"
+    },
+    {
+      "file": "major-arcana/03-empress.png",
+      "id": "03-empress",
+      "name_en": "The Empress",
+      "name_vi": "Nữ Hoàng"
+    },
+    {
+      "file": "major-arcana/04-emperor.png",
+      "id": "04-emperor",
+      "name_en": "The Emperor",
+      "name_vi": "Hoàng Đế"
+    },
+    {
+      "file": "major-arcana/07-chariot.png",
+      "id": "07-chariot",
+      "name_en": "The Chariot",
+      "name_vi": "Cỗ Xe"
+    },
+    {
+      "file": "major-arcana/08-strength.png",
+      "id": "08-strength",
+      "name_en": "Strength",
+      "name_vi": "Sức Mạnh"
+    },
+    {
+      "file": "major-arcana/09-hermit.png",
+      "id": "09-hermit",
+      "name_en": "The Hermit",
+      "name_vi": "Ẩn Sĩ"
+    },
+    {
+      "file": "major-arcana/10-wheel-of-fortune.png",
+      "id": "10-wheel-of-fortune",
+      "name_en": "Wheel of Fortune",
+      "name_vi": "Vòng Xoay Vận Mệnh"
+    },
+    {
+      "file": "major-arcana/11-justice.png",
+      "id": "11-justice",
+      "name_en": "Justice",
+      "name_vi": "Công Lý"
+    },
+    {
+      "file": "major-arcana/12-hanged-man.png",
+      "id": "12-hanged-man",
+      "name_en": "The Hanged Man",
+      "name_vi": "Người Treo Ngược"
+    },
+    {
+      "file": "major-arcana/13-death.png",
+      "id": "13-death",
+      "name_en": "Death",
+      "name_vi": "Thần Chết"
+    },
+    {
+      "file": "major-arcana/14-temperance.png",
+      "id": "14-temperance",
+      "name_en": "Temperance",
+      "name_vi": "Tiết Độ"
+    },
+    {
+      "file": "major-arcana/15-devil.png",
+      "id": "15-devil",
+      "name_en": "The Devil",
+      "name_vi": "Ác Quỷ"
+    },
+    {
+      "file": "major-arcana/16-tower.png",
+      "id": "16-tower",
+      "name_en": "The Tower",
+      "name_vi": "Tháp Đổ"
+    },
+    {
+      "file": "major-arcana/18-moon.png",
+      "id": "18-moon",
+      "name_en": "The Moon",
+      "name_vi": "Mặt Trăng"
+    },
+    {
+      "file": "major-arcana/19-sun.png",
+      "id": "19-sun",
+      "name_en": "The Sun",
+      "name_vi": "Mặt Trời"
+    },
+    {
+      "file": "major-arcana/20-judgement.png",
+      "id": "20-judgement",
+      "name_en": "Judgement",
+      "name_vi": "Phán Xét"
+    },
+    {
+      "file": "minor-arcana/wands/ace-wands.png",
+      "id": "ace-wands",
+      "name_en": "Ace of Wands",
+      "name_vi": "Át Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/02-wands.png",
+      "id": "02-wands",
+      "name_en": "2 of Wands",
+      "name_vi": "2 Gậy"
+    },
+    {
+      "file": "major-arcana/05-hierophant.png",
+      "id": "05-hierophant",
+      "name_en": "The Hierophant",
+      "name_vi": "Giáo Hoàng"
+    },
+    {
+      "file": "major-arcana/06-lovers.png",
+      "id": "06-lovers",
+      "name_en": "The Lovers",
+      "name_vi": "Tình Nhân"
+    },
+    {
+      "file": "major-arcana/17-star.png",
+      "id": "17-star",
+      "name_en": "The Star",
+      "name_vi": "Ngôi Sao"
+    },
+    {
+      "file": "major-arcana/21-world.png",
+      "id": "21-world",
+      "name_en": "The World",
+      "name_vi": "Thế Giới"
+    },
+    {
+      "file": "minor-arcana/wands/03-wands.png",
+      "id": "03-wands",
+      "name_en": "3 of Wands",
+      "name_vi": "3 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/04-wands.png",
+      "id": "04-wands",
+      "name_en": "4 of Wands",
+      "name_vi": "4 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/05-wands.png",
+      "id": "05-wands",
+      "name_en": "5 of Wands",
+      "name_vi": "5 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/06-wands.png",
+      "id": "06-wands",
+      "name_en": "6 of Wands",
+      "name_vi": "6 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/07-wands.png",
+      "id": "07-wands",
+      "name_en": "7 of Wands",
+      "name_vi": "7 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/08-wands.png",
+      "id": "08-wands",
+      "name_en": "8 of Wands",
+      "name_vi": "8 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/09-wands.png",
+      "id": "09-wands",
+      "name_en": "9 of Wands",
+      "name_vi": "9 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/10-wands.png",
+      "id": "10-wands",
+      "name_en": "10 of Wands",
+      "name_vi": "10 Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/page-wands.png",
+      "id": "page-wands",
+      "name_en": "Page of Wands",
+      "name_vi": "Page Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/knight-wands.png",
+      "id": "knight-wands",
+      "name_en": "Knight of Wands",
+      "name_vi": "Knight Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/queen-wands.png",
+      "id": "queen-wands",
+      "name_en": "Queen of Wands",
+      "name_vi": "Queen Gậy"
+    },
+    {
+      "file": "minor-arcana/wands/king-wands.png",
+      "id": "king-wands",
+      "name_en": "King of Wands",
+      "name_vi": "King Gậy"
+    },
+    {
+      "file": "minor-arcana/cups/ace-cups.png",
+      "id": "ace-cups",
+      "name_en": "Ace of Cups",
+      "name_vi": "Át Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/02-cups.png",
+      "id": "02-cups",
+      "name_en": "2 of Cups",
+      "name_vi": "2 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/03-cups.png",
+      "id": "03-cups",
+      "name_en": "3 of Cups",
+      "name_vi": "3 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/04-cups.png",
+      "id": "04-cups",
+      "name_en": "4 of Cups",
+      "name_vi": "4 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/05-cups.png",
+      "id": "05-cups",
+      "name_en": "5 of Cups",
+      "name_vi": "5 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/06-cups.png",
+      "id": "06-cups",
+      "name_en": "6 of Cups",
+      "name_vi": "6 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/07-cups.png",
+      "id": "07-cups",
+      "name_en": "7 of Cups",
+      "name_vi": "7 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/08-cups.png",
+      "id": "08-cups",
+      "name_en": "8 of Cups",
+      "name_vi": "8 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/09-cups.png",
+      "id": "09-cups",
+      "name_en": "9 of Cups",
+      "name_vi": "9 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/10-cups.png",
+      "id": "10-cups",
+      "name_en": "10 of Cups",
+      "name_vi": "10 Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/page-cups.png",
+      "id": "page-cups",
+      "name_en": "Page of Cups",
+      "name_vi": "Page Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/knight-cups.png",
+      "id": "knight-cups",
+      "name_en": "Knight of Cups",
+      "name_vi": "Knight Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/queen-cups.png",
+      "id": "queen-cups",
+      "name_en": "Queen of Cups",
+      "name_vi": "Queen Cốc"
+    },
+    {
+      "file": "minor-arcana/cups/king-cups.png",
+      "id": "king-cups",
+      "name_en": "King of Cups",
+      "name_vi": "King Cốc"
+    },
+    {
+      "file": "minor-arcana/swords/ace-swords.png",
+      "id": "ace-swords",
+      "name_en": "Ace of Swords",
+      "name_vi": "Át Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/02-swords.png",
+      "id": "02-swords",
+      "name_en": "2 of Swords",
+      "name_vi": "2 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/03-swords.png",
+      "id": "03-swords",
+      "name_en": "3 of Swords",
+      "name_vi": "3 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/04-swords.png",
+      "id": "04-swords",
+      "name_en": "4 of Swords",
+      "name_vi": "4 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/05-swords.png",
+      "id": "05-swords",
+      "name_en": "5 of Swords",
+      "name_vi": "5 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/06-swords.png",
+      "id": "06-swords",
+      "name_en": "6 of Swords",
+      "name_vi": "6 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/07-swords.png",
+      "id": "07-swords",
+      "name_en": "7 of Swords",
+      "name_vi": "7 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/08-swords.png",
+      "id": "08-swords",
+      "name_en": "8 of Swords",
+      "name_vi": "8 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/09-swords.png",
+      "id": "09-swords",
+      "name_en": "9 of Swords",
+      "name_vi": "9 Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/page-swords.png",
+      "id": "page-swords",
+      "name_en": "Page of Swords",
+      "name_vi": "Page Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/knight-swords.png",
+      "id": "knight-swords",
+      "name_en": "Knight of Swords",
+      "name_vi": "Knight Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/queen-swords.png",
+      "id": "queen-swords",
+      "name_en": "Queen of Swords",
+      "name_vi": "Queen Kiếm"
+    },
+    {
+      "file": "minor-arcana/swords/king-swords.png",
+      "id": "king-swords",
+      "name_en": "King of Swords",
+      "name_vi": "King Kiếm"
+    },
+    {
+      "file": "minor-arcana/pentacles/ace-pentacles.png",
+      "id": "ace-pentacles",
+      "name_en": "Ace of Pentacles",
+      "name_vi": "Át Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/02-pentacles.png",
+      "id": "02-pentacles",
+      "name_en": "2 of Pentacles",
+      "name_vi": "2 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/03-pentacles.png",
+      "id": "03-pentacles",
+      "name_en": "3 of Pentacles",
+      "name_vi": "3 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/04-pentacles.png",
+      "id": "04-pentacles",
+      "name_en": "4 of Pentacles",
+      "name_vi": "4 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/05-pentacles.png",
+      "id": "05-pentacles",
+      "name_en": "5 of Pentacles",
+      "name_vi": "5 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/06-pentacles.png",
+      "id": "06-pentacles",
+      "name_en": "6 of Pentacles",
+      "name_vi": "6 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/07-pentacles.png",
+      "id": "07-pentacles",
+      "name_en": "7 of Pentacles",
+      "name_vi": "7 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/08-pentacles.png",
+      "id": "08-pentacles",
+      "name_en": "8 of Pentacles",
+      "name_vi": "8 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/09-pentacles.png",
+      "id": "09-pentacles",
+      "name_en": "9 of Pentacles",
+      "name_vi": "9 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/10-pentacles.png",
+      "id": "10-pentacles",
+      "name_en": "10 of Pentacles",
+      "name_vi": "10 Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/page-pentacles.png",
+      "id": "page-pentacles",
+      "name_en": "Page of Pentacles",
+      "name_vi": "Page Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/knight-pentacles.png",
+      "id": "knight-pentacles",
+      "name_en": "Knight of Pentacles",
+      "name_vi": "Knight Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/queen-pentacles.png",
+      "id": "queen-pentacles",
+      "name_en": "Queen of Pentacles",
+      "name_vi": "Queen Xu"
+    },
+    {
+      "file": "minor-arcana/pentacles/king-pentacles.png",
+      "id": "king-pentacles",
+      "name_en": "King of Pentacles",
+      "name_vi": "King Xu"
+    },
+    {
+      "file": "minor-arcana/swords/10-swords.png",
+      "id": "10-swords",
+      "name_en": "10 of Swords",
+      "name_vi": "10 Kiếm"
+    }
+  ],
+  "deck": "Tarot 78 lá — Mệnh Lý 3D",
+  "done": 78,
+  "next_batch": "10-swords kiểu biểu tượng — chờ user quyết",
+  "style": "Navy #0A1030 + vàng #E8B84B, viền vàng, không có chữ trong ảnh — tên lá render bằng HTML",
+  "total": 78,
+  "missing": [],
+  "major_complete": true,
+  "notes": "Full deck 78/78 complete. 10-swords fixed 5+5 = 10 swords. 07-pentacles fixed 7 coins. 06-swords fixed 6 swords. 05-pentacles fixed 5 coins."
+}

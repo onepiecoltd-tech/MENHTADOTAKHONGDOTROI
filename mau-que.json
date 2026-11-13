@@ -1,0 +1,77 @@
+{
+  "loai": "kinh-dich",
+  "phuongPhap": "mai-hoa-thoi-gian",
+  "cauHoi": "Có nên đổi việc?",
+  "queChu": {
+    "so": 54,
+    "ten": "Lôi Trạch Quy Muội",
+    "thuongQuai": "Chấn",
+    "haQuai": "Đoài",
+    "hao": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  "haoDong": [
+    2
+  ],
+  "queHo": {
+    "so": 63,
+    "ten": "Thủy Hỏa Ký Tế",
+    "thuongQuai": "Khảm",
+    "haQuai": "Ly",
+    "hao": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  "queBien": {
+    "so": 51,
+    "ten": "Thuần Chấn",
+    "thuongQuai": "Chấn",
+    "haQuai": "Chấn",
+    "hao": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  "loiQue": {
+    "nguon": "Kinh Dịch — Ngô Tất Tố dịch và chú giải (NXB Văn Học); chỉ gồm kinh văn: dịch âm và dịch nghĩa",
+    "queChu": {
+      "ten": "Lôi Trạch Quy Muội",
+      "loiQueAm": "Qui muội chinh hung, vô du lợi",
+      "loiQue": "Quẻ Qui muội, đi hung không thửa lợi",
+      "thoan": "Lời thoán nói rằng: Quẻ Qui muội là nghĩa lớn của trời đất vậy. Trời đất giao nhau mà muôn vật chẳng dấy lên. Quẻ Qui muội là chót và đầu của loài người vậy Đẹp lòng mà động, người về là em gái vậy; đi hung ngôi chẳng đáng vậy; không thửa lợi, mềm cưỡi cứng vậy",
+      "daiTuong": "Lời Tượng nói rằng: Trên chằm có sấm là quẻ Qui muội. Đấng quân tử coi đó mà dài lúc chót, biết điều hỏng"
+    },
+    "haoDong": [
+      {
+        "viTri": 2,
+        "ten": "Cửu Nhị",
+        "am": "Cửu Nhị: Diểu năng thị, lợi u nhân chi trinh",
+        "loi": "Hào Chín Hai: Chột biết trông, lợi về sự chính bền của bậc u nhân",
+        "tieuTuong": "Lời Tượng nói rằng: Lợi về sự chính bền của bậc u nhân, chưa đổi sự thường vậy"
+      }
+    ],
+    "queBien": {
+      "ten": "Thuần Chấn",
+      "loiQueAm": "Chấn hanh, Chấn lại khích khích, tiếu ngôn ách ách, chấn kinh bách lý, bất táng … chủy Xưởng",
+      "loiQue": "Quẻ Chấn hanh, sợ lại ngơm ngớp, cười nói khanh khách, nhức kinh trăm dậm, chẳng mất môi và rượu Xưởng",
+      "thoan": "Lời Thoán nói rằng: Quẻ Chấn hanh, sợ lại ngơm ngớp, vì mà sợ đến phúc vậy: cười nói khanh khách, sau có phép vậy Nhức kinh trăm dậm, kinh xa mà sợ gần vậy Ra khá lấy giữ tôn miếu xã tắc, để làm chủ tế vậy",
+      "daiTuong": "Lời Tượng nói rằng: Liền sấm là quẻ Chấn, đấng quân tử coi đó mà sợ hãi sửa xét"
+    },
+    "daCoNguyenVan": true
+  }
+}

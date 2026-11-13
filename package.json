@@ -1,0 +1,26 @@
+{
+  "name": "menh-engine",
+  "version": "0.1.0",
+  "description": "Bộ máy tính toán dữ liệu: bát tự, tử vi, Kinh Dịch, tarot (đầu ra JSON tiếng Việt cho AI luận giải)",
+  "type": "module",
+  "scripts": {
+    "test": "tsx --test tests/*.test.ts",
+    "cli": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "doi-chieu": "tsx scripts/doi-chieu-iztro.ts",
+    "loi-que": "tsx scripts/loi-que.ts",
+    "so-la-so": "tsx scripts/so-la-so.ts",
+    "luan": "tsx src/ai/cli.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0",
+    "astronomy-engine": "^2.1.19",
+    "iztro": "^2.6.5",
+    "lunar-typescript": "^1.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "menh-ly-3d",
+  "productName": "Menh Ly 3D",
+  "version": "1.0.0",
+  "description": "Mệnh Lý 3D: tử vi, bát tự, chiêm tinh, Kinh Dịch, tarot với AI luận giải",
+  "author": "Craftbyte",
+  "main": "dist/main.js",
+  "license": "MIT",
+  "scripts": {
+    "bundle": "node build.mjs",
+    "start": "node build.mjs && electron .",
+    "build:win": "node build.mjs && electron-builder --win portable --x64"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "electron": "44.9.3",
+    "electron-builder": "26.17.0",
+    "esbuild": "^0.25.0",
+    "three": "^0.170.0"
+  },
+  "build": {
+    "appId": "asia.craftbyte.menhly3d",
+    "productName": "Menh Ly 3D",
+    "copyright": "Craftbyte",
+    "files": [
+      "dist/main.js",
+      "preload.js",
+      "web/**/*",
+      "build/icon.png",
+      "package.json",
+      "!web/assets/menh-ly-3d-ad-5min-github.mp4",
+      "!**/media-generation-*.json"
+    ],
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "signExecutable": false,
+      "icon": "build/icon.png"
+    },
+    "portable": {
+      "artifactName": "MenhLy3D-${version}.exe"
+    }
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1"
+  }
+}

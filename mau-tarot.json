@@ -1,0 +1,44 @@
+{
+  "loai": "tarot",
+  "kieuTrai": "ba-la",
+  "cauHoi": "Công việc",
+  "cacLa": [
+    {
+      "viTri": "Quá khứ",
+      "la": {
+        "id": 38,
+        "ten": "Ba Cốc",
+        "tenAnh": "Three of Cups",
+        "nhom": "Ẩn phụ",
+        "bo": "Cốc",
+        "nguyenTo": "Thủy",
+        "so": 3
+      },
+      "nguoc": true
+    },
+    {
+      "viTri": "Hiện tại",
+      "la": {
+        "id": 41,
+        "ten": "Sáu Cốc",
+        "tenAnh": "Six of Cups",
+        "nhom": "Ẩn phụ",
+        "bo": "Cốc",
+        "nguyenTo": "Thủy",
+        "so": 6
+      },
+      "nguoc": true
+    },
+    {
+      "viTri": "Tương lai",
+      "la": {
+        "id": 4,
+        "ten": "Hoàng Đế",
+        "tenAnh": "The Emperor",
+        "nhom": "Ẩn chính",
+        "so": 4
+      },
+      "nguoc": false
+    }
+  ]
+}

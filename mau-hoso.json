@@ -1,0 +1,774 @@
+{
+  "thongTinSinh": {
+    "nam": 1990,
+    "thang": 5,
+    "ngay": 15,
+    "gio": 14,
+    "phut": 30,
+    "gioiTinh": "nam",
+    "muiGio": 7
+  },
+  "batTu": {
+    "loai": "bat-tu",
+    "tuTru": {
+      "nam": {
+        "ten": "Canh Ngọ",
+        "can": "Canh",
+        "chi": "Ngọ",
+        "hanhCan": "Kim",
+        "hanhChi": "Hỏa",
+        "napAm": "Lộ Bàng Thổ",
+        "thapThan": "Tỷ Kiên",
+        "tangCan": [
+          {
+            "can": "Đinh",
+            "hanh": "Hỏa",
+            "thapThan": "Chính Quan"
+          },
+          {
+            "can": "Kỷ",
+            "hanh": "Thổ",
+            "thapThan": "Chính Ấn"
+          }
+        ]
+      },
+      "thang": {
+        "ten": "Tân Tỵ",
+        "can": "Tân",
+        "chi": "Tỵ",
+        "hanhCan": "Kim",
+        "hanhChi": "Hỏa",
+        "napAm": "Bạch Lạp Kim",
+        "thapThan": "Kiếp Tài",
+        "tangCan": [
+          {
+            "can": "Bính",
+            "hanh": "Hỏa",
+            "thapThan": "Thất Sát"
+          },
+          {
+            "can": "Canh",
+            "hanh": "Kim",
+            "thapThan": "Tỷ Kiên"
+          },
+          {
+            "can": "Mậu",
+            "hanh": "Thổ",
+            "thapThan": "Thiên Ấn"
+          }
+        ]
+      },
+      "ngay": {
+        "ten": "Canh Thìn",
+        "can": "Canh",
+        "chi": "Thìn",
+        "hanhCan": "Kim",
+        "hanhChi": "Thổ",
+        "napAm": "Bạch Lạp Kim",
+        "thapThan": "Nhật Chủ",
+        "tangCan": [
+          {
+            "can": "Mậu",
+            "hanh": "Thổ",
+            "thapThan": "Thiên Ấn"
+          },
+          {
+            "can": "Ất",
+            "hanh": "Mộc",
+            "thapThan": "Chính Tài"
+          },
+          {
+            "can": "Quý",
+            "hanh": "Thủy",
+            "thapThan": "Thương Quan"
+          }
+        ]
+      },
+      "gio": {
+        "ten": "Quý Mùi",
+        "can": "Quý",
+        "chi": "Mùi",
+        "hanhCan": "Thủy",
+        "hanhChi": "Thổ",
+        "napAm": "Dương Liễu Mộc",
+        "thapThan": "Thương Quan",
+        "tangCan": [
+          {
+            "can": "Kỷ",
+            "hanh": "Thổ",
+            "thapThan": "Chính Ấn"
+          },
+          {
+            "can": "Đinh",
+            "hanh": "Hỏa",
+            "thapThan": "Chính Quan"
+          },
+          {
+            "can": "Ất",
+            "hanh": "Mộc",
+            "thapThan": "Chính Tài"
+          }
+        ]
+      }
+    },
+    "nhatChu": {
+      "can": "Canh",
+      "hanh": "Kim",
+      "amDuong": "Dương"
+    },
+    "nguHanh": {
+      "Mộc": 0,
+      "Hỏa": 2,
+      "Thổ": 2,
+      "Kim": 3,
+      "Thủy": 1
+    },
+    "nguHanhCoTangCan": {
+      "Mộc": 2,
+      "Hỏa": 3,
+      "Thổ": 4,
+      "Kim": 4,
+      "Thủy": 2
+    },
+    "hanhThieu": [
+      "Mộc"
+    ],
+    "tietKhi": "Lập Hạ",
+    "amLich": {
+      "ngay": 21,
+      "thang": 4,
+      "nam": 1990,
+      "nhuan": false
+    },
+    "daiVan": {
+      "khoiVanSau": "7 năm 2 tháng 10 ngày",
+      "thuan": true,
+      "danhSach": [
+        {
+          "tuoiBatDau": 8,
+          "tuoiKetThuc": 17,
+          "namBatDau": 1997,
+          "canChi": "Nhâm Ngọ",
+          "thapThan": "Thực Thần"
+        },
+        {
+          "tuoiBatDau": 18,
+          "tuoiKetThuc": 27,
+          "namBatDau": 2007,
+          "canChi": "Quý Mùi",
+          "thapThan": "Thương Quan"
+        },
+        {
+          "tuoiBatDau": 28,
+          "tuoiKetThuc": 37,
+          "namBatDau": 2017,
+          "canChi": "Giáp Thân",
+          "thapThan": "Thiên Tài"
+        },
+        {
+          "tuoiBatDau": 38,
+          "tuoiKetThuc": 47,
+          "namBatDau": 2027,
+          "canChi": "Ất Dậu",
+          "thapThan": "Chính Tài"
+        },
+        {
+          "tuoiBatDau": 48,
+          "tuoiKetThuc": 57,
+          "namBatDau": 2037,
+          "canChi": "Bính Tuất",
+          "thapThan": "Thất Sát"
+        },
+        {
+          "tuoiBatDau": 58,
+          "tuoiKetThuc": 67,
+          "namBatDau": 2047,
+          "canChi": "Đinh Hợi",
+          "thapThan": "Chính Quan"
+        },
+        {
+          "tuoiBatDau": 68,
+          "tuoiKetThuc": 77,
+          "namBatDau": 2057,
+          "canChi": "Mậu Tý",
+          "thapThan": "Thiên Ấn"
+        },
+        {
+          "tuoiBatDau": 78,
+          "tuoiKetThuc": 87,
+          "namBatDau": 2067,
+          "canChi": "Kỷ Sửu",
+          "thapThan": "Chính Ấn"
+        },
+        {
+          "tuoiBatDau": 88,
+          "tuoiKetThuc": 97,
+          "namBatDau": 2077,
+          "canChi": "Canh Dần",
+          "thapThan": "Tỷ Kiên"
+        }
+      ]
+    },
+    "ghiChu": []
+  },
+  "tuVi": {
+    "loai": "tu-vi",
+    "phai": "Tử vi Việt Nam",
+    "duongLich": "1990-5-15 14:30",
+    "amLich": {
+      "ngay": 21,
+      "thang": 4,
+      "nam": 1990,
+      "nhuan": false,
+      "canChiNam": "Canh Ngọ"
+    },
+    "gioSinh": "giờ Mùi",
+    "amDuong": "Dương Nam",
+    "thuanNghich": "Âm dương thuận lý",
+    "banMenh": "Lộ Bàng Thổ",
+    "cuc": "Thổ Ngũ Cục",
+    "soCuc": 5,
+    "cungMenhTai": "Tuất",
+    "cungThanTai": "Tý",
+    "thanCu": "Phúc Đức",
+    "menhChu": "Phá Quân",
+    "thanChu": "Hỏa Tinh",
+    "cung": [
+      {
+        "ten": "Mệnh",
+        "can": "Bính",
+        "chi": "Tuất",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Tử Vi",
+            "doSang": "Vượng"
+          },
+          {
+            "ten": "Thiên Tướng",
+            "doSang": "Vượng"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Địa Giải",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Ân Quang",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Hoa Cái",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Long Trì",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Đẩu Quân",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Địa Võng",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Quan Phù",
+        "vongLocTon": "Thanh Long",
+        "vongTrangSinh": "Quan Đới",
+        "tuan": true,
+        "triet": false,
+        "daiHan": [
+          5,
+          14
+        ],
+        "tieuHan": "Tý"
+      },
+      {
+        "ten": "Phụ Mẫu",
+        "can": "Đinh",
+        "chi": "Hợi",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Thiên Lương",
+            "doSang": "Hãm"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Văn Khúc",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Thiên Giải",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Bát Tọa",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Văn Tinh",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Quan",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Kiếp Sát",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Nguyệt Đức",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Tử Phù",
+        "vongLocTon": "Tiểu Hao",
+        "vongTrangSinh": "Lâm Quan",
+        "tuan": true,
+        "triet": false,
+        "daiHan": [
+          15,
+          24
+        ],
+        "tieuHan": "Sửu"
+      },
+      {
+        "ten": "Phúc Đức",
+        "can": "Mậu",
+        "chi": "Tý",
+        "laCungThan": true,
+        "chinhTinh": [
+          {
+            "ten": "Thất Sát",
+            "doSang": "Miếu"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Thiên Hình",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Khốc",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Hư",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Tuế Phá",
+        "vongLocTon": "Tướng Quân",
+        "vongTrangSinh": "Đế Vượng",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          25,
+          34
+        ],
+        "tieuHan": "Dần"
+      },
+      {
+        "ten": "Điền Trạch",
+        "can": "Kỷ",
+        "chi": "Sửu",
+        "laCungThan": false,
+        "chinhTinh": [],
+        "phuTinh": [
+          {
+            "ten": "Thai Phụ",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Đường Phù",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Long Đức",
+        "vongLocTon": "Tấu Thư",
+        "vongTrangSinh": "Suy",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          35,
+          44
+        ],
+        "tieuHan": "Mão"
+      },
+      {
+        "ten": "Quan Lộc",
+        "can": "Mậu",
+        "chi": "Dần",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Liêm Trinh",
+            "doSang": "Vượng"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Thiên Việt",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Thiên Trù",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Bạch Hổ",
+        "vongLocTon": "Phi Liêm",
+        "vongTrangSinh": "Bệnh",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          45,
+          54
+        ],
+        "tieuHan": "Thìn"
+      },
+      {
+        "ten": "Nô Bộc",
+        "can": "Kỷ",
+        "chi": "Mão",
+        "laCungThan": false,
+        "chinhTinh": [],
+        "phuTinh": [
+          {
+            "ten": "Văn Xương",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Tam Thai",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Đào Hoa",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Hỷ",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Đức",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Thương",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Phúc Đức",
+        "vongLocTon": "Hỷ Thần",
+        "vongTrangSinh": "Tử",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          55,
+          64
+        ],
+        "tieuHan": "Tỵ"
+      },
+      {
+        "ten": "Thiên Di",
+        "can": "Canh",
+        "chi": "Thìn",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Phá Quân",
+            "doSang": "Đắc"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Địa Không",
+            "nhom": "sát tinh"
+          },
+          {
+            "ten": "Thiên Riêu",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Y",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Quý",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Quốc Ấn",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Phượng Các",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Giải Thần",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Quả Tú",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Tài",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên La",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Điếu Khách",
+        "vongLocTon": "Bệnh Phù",
+        "vongTrangSinh": "Mộ",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          65,
+          74
+        ],
+        "tieuHan": "Ngọ"
+      },
+      {
+        "ten": "Tật Ách",
+        "can": "Tân",
+        "chi": "Tỵ",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Thiên Đồng",
+            "doSang": "Đắc",
+            "tuHoa": "Hóa Kỵ"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Phá Toái",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Sứ",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Hóa Kỵ",
+            "nhom": "sát tinh"
+          }
+        ],
+        "vongThaiTue": "Trực Phù",
+        "vongLocTon": "Đại Hao",
+        "vongTrangSinh": "Tuyệt",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          75,
+          84
+        ],
+        "tieuHan": "Mùi"
+      },
+      {
+        "ten": "Tài Bạch",
+        "can": "Nhâm",
+        "chi": "Ngọ",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Vũ Khúc",
+            "doSang": "Vượng",
+            "tuHoa": "Hóa Quyền"
+          },
+          {
+            "ten": "Thiên Phủ",
+            "doSang": "Miếu"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Địa Kiếp",
+            "nhom": "sát tinh"
+          },
+          {
+            "ten": "Thiên Khôi",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Thiên Phúc",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Thọ",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Hóa Quyền",
+            "nhom": "cát tinh"
+          }
+        ],
+        "vongThaiTue": "Thái Tuế",
+        "vongLocTon": "Phục Binh",
+        "vongTrangSinh": "Thai",
+        "tuan": false,
+        "triet": true,
+        "daiHan": [
+          85,
+          94
+        ],
+        "tieuHan": "Thân"
+      },
+      {
+        "ten": "Tử Tức",
+        "can": "Quý",
+        "chi": "Mùi",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Thái Dương",
+            "doSang": "Đắc",
+            "tuHoa": "Hóa Lộc"
+          },
+          {
+            "ten": "Thái Âm",
+            "doSang": "Đắc",
+            "tuHoa": "Hóa Khoa"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Tả Phù",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Hữu Bật",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Đà La",
+            "nhom": "sát tinh"
+          },
+          {
+            "ten": "Thiên Không",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Hóa Lộc",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Hóa Khoa",
+            "nhom": "cát tinh"
+          }
+        ],
+        "vongThaiTue": "Thiếu Dương",
+        "vongLocTon": "Quan Phủ",
+        "vongTrangSinh": "Dưỡng",
+        "tuan": false,
+        "triet": true,
+        "daiHan": [
+          95,
+          104
+        ],
+        "tieuHan": "Dậu"
+      },
+      {
+        "ten": "Phu Thê",
+        "can": "Giáp",
+        "chi": "Thân",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Tham Lang",
+            "doSang": "Đắc"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Hỏa Tinh",
+            "nhom": "sát tinh"
+          },
+          {
+            "ten": "Linh Tinh",
+            "nhom": "sát tinh"
+          },
+          {
+            "ten": "Lộc Tồn",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Lưu Hà",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Thiên Mã",
+            "nhom": "cát tinh"
+          },
+          {
+            "ten": "Cô Thần",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Tang Môn",
+        "vongLocTon": "Bác Sĩ",
+        "vongTrangSinh": "Tràng Sinh",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          105,
+          114
+        ],
+        "tieuHan": "Tuất"
+      },
+      {
+        "ten": "Huynh Đệ",
+        "can": "Ất",
+        "chi": "Dậu",
+        "laCungThan": false,
+        "chinhTinh": [
+          {
+            "ten": "Thiên Cơ",
+            "doSang": "Miếu"
+          },
+          {
+            "ten": "Cự Môn",
+            "doSang": "Miếu"
+          }
+        ],
+        "phuTinh": [
+          {
+            "ten": "Phong Cáo",
+            "nhom": "phụ tinh"
+          },
+          {
+            "ten": "Kình Dương",
+            "nhom": "sát tinh"
+          },
+          {
+            "ten": "Hồng Loan",
+            "nhom": "phụ tinh"
+          }
+        ],
+        "vongThaiTue": "Thiếu Âm",
+        "vongLocTon": "Lực Sĩ",
+        "vongTrangSinh": "Mộc Dục",
+        "tuan": false,
+        "triet": false,
+        "daiHan": [
+          115,
+          124
+        ],
+        "tieuHan": "Hợi"
+      }
+    ],
+    "ghiChu": []
+  }
+}

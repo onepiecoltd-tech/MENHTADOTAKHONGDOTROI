@@ -1,0 +1,55 @@
+/* ===== Thêm vào cuối app/web/style.css (Mệnh Lý 3D) ===== */
+
+.icon-tron { width: var(--co, 40px); height: var(--co, 40px); border-radius: 50%; object-fit: cover; border: 2px solid var(--vien, #E8B84B); box-shadow: 0 0 10px rgba(232, 184, 75, .35); }
+
+.cot-ngu-hanh { display: flex; gap: 14px; align-items: flex-end; padding: 10px 4px; }
+.cot-nh { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+.cot-nh .cot { width: 100%; max-width: 44px; border-radius: 6px 6px 0 0; display: flex; align-items: flex-start; justify-content: center; color: #0A1030; font-weight: 700; padding-top: 4px; }
+.cot-nh em { font-size: 11px; color: #9AA3C7; font-style: normal; }
+
+.the-tru { position: relative; width: 150px; height: 260px; background-size: cover; background-position: center; border-radius: 12px; border: 2px solid #E8B84B; }
+.the-tru.nhat-chu { box-shadow: 0 0 24px rgba(232, 184, 75, .55); }
+.bang-tru { position: absolute; left: 50%; transform: translateX(-50%); width: 62%; background: #0A1030; border: 1px solid #E8B84B; border-radius: 8px; text-align: center; padding: 6px 4px; color: #EDEFF7; }
+.bang-tru.tren { top: 16%; height: 30%; }
+.bang-tru.duoi { top: 55%; height: 32%; }
+.bang-tru b { display: block; font-size: 26px; color: #F2C14E; }
+.bang-tru small { display: block; font-size: 11px; color: #9AA3C7; }
+
+.que-hao { display: flex; flex-direction: column; gap: 8px; }
+.que-hao .hao { height: 12px; display: flex; gap: 14px; }
+.que-hao .hao.duong { background: #E8B84B; border-radius: 2px; }
+.que-hao .hao.am i { flex: 1; background: #E8B84B; border-radius: 2px; }
+.que-hao.nho { width: 90px; } .que-hao.nho .hao { height: 8px; }
+.que-hao.vua { width: 220px; } .que-hao.lon { width: 320px; } .que-hao.lon .hao { height: 16px; }
+
+.lop-tam-hop { position: absolute; inset: 0; pointer-events: none; }
+.lop-tam-hop svg { width: 100%; height: 100%; }
+.lop-tam-hop .tam-giac { fill: rgba(232, 184, 75, .12); stroke: #E8B84B; stroke-width: .8; stroke-dasharray: 3 2; filter: drop-shadow(0 0 4px rgba(232, 184, 75, .8)); }
+.lop-tam-hop .duong-xung { stroke: #4FC3F7; stroke-width: .8; filter: drop-shadow(0 0 4px rgba(79, 195, 247, .8)); }
+.dinh-vang { position: absolute; width: 64px; height: 64px; transform: translate(-50%, -50%); border-radius: 50%; }
+.dinh-xanh { position: absolute; width: 44px; height: 44px; transform: translate(-50%, -50%); border-radius: 50%; }
+
+.doi-chieu .diem-lon { font-size: 56px; font-weight: 800; color: #F2C14E; text-align: center; }
+.doi-chieu .diem-lon small { font-size: 20px; color: #9AA3C7; }
+.hang-diem { display: flex; gap: 10px; align-items: baseline; padding: 6px 0; border-top: 1px solid rgba(232, 184, 75, .25); }
+
+#gioiThieu { position: fixed; inset: 0; background: rgba(5, 6, 15, .92); z-index: 50; display: flex; align-items: center; justify-content: center; }
+#gioiThieu.an { display: none; }
+.hop-gioi-thieu { width: min(960px, 92vw); }
+.hop-gioi-thieu video { width: 100%; border-radius: 12px; border: 2px solid #E8B84B; background: #0A1030; }
+
+.trai-bai { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+.la-bai { width: 140px; text-align: center; }
+.la-bai img { width: 100%; border-radius: 8px; border: 2px solid #E8B84B; }
+.la-bai.nguoc img { transform: rotate(180deg); }
+.la-bai figcaption { font-size: 12px; color: #EDEFF7; margin-top: 4px; }
+
+.dai-van { display: flex; gap: 8px; overflow-x: auto; padding: 8px 0; }
+.moc-van { min-width: 110px; background: #0F1538; border: 1px solid #E8B84B; border-radius: 8px; color: #EDEFF7; padding: 8px; text-align: left; cursor: pointer; }
+.moc-van.dang { background: rgba(232, 184, 75, .18); box-shadow: 0 0 12px rgba(232, 184, 75, .4); }
+.moc-van span, .moc-van small, .moc-van em { display: block; font-size: 12px; }
+.moc-van em { color: #F2C14E; font-style: normal; }
+
+.quan-tri table { width: 100%; border-collapse: collapse; margin: 6px 0 12px; }
+.quan-tri td { padding: 5px 8px; border-bottom: 1px solid rgba(232, 184, 75, .2); }
+.quan-tri input { background: #0A1030; color: #EDEFF7; border: 1px solid #E8B84B; border-radius: 4px; padding: 2px 6px; }

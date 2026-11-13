@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self'">
+<title>Mệnh Lý 3D — Craftbyte</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas id="c3d"></canvas>
+
+<div id="gioiThieu">
+  <div class="hop-gioi-thieu">
+    <video id="videoGioiThieu" src="assets/intro-men-ly-3d.mp4" controls preload="metadata" poster="assets/menh-ly-3d/bg-cosmos.jpg"></video>
+    <div class="hang nut"><button id="nutXemGioiThieu" class="chinh">Xem giới thiệu (5 phút)</button><button id="nutBoQuaGioiThieu" class="phu">Vào app ngay</button></div>
+  </div>
+</div>
+
+<header id="thanh">
+  <div class="hieu"><span class="logo">命</span><div><b>Mệnh Lý 3D</b><small>CRAFTBYTE</small></div></div>
+  <nav id="tab">
+    <button data-tab="tuvi" class="bat">Tử vi</button>
+    <button data-tab="batu">Bát tự</button>
+    <button data-tab="chiemtinh">Chiêm tinh</button>
+    <button data-tab="kinhdich">Kinh Dịch</button>
+    <button data-tab="tarot">Tarot</button>
+  </nav>
+  <div class="phai"><span id="trangthai" class="chip">AI: đang kiểm tra</span><button id="nutLive" class="chinh">Live</button><button id="nutChiaSe" class="phu">Chia sẻ</button><button id="nutQuanTri" class="phu">Quản trị</button><button id="nutCaiDat" class="phu">Kết nối AI</button></div>
+</header>
+
+<aside id="trai">
+  <section class="the" id="theHoSo">
+    <h3>Hồ sơ người xem</h3>
+    <label>Họ tên<input id="ten" placeholder="Không bắt buộc" autocomplete="off"></label>
+    <div class="hang">
+      <label>Ngày sinh (dương lịch)<input id="ngay" type="date" value="1990-05-15"></label>
+      <label>Giờ sinh<input id="gio" type="time" value="14:30"></label>
+    </div>
+    <div class="hang">
+      <label>Giới tính<select id="gioitinh"><option value="nam">Nam</option><option value="nu">Nữ</option></select></label>
+      <label>Nơi sinh<select id="noisinh"></select></label>
+    </div>
+    <button id="nutLap" class="chinh">Lập lá số</button>
+  </section>
+  <section class="the an" id="theHoi">
+    <h3 id="tieuDeHoi">Hỏi việc</h3>
+    <label>Câu hỏi<textarea id="cauhoi" rows="2" placeholder="Ví dụ: Có nên đổi việc trong năm nay?"></textarea></label>
+    <div id="nutHoi" class="hang nut"></div>
+  </section>
+  <section class="the" id="theChiTiet"><h3 id="tieuDeChiTiet">Chi tiết</h3><div id="chitiet" class="cuon"><p class="mo">Nhập ngày giờ sinh rồi bấm Lập lá số.</p></div></section>
+</aside>
+
+<aside id="phai">
+  <section class="the cao">
+    <h3>Luận giải AI <small id="tenMon"></small></h3>
+    <div id="tinnhan" class="cuon"></div>
+    <div id="goiY" class="hang nut"></div>
+    <div class="hang gui"><textarea id="nhap" rows="2" placeholder="Hỏi thêm về lá số, quẻ hoặc trải bài đang xem"></textarea><button id="nutGui" class="chinh">Gửi</button></div>
+  </section>
+</aside>
+
+<div id="tamCho" class="an"><img src="assets/menh-ly-3d/center-astrolabe.png" alt=""><button id="nutTamCho" class="chinh">Lập lá số</button></div>
+
+<div id="daiVan" class="an"></div>
+
+
+<div id="liveBar" class="the an">
+  <div class="live-hang">
+    <span class="live-nhan">LIVE</span>
+    <div id="liveTab" class="hang nut"><button data-tab="tuvi">Tử vi</button><button data-tab="batu">Bát tự</button><button data-tab="chiemtinh">Chiêm tinh</button><button data-tab="kinhdich">Kinh Dịch</button><button data-tab="tarot">Tarot</button></div>
+    <span class="giua"></span>
+    <button id="liveTocDo" class="phu">Tốc độ 1×</button><button id="liveDoc" class="phu">Đọc: tắt</button><button id="liveThoat" class="phu">Thoát (Esc)</button>
+  </div>
+  <div class="live-hang"><input id="liveNhanh" type="text" autocomplete="off" spellcheck="false"><button id="liveChay" class="chinh">Luận</button></div>
+  <div class="live-hang"><div id="liveChu" class="hang nut"><button data-chu="Tổng quan">Tổng quan</button><button data-chu="Tình duyên">Tình duyên</button><button data-chu="Công việc">Công việc</button><button data-chu="Tài lộc">Tài lộc</button></div><span id="liveHieu" class="mo"></span></div>
+</div>
+<div id="liveTieuDe" class="an"></div>
+<div id="phuDe" class="an"><span></span></div>
+
+<div id="goiy3d">Kéo để xoay · lăn chuột để phóng to · bấm vào ô, hành tinh hoặc lá bài để xem chi tiết</div>
+
+<div id="caidat" class="an">
+  <div class="hop the">
+    <h3>Kết nối AI</h3>
+    <label>Nhà cung cấp AI
+      <select id="nhaCungCap">
+        <option value="taikhoan">Tài khoản Claude Code (chỉ cho bạn tự dùng)</option>
+        <option value="claude">Claude (Anthropic)</option>
+        <option value="openai">ChatGPT (OpenAI)</option>
+        <option value="gemini">Gemini (Google AI)</option>
+        <option value="grok">Grok (xAI)</option>
+        <option value="meta">Meta (Llama API)</option>
+      </select>
+    </label>
+    <label class="o-khoa" data-hang="claude">Khóa API Anthropic<input id="khoa-claude" type="password" placeholder="sk-ant-..." autocomplete="off"></label>
+    <label class="o-khoa" data-hang="openai">Khóa API OpenAI<input id="khoa-openai" type="password" placeholder="sk-..." autocomplete="off"></label>
+    <label class="o-khoa" data-hang="gemini">Khóa API Google AI<input id="khoa-gemini" type="password" placeholder="AIza..." autocomplete="off"></label>
+    <label class="o-khoa" data-hang="grok">Khóa API xAI<input id="khoa-grok" type="password" placeholder="xai-..." autocomplete="off"></label>
+    <label class="o-khoa" data-hang="meta">Khóa Llama API (api.llama.com)<input id="khoa-meta" type="password" placeholder="LLM|..." autocomplete="off"></label>
+    <p id="ghiChuHang" class="mo"></p>
+    <p id="ketquaKiemTra" class="mo"></p>
+    <div class="hang nut"><button id="nutKiemTra" class="phu">Kiểm tra</button><button id="nutLuu" class="chinh">Lưu</button><button id="nutDong" class="phu">Đóng</button></div>
+  </div>
+</div>
+
+<div id="hopQuanTri" class="an"><div class="hop the"><div id="noiDungQuanTri" class="cuon"></div><div class="hang nut"><button id="nutDangXuatQuanTri" class="phu">Đăng xuất</button><button id="nutDongQuanTri" class="phu">Đóng</button></div></div></div>
+<div id="hopDangNhap" class="an"><div class="hop the">
+  <h3>Đăng nhập quản trị</h3>
+  <label>ID<input id="qtId" type="text" autocomplete="username" spellcheck="false"></label>
+  <label>Mật khẩu<input id="qtMatKhau" type="password" autocomplete="current-password"></label>
+  <label class="ghi-nho"><input id="qtGhiNho" type="checkbox"> Ghi nhớ trên máy này</label>
+  <p id="qtLoi" class="mo"></p>
+  <div class="hang nut"><button id="nutDangNhapQt" class="chinh">Đăng nhập</button><button id="nutDongDangNhap" class="phu">Đóng</button></div>
+</div></div>
+<div id="hopChiaSe" class="an"><div class="hop the"><div id="noiDungChiaSe"></div><div class="hang nut"><button id="nutTaiChiaSe" class="chinh">Tải ảnh PNG</button><button id="nutDongChiaSe" class="phu">Đóng</button></div></div></div>
+<script src="app.js"></script>
+</body>
+</html>

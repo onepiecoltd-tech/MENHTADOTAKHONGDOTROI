@@ -1,0 +1,3338 @@
+{
+ "nguon": "Kinh Dịch — Ngô Tất Tố dịch và chú giải (NXB Văn Học); chỉ gồm kinh văn: dịch âm và dịch nghĩa",
+ "ghiChu": "Tách tự động bằng scripts/tach-kinh-dich.py. Tên quẻ, tên hào trong sách dùng lối cũ: Kiền = Càn, Đoái = Đoài, Chín = Cửu (hào dương), Sáu = Lục (hào âm).",
+ "que": [
+  {
+   "so": 1,
+   "tenTrongSach": "Quẻ Kiền",
+   "quaiTrongSach": "Kiền trên; Kiền dưới",
+   "loiQueAm": "",
+   "loiQue": "Kiền: Đầu cả, hanh thông, lợi tốt, chính bền",
+   "thoanAm": "Thoán viết: Đại tai Kiền nguyên, vạn vật tư thủy, nãi thống thiên Vân hành vũ thí, phẩm vật lưu hình Đại minh chung thủy, lục vụ thì thành, thì thừa lục long dĩ ngự thiên Kiền đạo biến hóa, các chính tính mệnh, bao hợp thái hòa, nãi lợi trinh Thủ xuất thứ vật, vạn quốc hàm ninh",
+   "thoan": "Thoán truyện nói rằng: Lớn thay cái đức đầu cả của Kiền, muôn vật nhờ đó khởi đầu, bèn tóm việc trời Mây đi mưa tới, sắp đặt các vật, lưu chuyển các hình Cả rõ chót đầu, sáu ngôi nhằm thì mà nên, luôn luôn cưỡi sáu con rồng để ngự đường trời Đạo Kiền biến hóa, vật nào được đúng tính mệnh của vật ấy, giữ hợp được khí thái hòa, mới hay tốt và chính bên Vượt đầu mọi vật, muôn nước đều yên",
+   "loiTuongAm": "Tượng viết: Thiên hành kiện, quân tử dĩ tự cường bất tức",
+   "loiTuong": "Lời Tượng nói rằng: Trời đi rnạnh, quân tử coi đó tự cường không nghỉ",
+   "haoAm": [
+    "Sơ cửu: Tiềm long vật dụng",
+    "Cửu Nhị: Hiện long tại điền, lợi kiến đại nhân",
+    "Cửu Tam: Quân tử chung nhật kiến kiền, tịch Dịch nhược! Lệ, vô cữu",
+    "Cửu Tứ: Hoặc dược tại uyên, vô cửu",
+    "Cửu Ngũ: Long phi tại thiên, lợi kiến đại nhân",
+    "Thượng Cửu: Kháng long hữu hối"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Rồng lặn chớ dùng",
+    "Hào Chín Hai; Rồng hiện ở ruộng, lợi về sự thấy người lớn",
+    "Hào Chín Ba: Đấng quân tử trọn ngày săng sắc, tối dương rùng rợn. Nguy! Không lỗi",
+    "Hào Chín Tư: Hặc nhảy ở vực, không lỗi",
+    "Hào Chín Năm: Rồng bay ở trời, lợi về sự thấy người lớn",
+    "Hào Chín Trên: Rồng quá cực có ăn năn"
+   ],
+   "tieuTuongAm": [
+    "Tiềm long vật dụng, Dương tại hạ dã",
+    "Hiện long tại điền, đức phổ thí dã",
+    "Chung nhật kiền kiền, phản phục đạo dã",
+    "Hoặc dược tại yên, tiến vô cữu dã",
+    "Long phi tại thiên, đại nhân tạo dã",
+    "Kháng long hữu hối, doanh bất khả cửu dã"
+   ],
+   "tieuTuong": [
+    "Rồng lặn chớ dùng, Dương ở dưới vậy",
+    "Rồng hiện ở ruộng, đức lan rộng vậy",
+    "Suốt ngày săng sắc, trở đi trở lại với đạo vậy",
+    "Hoặc nhảy ở vực, tiến lên không lỗi vậy",
+    "Rồng bay ở trời, việc người lớn vậy",
+    "Rồng quá cực có ăn năn, sự đầy đủ không thể lâu vậy"
+   ],
+   "dungAm": "Dụng Cửu: Kiền quần long vô thủ, cát",
+   "dung": "Hào dùng Chín: Thấy đàn rồng không đầu, tốt!",
+   "ten": "Thuần Càn",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 2,
+   "tenTrongSach": "Quẻ Khôn",
+   "quaiTrongSach": "Khôn trên; Khôn dưới",
+   "loiQueAm": "Khôn nguyên hanh, lợi tẫn mã chi trinh. Quân tử hữu du vãng. Tiên mê, hậu đắc, chủ lợi. Tây Nam đắc bằng, Đông Bắc táng bằng, an trinh, cát",
+   "loiQue": "Quẻ khôn: Đầu cả, hanh thông, Lợi về nết trinh của ngựa cái. Quân tử có sự đi. Trước mê, sau được. Chủ về lợi. Phía Tây Nam được bạn, phía Đông Bắc mất bạn. Yên phận giữ nết trinh thì tốt",
+   "thoanAm": "Thoản viết: Chí tai Khôn nguyên, vạn vật tư sinh, nãi thuận thừa thiên Khôn hậu tái vật, đức hợp vô cương Hàm hoằng quang đại, phẩm vật hàm hanh Tẫn mã địa loại, hành địa vô cương, nhu thuận lợi trinh quân tử du hành Tiên mê thất đạo, hậu thuận đắc thường, Tây Nam đắc bằng, nãi dữ loại hành; Đông Bắc táng bằng, nãi chung hữu khánh An trinh chi cát, ứng địa vô cương",
+   "thoan": "Lời Thoán nói rằng: Cùng tột thay cái đức đầu cả của Khôn, muôn vật nhờ nó mà sinh ra, bèn thuận theo trời Sức dầy của Khôn, chở được các vật, đức nó hợp với đức không bờ Bao dung rộng rãi, sáng láng, lớn lao, các phẩm, các vật đều hanh thông Ngựa cái là loài của đất,đi đất không bờ, mềm, thuận, lợi về nết trinh, đấng quân tử thửa làm Trước mê mất đường, sau thuận được như thường, Tây Nam được bạn, bèn đi với loài, Đông Bắc mất bạn, bèn chót có phúc Cái tốt của kẻ yên về nết trinh, ứng nhau với đức không bờ của đất",
+   "loiTuongAm": "Tượng viết: Địa thế Khôn, quân tử dĩ hậu đức tải vật",
+   "loiTuong": "Lời Tượng nói rằng: Thế đất là quẻ Khôn, đấng quân tử coi đó mà dùng đức dày chở các vật",
+   "haoAm": [
+    "Sơ lục, lý sương, kiên băng chí",
+    "Lục Nhị: Trực, phương, đại, bất tập, vô bất lợi",
+    "Lục Tam: Hàm chương khả trinh; hoặc tòng vương sự, vô thành hữu chung",
+    "Lục Tứ: Quát nang, vô cữu, vô dự",
+    "Lục ngũ: Hoàng thường, nguyên cát",
+    "Thượng Lục: Long chiến vu dã, kỳ huyết huyền hoàng"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Xéo sương, váng rắn tới",
+    "Hào Sáu Hai: Thẳng, vuông, lớn, không phải tập, không gì không lợi",
+    "Hào Sáu Ba: Ngậm văn vẻ, có thể chính; hoặc theo đuổi việc nhà vua, không cậy công? Thì được tốt lành về sau",
+    "Hào Sáu Tư: Thắt túi, không lỗi, không khen",
+    "Hào Sáu Năm: Quần vàng, cả tốt",
+    "Rồng đánh nhau ở đồng, máu nó xanh vàng"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Lý sương kiên băng, âm thủy ngưng dã, tuần chí kỳ đạo, chí kiên băng dã",
+    "Tượng viết: Lục Nhị chi động, trực dĩ phương dã; bất tập, vô bất lợi, địa đạo quang dã",
+    "Tượng viết; Hàm chương khả trình, dĩ thì phát dã. Hoặc tòng vương sự, tri quang đại đỗ",
+    "Tượng viết: Quát nâng vô cữu, thận bất hại dã",
+    "Tượng viết: Hoàng thường nguyên cát, văn tại trung dã",
+    "Tượng viết: Long chiến vu dã, kỳ đạo cùng dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Xéo sương, váng rắn (?) là Âm mới đọng, dần đến thửa đạo, sẽ đến vàng rắn",
+    "Sự động của hào Sáu Hai, thẳng và vuông vậy; không tập, không gì không lợi, đạo đất tỏ vậy",
+    "Lời Tượng nói rằng: Ngậm văn vẻ có thể chính để tùy theo thì mà phát động vậy. Hoặc có theo đuổi công việc nhà vua, trí khôn sáng tỏ lớn lao vậy",
+    "Lời Tương nói rằng: Thắt túi không có lỗi, cẩn thận thì không có hại vậy",
+    "Quần vàng cả tốt, văn vẻ ở trong vậy",
+    "Lời Tượng nói rằng: Rồng đánh nhau ở đồng, thửa đạo cùng vậy"
+   ],
+   "dungAm": "Dụng Lục: Lợi vĩnh trinh",
+   "dung": "Hào dùng Sáu: Lợi về vĩnh viễn chính đính",
+   "ten": "Thuần Khôn",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 3,
+   "tenTrongSach": "Quẻ Truân",
+   "quaiTrongSach": "Khảm trên; Chấn dưới",
+   "loiQueAm": "Truân nguyên hanh lợi trinh, vật dụng hữu du vãng, lợi kiến hầu",
+   "loiQue": "Truân đầu cả, hanh thông, lợi tốt, chính bền, chớ dùng có thửa đi, lợi về dựng tước hầu",
+   "thoanAm": "Thoán viết: Truân, cương nhu thủy giao nhi nạn sinh, động hồ hiểm trung, đại hanh trinh, lôi vũ chi động mãn doanh. Thiên tạo thảo muội, nghi kiến hầu nhi bất ninh",
+   "thoan": "Quẻ truân, cứng mềm mới giao nhau mà nạn sinh, động ở trong chỗ hiểm, cả hanh trinh, sấm mưa động đến đầy rẫy. Vận trời bối rối, mờ tối, nên dựng tước hầu, mả chớ cho là yên",
+   "loiTuongAm": "Tượng viết: Vân lôi Truân, quân tử dĩ kinh luân",
+   "loiTuong": "Lời Tượng nói rằng: Mây sấm là quẻ Truân, đấng quân tử coi đó mà sửa sang thiên hạ",
+   "haoAm": [
+    "Sơ Cửu: Bàn hoàn, lợi cư trinh, lợi kiến hầu",
+    "Lục Nhị: Truân như, chiên như, thừa mã ban như! Phỉ khẩu, hôn cấu. Nữ tử trinh bất tự, thập niên nãi tự",
+    "Lục Tam: Tức lộc vô ngu, duy nhập vu lâm trung, quân tử cơ bất như xả, vãng lận",
+    "Lục Tứ: Thừa mã ban như, cầu hôn cấu, vãng cát, vô bất lợi",
+    "Cửu Ngũ: Truân kỳ cao, tiểu trinh cát, đại trinh hung",
+    "Thượng Lục: Thừa mã ban như, khấp huyết liên như"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Quanh co, lợi về ở chính bền, lợi về dựng tước hầu",
+    "Hào Sáu Hai: Dường quanh co vậy, đường cưỡi ngựa rẽ ra vậy. Chẳng phải giặc: dâu gia. Con gái trinh tiết không đặt tên chữ, mười năm mới đặt tên chữ",
+    "Hào Sáu Ba: Theo hươu không có ngu nhân, chỉ vào trong rừng. Đấng quân tử biết cơ, không bằng bỏ đi thì hối tiếc",
+    "Hào Sáu Tư: Cưỡi ngựa dường rẽ ra vậy, tìm dâu gia, đi thì tốt, không gì không lợi",
+    "Hào Chín Năm: Gian truân thửa ơn huệ, nhỏ mà trinh thì lành, lớn mà trinh thì dữ",
+    "Hào Sáu Trên: Cưỡi ngựa dường rẽ ra vậy; khóc ra máu đầm đìa vậy"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tuy bàn hoàn, chí hành chính dã. Dĩ quý hạ tiện, đại đắc dân dã",
+    "Tượng viết: Lục Nhị chi nạn, thừa cương dã; thập niên nãi tự, phản thường dã",
+    "Tượng viết: Tức lộc vô ngu, dĩ tòng cầm dã; quân tử xả chi, vãng lận cùng dã",
+    "Tượng viết: Cầu nhĩ vãng, minh dã",
+    "Tượng viết: Truân kỳ cao, thỉ vị quang dã",
+    "Tượng viết: Khấp huyết liên như, hà khả trường dã?"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Dẫu quanh co có chí làm sự chính đính vậy. Là kẻ sang, chịu dưới kẻ hèn, cả được dân vậy",
+    "Lời Tượng nói rằng: Cái nạn của hào Sáu Hai là vì cưỡi lên Dương cương. Mười năm mới đặt tên chữ, trở lại sự thường vậy",
+    "Lời Tượng nói rằng: Theo hươu không có ngu nhân, vì theo mồi vậy. Đấng quân tử bỏ đó, là vì thì hối tiếc cùng khốn",
+    "Lời Tượng nói rằng: Tìm mà đi, sáng vậy",
+    "Lời Tượng nói rằng: Truân thửa ơn huệ, ơn đức chưa sáng vậy",
+    "Lời tượng nói rằng: Khóc ra máu đầm đìa vậy, sao thể lâu được!"
+   ],
+   "ten": "Thủy Lôi Truân",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 4,
+   "tenTrongSach": "Quẻ Mông",
+   "quaiTrongSach": "Cấn trên; Khảm dưới",
+   "loiQueAm": "Mông hanh, phỉ ngã cầu đồng mông, đồng mông cầu ngã. Sơphệ cốc, tái tam độc, độc tắc bất cốc, lợi trinh",
+   "loiQue": "Quẻ Mông hanh, chẳng phải ta tìm trẻ thơ, trẻ thơ tìm ta. Mới bói bảo: hai, ba lần nhàm, không bảo. Lợi về sự chính",
+   "thoanAm": "Thoán viết: Mông, sơn hạ hữu hiểm, hiểm nhi chỉ, Mông Mông hanh dĩ hanh hành thì trung dã. Phỉ ngã cầu đồng mông, đồng mông cầu ngã, chí ứng dã Sơ phệ, cốc, dĩ cương trung dã; tái tam độc, độc tắc bất cốc, độc mông dã Mông dĩ dưỡng chính, thánh công dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Mông, dưới núi có chỗ hiểm, hiểm mà đỗ, là Mông Quẻ Mông hanh, dùng lẽ hành mà làm cho đúng mực giữa của thời vậy. Chẳng phải ta tìm trẻ thơ, trẻ thơ tìm ra, chí ứng nhau vậy Mới bói, bảo, vì cứng giữa vậy; hai ba lần, nhàm, nhàm thì không bảo, vì làm nhàm trẻ thơ vậy Trẻ thơ để nuôi sự đính chính, công bậc thánh vậy",
+   "loiTuongAm": "Tượng viết: Sơn hạ xuất tuyền, Mông, quân tử dĩ quả hạnh, dục đức",
+   "loiTuong": "Lời tượng nói rằng: Dưới núi ra suối, là quẻ Mông, đấng quân tử coi đó mà quyết việc làm, nuôi lấy đức",
+   "haoAm": [
+    "Sơ Lục: Phát mông, lợi dụng hình nhân, dụng thoát chất cốc, dĩ vãng, lận",
+    "Cửu Nhị: Bao Mông, cát! Nạp phụ, cát Tử khắc gia",
+    "Lục Tam: Vật dụng thử nữ, kiến kim phu, bất hữu cung, vô du lợi",
+    "Lục Tứ: Khẩn mông, lận",
+    "Lục Ngũ: Đồng mông, cát!",
+    "Thượng Cửu: Kích mông, bất lợi vi khấu, lợi ngự khấu"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Mở mang trẻ thơ, lợi dùng về sự hình phạt người ta để thoát gông cùm, đi thì hối tiếc",
+    "Hào Chín Hai: Bao dung trẻ thơ, tốt! Nộp vợ, tốt! Con trị nhà!",
+    "Hào Sáu Ba: Chớ dừng lấy gái, thây chồng vàng không có mình, không thửa lợi",
+    "Hào Sáu Tư: Khốn về tăm tối, hối tiếc",
+    "Hào Sáu năm: Trẻ thơ, tốt!",
+    "Hào Chín Trên: Đánh kẻ tối tăm, không lợi cho sự làm giặc, lợi cho sự chống giặc"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Lợi dụng hình nhân, dĩ chính pháp dã",
+    "Tượng viết: Tử khắc gia, cương tiếp nhu dã",
+    "Tượng viết: Vật dạng thủ nữ, hạnh bất thuận dã",
+    "Tượng viết: Khôn mông chi lận, độc viễn thật dã",
+    "Tượng viết: Đồng mông chi cát, thuận dĩ tốn dã",
+    "Tượng viết: Lợi dụng ngự khâu, thượng hạ thuận dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Lợi dụng hình phạt người, để chính pháp vậy",
+    "Lời Tượng nói rằng: Còn trị được nhà, cứng tiếp mềm vậy",
+    "Lời Tượng nói rằng: Chớ dùng lấy gái, nết không thuận vậy",
+    "Lời Tượng nói rằng: Sự hối tiếc của kẻ khốn về tối tăm, một mình xa sự thật (?) vậy",
+    "Lời Tượng nói rằng: sự tốt của trẻ thơ, thuận và nhũn vậy",
+    "Lời Tượng nói rằng: Lời về sự chống giặc, trên dưới đều thuận vậy"
+   ],
+   "ten": "Sơn Thủy Mông",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 5,
+   "tenTrongSach": "Quẻ Nhu",
+   "quaiTrongSach": "Khảm trên; Kiền dưới",
+   "loiQueAm": "Nhu, hữu phu, quang, hanh, trinh, cát, lợi thiệp đại xuyên",
+   "loiQue": "Quẻ Nhu, có đức tin, sáng láng, hanh thông, chính bền, tốt! Lợi sang sông lớn",
+   "thoanAm": "Thoán viết: Nhu, tu dã; hiểm tại tiền dã; cương kiện nhi bất hãm, kỳ nghĩa bất khôn cùng hỹ Nhu hữu phu, quang, hanh, trinh, cát, vị hồ thiên vị, dĩ chính trung dã; lợi thiệp đại xuyên, vãng hữu công dã",
+   "thoan": "Lời thoán nói rằng: Nhu tức là đợi, chỗ hiểm ở trước vậy. Cứng mạnh mà không bị hãm, nghĩa là nó không khốn cùng rồi Quẻ Nhu có đức tin, sáng láng, hanh thông, chính bền, tốt, là vì ở vào ngôi trời, để chính giữa vậy. Lợi về sự sang sông lớn, đi thì có công vậy",
+   "loiTuongAm": "Tượng viết: Vân thướng ư thiên, Nhu, quân tử dĩ ẩm thực yến lạc",
+   "loiTuong": "Lời tượng nói rằng: mây lên trời, là quẻ Nhu, đấng quân tử coi đó mà ăn uống yên vụi",
+   "haoAm": [
+    "Sơ Cửu: Nhu vu giao, lợi dụng hằng, vô cữu",
+    "Cửu Nhị: Nhu vu sa, tiểu hữu ngôn, chung cát",
+    "Cửu Tam: Nhu vu nê, trí khâu chí",
+    "Lục Tử: Nhu vu huyết, xuất tự huyệt",
+    "Cửu Ngũ: Nhu vu tử thực, trinh cát",
+    "Thượng Lục: Nhập vu huyệt, hữu bất tốc chi khách tam nhân lại, kinh chi, chung cát"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Đợi ở đồng, lợi về dùng lẽ hằng. Không có lỗi",
+    "Hào Chín Hai: Đợi ở bãi cát, hơi có điều tiếng, sau chót tốt",
+    "Hào Chín ba: Đợi ở bùn, dắt gỉặc đến",
+    "Hào Sáu Tư: Đợi chưng máu, ra tự hang",
+    "Hào Chín Năm: Đợi chưng rượu cơm, chính tốt!",
+    "Hào Chín Trên: Vào chung hang, có ba người khách không mời mà đến, kính trọng họ, sau chót tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Nhu vu giao, bất phạm hành giã, lợi dụng hằng, vô cữu, vị thất thường giã",
+    "Tượng viết: Nhu Vu sa, diễn tại trung dã, tuy tiểu hữu ngôn, dĩ trung cát dã",
+    "Tượng viết: Nhu vu nê, tai tại ngoại dã; tự ngã trí khâu, kính thận bất bại dã",
+    "Tượng viết: Nhu vu huyết, thuận dĩ thính dă",
+    "Tượng viết: Tửu thực trình cát, dĩ trung chính dã",
+    "Tượng viết: Bất tốc chi khách lai, kính chi chung cát, tuy bất đáng vị, vị đại thất dã"
+   ],
+   "tieuTuong": [
+    "Đợi ở đồng không phạm vào chỗ hiểm nạn vậy, lợi dụng đạo thường, không lỗi, vì chưa sai mất đạo thường vậy",
+    "Lời Tượng nói rằng: Đợi ở cát là rộng rãi ở trong vậy, tuy là hơi có điều tiếng, về sau là được tốt vậy",
+    "Lời Tượng nói rằng: Đợi ở bùn, hại ở ngoài vậy; tự mình dắt giặc, kính thận thì không thất bại vậy",
+    "Lời Tượng nói rằng: Đợi chưng máu, thuận mà nghe vậy",
+    "Lời tượng nói rằng: Rượu cơm chính tốt, vì trung chính vậy",
+    "Lời Tượng nói rằng: Khách không mời mà đến, kính họ, sau tốt, tuy không đáng ngôi, mà chưa hỏng lắm vậy"
+   ],
+   "ten": "Thủy Thiên Nhu",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 6,
+   "tenTrongSach": "Quẻ Tụng",
+   "quaiTrongSach": "Kiền trên; Khảm dưới",
+   "loiQueAm": "Tụng, hữu phu chất Dịch, trung cát, chung hung, lợi kiến đại nhân, bất lợi thiệp đại xuyên",
+   "loiQue": "Kiện, có thật, bị lấp, phải sợ, vừa phải, tốt; theo đuổi đến chót, xấu; lợi về sự thấy người lớn, không lợi về sự sang sông lớn",
+   "thoanAm": "Thoắn viết: Tụng, thượng cương hạ hiểm, hiểm nhi kiện, Tụng Tụng hữu phu, chất Dịch, trung cát, cương lai nhi đắc trung dã; chung hung, tụng bất khả thành dã; lợi kiến đại nhân, thượng trung chính dã; bất lợi thiệp đại xuyên, nhập vu uyên dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Tụng, trên cứng dưới hiểm, hiểm mà mạnh, là quẻ Tụng Kiện có sự thật, bị lấp, phải sợ, vừa phải tốt, cứng lại mà được vừa phải vậy: theo đuổi đến chót thì xấu, việc kiện không thể thành vậy; lợi về sự thấy người lớn, chuộng sự trung chính vậy; không lợi về sự sang sông lớn, vào chưng vực vậy",
+   "loiTuongAm": "Tượng viết: Thiên dữ thủy vi hành, Tụng, Quân tử dĩ tác sự mưu thủy",
+   "loiTuong": "Lời Tượng nói rằng: Trời với nước đi trái nhau, là quẻ Tụng, đấng quân tử coi đó mà dấy việc mưu tính lúc đầu",
+   "haoAm": [
+    "Sơ Lục: Bất vĩnh sở sự, tiểu hữu ngôn, chung cát",
+    "Cửu Nhị: Bất khắc tụng, quỉ nhi bộ, kỳ ấp nhân tam bách hộ, vô sảnh",
+    "Lục Tam: Thực cực đức, trinh lệ, chung cát hoặc cống vương sự, vô thành",
+    "Cửu Tứ: Bất khắc tụng, phục tức mệnh, thầu an trinh cát",
+    "Cửu Ngũ, Tụng nguyên cát",
+    "Thượng Cửu: Hoặc tích chi bàn đái, chung triêu tam trĩ chi"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Chẳng lâu dài về việc của mình, hơi có điều tiếng, sau tốt",
+    "Hào Chín Hai: Không được kiện, về mà trốn người làng mình ba trăm hộ, không có tội lỗi",
+    "Hào Sáu Ba: Ăn về đức cũ, chính bền, lo sợ sau tốt, hoặc theo việc vua, không thành",
+    "Hào Chín Tư: Không thể kiện, lại theo mệnh đổi ra yên bề chính bền, tốt!",
+    "Hào Chín Năm: Kiện cả tốt",
+    "Hào Chín Trên: hoặc cho chiếc dải lưng da, trọn buổi sáng, ba lần lột lại"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Bất vĩnh sở sự, tụng bất khả trường dã; tuy tiểu hữu ngôn, kỳ biện minh dã",
+    "Tượng viết: Bất khắc tụng qui bộ, thoán dã; tự hạ tụng thượng, hoạn chí, suyết dã",
+    "Tượng viết: Thực cựu đức, tòng thượng cát dã",
+    "Tượng viết: Phục tức mệnh, thâu an trinh, bất thất dã",
+    "Tượng viết: Tụng nguyên cát, dĩ trung chính dã",
+    "Tượng viết: Dĩ tụng thụ phục, diệc bất túc kính dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Chẳng lâu dài về việc của mình, việc kiện không thể kéo dài vậy. Dẫu là hơi có điều tiếng; sự phân biệt không được rõ ràng vậy",
+    "Lời Tượng nói rằng: Không được kiện, về trốn, là đi lánh vậy, tự dưới kiện lên, hoạn nạn tới, nhặt lấy vậy",
+    "Lời Tượng nói rằng: Ăn đức cũ, và theo người trên thì tốt vậy",
+    "Lời Tượng nói rằng: Lại theo mệnh, đổi ra an bề chính bền, không lỗi vậy",
+    "Lời Tượng nói rằng: Kiện cả tốt, vì trung chính vậy",
+    "Lời Tượng nói rằng: Vì kiện mà nhận đồ mặc, cũng không đủ kính vậy"
+   ],
+   "ten": "Thiên Thủy Tụng",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 7,
+   "tenTrongSach": "Quẻ Sư",
+   "quaiTrongSach": "Khôn trên; Khảm dướỉ",
+   "loiQueAm": "Sư Trinh, trượng nhân cát, vô cữu",
+   "loiQue": "Quân chính, bậc trượng nhân tốt, không lỗi",
+   "thoanAm": "Thoán viết: Sư chúng dã, trinh chính dã, năng dĩ chúng chính, dĩ chúng chính, khả dĩ vương hỷ Cương trung nhi ứng, hành hiểm nhi thuận, dĩ thử độc thiên hạ nhi dân tòng chi, cát, hựu hà cữu hỹ?",
+   "thoan": "Lời Thoán nói rằng: Sư là nhiều người, trinh là chính, khiến được nhiều người chính đính, thì có thể làm nên nghiệp vương Cứng giữa mà có chính ứng, đi chỗ hiểm mà xuôi thuận, dùng cái đó để làm độc hại thiên hạ mà dân theo, tốt! Còn lỗi gì nữa?",
+   "loiTuongAm": "Tượng viết: Địa trung hữu thủy, Sư, quân tử dĩ dung dân súc chúng",
+   "loiTuong": "Lời Tượng nói rằng: Trong đất có nước, là quẻ sư, đấng quân tử coi đó là dung dân, nuôi quân",
+   "haoAm": [
+    "Sơ Lục: Sư xuất dĩ luật, phủ tang, hung",
+    "Cửu Nhị: Tại Sư trung cát, vộ cữu, vương tam tích mệnh",
+    "Lục Tam: Sư„ hoặc dư thi, hung",
+    "Lục Tứ: Sư tả thứ, vô cữu",
+    "Lục Ngũ: Điền hữu cầm, lợi chấp ngôn, vô cữu, trường tử suất sư, đệ tử dư thi, trinh hung",
+    "Thượng Lục: Đại quân hữu mệnh, khai quốc thừa gia, tiểu nhân vật dụng"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Quân ra bằng luật, không khéo thì hung",
+    "Hào Chín Hai: Ở trong quân, vừa phải thì tốt, không lỗi, nhà vua ba lần cho mệnh",
+    "Hào Sáu Ba: Quân hoặc khiêng thây, hung",
+    "Hào Sáu Tư:Quân lùi đóng, không lỗi",
+    "Hào Sáu Năm. Ruộng có chim, lợi chữ sự có lời để nói. Con cả đem quân, con em khiêng thây, chinh cũng hung",
+    "Hào Sáu Trên: Đấng đại quân có mệnh, mở nước vâng nhà, kẻ tiểu nhân chớ dùng"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Sư xuất dĩ luật, thất luật hung dã",
+    "Tượng viết: Tại Sư trung, cát, thừa thiên sủng dã; vương tam tích mệnh, hoài vạn bang dã",
+    "Tượng viết: Sư hoặc dư thi, đại vô công dã",
+    "Tượng viết: Tả thứ vô cữu, vị thất thường dã",
+    "Tượng viết: Trưởng tử suất sư; dĩ trung hành dã; đệ tử dư thi, sử bất đáng dã",
+    "Tượng viết: Đại quân hữu mệnh, dĩ chính công dã; tiểu nhân vật dụng, tất loạn bang"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Quân ra bằng luật, mất luật hung vậy",
+    "Lời Tượng nói rằng: Ở trong quân, vừa phải thì tốt, vâng sự yêu của trời vậy; nhà vua ba lần cho mệnh, làm cho muôn nước nhớ mến vậy",
+    "Lời Tượng nói rằng: Quân hoặc khiêng thây, rất không công vậy",
+    "Lời Tượng nói rằng: Lùi đóng không lỗi, chưa mất lẽ thường vậy",
+    "Lời Tượng nói rằng: Con cả đem quân theo đạo giữa mà đi vậy; con em khiêng thây, sai khiến không được xứng đáng vậy",
+    "Lời Tượng nói rằng: Đấng đại quân có mệnh, để chính công vậy; kẻ tiểu nhân chớ dùng, ắt loạn nước vậy"
+   ],
+   "ten": "Địa Thủy Sư",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 8,
+   "tenTrongSach": "Quẻ Tỵ",
+   "quaiTrongSach": "Khảm trên; Khôn dưới",
+   "loiQueAm": "Tỵ cát, nguyên phệ nguyên, vĩnh, trinh, vô cữu. Bất ninh phương lai, hậu phu hung",
+   "loiQue": "Liền nhau tốt, truy nguyên việc bói, đầu cả, lâu dài, chính bền, không lỗi! Chẳng yên mới lại, sau trễ trượng phu, hung!",
+   "thoanAm": "Thoán viết: Tỵ cát dã; tỵ phụ dã, hạ thuận tòng dã; nguyên phệ nguyên vĩnh trinh, vô cữu, dĩ cương trung dã; bất ninh phương lai, thượng hạ ứng dã; hậu phu hung, kỳ đạo cùng dã",
+   "thoan": "Lời Thoán nói rằng: Tỵ là tốt, tỵ là giáp lại, kẻ dưới thuận theo vậy; truy nguyên việc bói, đầu cả, lâu dài, chính bền, không lỗi, vì cứng giữa vậy, không yên mới lại, trên dưới ứng nhau vậy: sau trượng phu, hung, vì đạo cùng vậy",
+   "loiTuongAm": "Tượng viết: Địa thượng hữu thuỷ, Tỵ tiền vương dĩ kiến vạn quốc, thân chư hầu",
+   "loiTuong": "Lời Tượng nói rằng: Trên đất có nước, là quê Tỵ, đấng Tiên vương coi đó mà dựng muôn nước, thân chư hầu",
+   "haoAm": [
+    "Sơ Lục: Hữu phu, tỵ chi, vô cữu. Hữu phu doanh phẫu, chung lai hữu tha cát",
+    "Lục Nhị: Tỵ chi tự nội, trinh cát",
+    "Lục Tam: Tỵ chi phỉ nhân",
+    "Lục Tứ: Ngoại tỵ chi, trinh cát",
+    "Cửu Ngũ: Hiền tỵ, vương dụng tam khu, thất tiền cầm, ấp nhân bất giới, cát",
+    "Thượng Lục: Tỵ chi vô thủ, hung"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Có tin, liền lại đó, không lỗi. Có tin đầy chậu, trọn lại có sự tốt khác",
+    "Hào Sáu Hai: Liền lại tự bên trong, chính và tốt",
+    "Hào Sáu Ba: Liền với người không đáng liền",
+    "Hào Sáu Tư: Kẻ ngoài liền lại với, chính tốt!",
+    "Hào Chín Năm: Rõ rệt liền lại, nhà vua dùng đuổi ba mặt, mất con chim ở phía trước người làng không bảo, tốt",
+    "Hào Sáu Trên: Gần liền không đầu, hung"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tỵ chi Sơ Lục, hữu tha cát dã",
+    "Tượng viết: Tỵ chi tự nội, bất tự thất dã",
+    "Tượng viết: Tỵ chi phỉ nhân, bất diệc thương hồ?",
+    "Tượng viết: Ngoại tỵ ư hiền, dĩ tòng thượng dã",
+    "Tượng viết: Hiển tỵ chi cát, vị chính trung dã; xả nghịch thủ thuận, thất tiền cầm dã; ấp nhân bất giới, thượng sử trung dã",
+    "Tượng viết: Tỵ chi vô thủ, vô sở chung dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Hào Sáu Đầu của quẻ Tỵ, có sự tốt khác vậy",
+    "Lời Tượng nói rằng: Liền lại tự bên trong, mình không làm mất phẩm giá của mình vậy",
+    "Lời Tượng nói rằng: Liền lại với kẻ không đáng liền, chẳng cũng đáng thương sao?",
+    "Lời Tượng nói rằng: Bên ngoài gần liền với người hiền, để mà theo người trên vậy",
+    "Lời Tượng nói rằng: Tỏ rõ sự gần liền mà tốt, vì trung chính vậy, bỏ nghịch lấy thuận, mất con chim ở phía trước vậy; người làng không bảo, người trên sai khiến được vừa phải vậy",
+    "Lời Tượng nói rằng: Liền lại không đầu, không thửa chót vậy"
+   ],
+   "ten": "Thủy Địa Tỷ",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 9,
+   "tenTrongSach": "Quẻ Tiểu Súc",
+   "quaiTrongSach": "Tốn trên; Kiền dưới",
+   "loiQueAm": "Tiểu súc hanh, mật vân bất vũ, tự ngã tây giao",
+   "loiQue": "Chứa nhỏ hanh thông, mây dầy không mưa, tự cõi tây ta",
+   "thoanAm": "Thoán viết: Tiểu xúc, nhu đắc vị nhi thượng hạ ứng chi, viết Tiểu súc Kiện nhi tốn, cương trung nhi chí hành, nãi hanh. Dịch nghĩa. Mạnh mà nhún, cứng giữa mà chí ý được, thì hành, mới hanh thông Mật vân bất vủ, thượng vãng dã; tự ngã tây giao, thí vị hành dã",
+   "thoan": "Lời thoán nói rằng: Quẻ tiểu súc, mềm được ngôi mà trên dưới ứng nó, gọi là chứa nhỏ  Mây dày không mưa, vì còn đi vậy; tự coi tây ta, sự thi thố chưa được thực hành vậy",
+   "loiTuongAm": "Tượng viết: Phong hành thiên thượng, Tiểu súc, quân tử dĩ ý văn đức",
+   "loiTuong": "Lời Tượng nói rằng: Gió đi trên trời là quẻ Tiểu súc, đấng quân tử coi đó mà làm cho tốt đức văn",
+   "haoAm": [
+    "Sơ Cửu: Phục tự đạo, hà kỳ cữu? Cát",
+    "Cửu Nhị: Khiên phục, cát",
+    "Cửu Tam: Dư thoát bức, phu thê phản mục",
+    "Lục Tứ: Hữu phu, huyết khứ, dịch xuất, vô cữu",
+    "Cửu Ngủ: Hữu phu loan như, phú dĩ kỳ lân",
+    "Thượng cửu: Ký vũ, ký xử, thượng đức tái, phụ trinh lệ, Nguyện cơ vọng, quân tử chinh hung"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Trở lại từ đường, còn lỗi gì? Tốt!",
+    "Hào Chín Hai: Giật trở lại, tốt",
+    "Hào Chín Ba: Xe trụt bánh, chồng vợ trở mắt",
+    "Hào Sáu Tư: Có tin, máu đi, sợ ra, không lỗi",
+    "Hào Chín Năm: Có tin, dường co quẹo vậy, giàu vì láng giềng",
+    "Hào Chín Trên: Đã mưa, đã ở, chuộng đức chở, đàn bà chính bên, nguy! Mặt trăng hầu đến tuần vọng, đấng quân tử đi thì hung"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Phục tự đạo, kỳ nghĩa cát dã",
+    "Tượng viết: Khiên phục tại trung, diệc bất tự thất dã",
+    "",
+    "Tượng viết: Hữu phu, dịch xuất, thượng hợp chí dã",
+    "Tượng viết: Hữu phu loan như, bất độc phú dã",
+    "Tượng viết: Ký vũ, ký sử, đức tình tài dã; quân tử chinh hung, hữu sở nghi dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Trở lại tự đường, thửa nghĩa tốt vậy",
+    "Lời Tượng nói rằng: Dắt lại ở giữa, cũng là không tự mất vậy",
+    "Lời Tượng nói rằng: Chồng vợ trở mắt, không chính được cửa nhà vậy",
+    "Lời Tượng nói rằng: Có tin, sợ ra, trên hợp chí vậy",
+    "Lời Tượng nói rằng: Có tin dường co quẹo vậy, là không giàu một mình vậy",
+    "Lời Tượng nới rằng: Đã mua, đã ở, đức chứa chở vậy; đấng quân tử đi thì hung, cớ thửa ngờ vậy"
+   ],
+   "ten": "Phong Thiên Tiểu Súc",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 10,
+   "tenTrongSach": "Quẻ Lý",
+   "quaiTrongSach": "Kiền trên;Đoái dưới",
+   "loiQueAm": "Lý hổ vĩ, bất chất nhân, hanh!",
+   "loiQue": "Xéo đuôi cọp, không cắn người, hanh!",
+   "thoanAm": "Thoán viết: Lý, nhu lý cương dã; duyệt nhi ứng hồ Kiền, thị dĩ lý hổ vĩ, bất chất nhân, hanh.Cương trung chính, lý đế vị bất khứu, quang minh dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Lý là mềm xéo theo cứng. Đẹp lòng mà ứng với trời, thế cho nên xéo đuôi cọp, không cắn người, hanh. Dương cương trung chính, xéo ngôi vua mà không mỏi mệt, sáng láng vậy",
+   "loiTuongAm": "Tượng viết: Thượng thiên hạ trạch, Lý, quân tử dĩ biện thượng hạ, định dân chí",
+   "loiTuong": "Lời Tượng nói rằng: Trên trời dưới chằm, là quẻ Lý, đấng quân vương coi đó mà phân biệt trên dưới, định chí dân",
+   "haoAm": [
+    "Sơ Cửu: Tố lý, vãng vô cữu",
+    "Cửu Nhị: Lý đạo thản thản, u nhân trinh cát",
+    "Lục Tam: Diểu năng thị, bí năng lý, lý hổ vĩ, chất nhân hung, vũ nhân vi vu đại quân",
+    "Cửu Tứ: Lý hổ vỹ, tố tố chung cát",
+    "Cửu Ngủ: Quải lý, trinh lệ",
+    "Thượng Cửu: Thị lý khảo tường, kỳ tuyền nguyên cát"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Xéo theo sự vốn có, đi, không lỗi",
+    "Hào Chín Hai: Xéo đường bằng phẳng, người uẩn chính bền thì tốt",
+    "Hào Sáu Ba: Chột biết trông, què biết xéo, xéo đuôi cọp, cắn người, hung. Kẻ vũ nhân làm đấng đại quân",
+    "Hào Chín Tư: Xéo đuôi cọp, nơm nớp, sau chót tốt",
+    "Hào Chín Năm: Quyết xéo, chính bền nguy!",
+    "Hào Chín Trên: Coi sự xéo, xét điềm lành thửa quanh cả tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tố lý chi vãng, độc hành nguyện dã",
+    "Tượng viết: U nhân trinh cốt, trung bất tự loạn dã",
+    "Tượng viết: Diểu năng thị, bất túc dĩ hữu minh dã; bí năng lý, bất túc dĩ dữ hành dã. Chất nhân chỉ hung, vị bất đáng dã; vũ nhân vi vu đại quân, chí cương dã",
+    "Tượng viết: Tố tốc chung cát, chí hành dã",
+    "Tượng viết: Quải lý trinh lệ, vị chính đáng dã",
+    "Tượng viết: Nguyên cát tại thượng, đại hữu khác dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Việc đi của kẻ xéo theo sự vốn có, tức là một mình làm theo chí nguyện vậy",
+    "Lời Tượng nói rằng: Người u uẩn chính bền thì tốt, trong chẳng tự rối vậy",
+    "Lời Tượng nói rằng: Chột biết trông, không đủ để có sáng vậy, què biết xéo, không đủ để cùng đi vậy. Cái “hung” của sự cắn người, ngôi không đáng vậy; kẻ vũ nhân muốn làm đấng đại quân, chí cứng vậy",
+    "Lời Tượng nói rằng: Nơm nớp, sau chót tốt, chí đi vậy",
+    "Lời Tượng nói rằng: Quyết xéo, chính bền, nguy ngôi chính đáng vậy",
+    "Lời Tượng nói rằng: Cả tốt ở trên, cả có phúc vậy"
+   ],
+   "ten": "Thiên Trạch Lý",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 11,
+   "tenTrongSach": "Quẻ Thái",
+   "quaiTrongSach": "Khôn trên ;Kiền dưới",
+   "loiQueAm": "Thái, tiểu văng, đại lai, cát hanh",
+   "loiQue": "Quẻ Thái, nhỏ đi, lớn lại, lành tốt hanh thông",
+   "thoanAm": "Thoán viết: Thái tiểu vãng, đại lai, cát hanh, tức thị thiên địa giao nhi vạn vật thông dã; thượng hạ giao nhi kỳ chí đồng dã. Nội Dương nhi ngoại Âm, nội kiện nhi ngoại thuận, nội quân tử nhi ngoại tiểu nhân, quân tử đạo trưởng, tiểu nhân đạo tiêu dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Thái, nhỏ đi lớn lại, tốt và hanh thông, trời đất giao nhau mà muôn vật hanh thông vậy; trên dưới giao nhau mà trí giống nhau vậy. Trong Dương mà ngoài Âm, trong mạnh mà ngoài thuận, trong quân tử mà ngoài tiểu nhân, đạo quân tử lớn lên, đạo tiểu nhân tiêu đi vậy",
+   "loiTuongAm": "Tượng viết: Thiên địa giao. Thái; hậu dĩ tài thành thiên địa chỉ đạo, phụ tường thiên địa chi nghi, dĩ tả hữu dân",
+   "loiTuong": "Lời Tượng nói rằng: Trời đất giao nhau là quẻ Thái, ông vua coi mà sửa nên đạo của trời đất, giúp tập sự nên phải của trời đất, để đỡ đần dân",
+   "haoAm": [
+    "Sơ Cửu: Bạt mao nhự, dĩ kỳ vâng, chỉnh cắt",
+    "Cửu Nhị: Bao Hoang, dụng bằng hà, bất hà dĩ, bằng vong, đắc thượng vu trung hàng",
+    "Cửu Tam: Vô bình bất bi vô vãng bất phục, gian trinh, vô cữu, vật tuất kỳ phu, vu thực hữu phúc",
+    "Lạc Tứ: Phiên phiên, bất phú dĩ kỳ lân; bất gìới dĩ phu",
+    "Lục Ngũ: Đế Ất quy muội, dĩ chỉ, nguyên cát",
+    "Thượng Lục: Thành phục vu hoàng, vật dụng sư, tự ấp cáo mệnh, trinh lận!"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Nhổ cụm cỏ tranh, lấy vầng nó, đi tốt",
+    "Hào Chín Hai: Bao dung sự hoang rậm, dùng để tay không lội sông, không sót việc xa; bè cánh mất, được sánh ở hàng giữa",
+    "Hào Chín Ba: Không chỗ bằng phẳng nào không lồi lõm, không sự đi nào không trở lại. Khó nhọc, chính bền, chớ lo thừa sự tín, chưng việc ăn hưởng có phúc",
+    "Hào Sáu Tư: Phơi phới, chẳng giàu lấy thửa láng giềng, chẳng răn lấy tin",
+    "Hào Sáu Năm: Vua Đế Ất gả em gái, để có phúc cảtốt",
+    "Hào Sáu Trên: Thành trở về rãnh, chớ dùng quân tự ấp bảo mệnh, chính bền thẹn tiếc"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Bạt mao chinh cát, chí tại ngoại dã",
+    "Tượng viết: Bao hoang, đắc thượng vu trung hàng, dĩ quang đại dã",
+    "Tượng viết: Vô vãng bất phục, thiên địa tế dã",
+    "Tượng viết: Phiên phiên, bất phú, gìai thất thực dã; bất Giới dĩ phu, trung tâm nguyện dã",
+    "Tượng viết: Di chỉ, nguyên cát, trung dĩ hành nguyện dã",
+    "Tượng viết: Thành phục vu hoàng, kỳ mệnh loạn dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng viết rằng: Nhổ cỏ tranh, đi, tốt, chí ở ngoài vậy",
+    "Lời Tượng nói rằng: Bao dung sự hoang rậm, được sánh với hàng giữa, vì sáng lớn vậy",
+    "Lời Tượng nói rằng: Không sự đi nào không trở lại, trời đất giao tế với nhau vậy",
+    "Lời Tượng nói rằng: Phơi phới chẳng giàu, đều mất thật vậy, chẳng răn lấy tin, trong lòng muốn vậy",
+    "Lời Tượng nói rằng: Để nhận phúc, cả tốt, dùng mực giữa mà làm theo ý muốn vậy",
+    "Lời Tượng nói rằng: Thành trở về rãnh, thửa mệnh loạn vậy"
+   ],
+   "ten": "Địa Thiên Thái",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 12,
+   "tenTrongSach": "Quẻ Bĩ",
+   "quaiTrongSach": "Kiền trên; Khôn dưới",
+   "loiQueAm": "Bĩ chi phỉ nhân. Bất lợi quân tử trinh, đại vãng tiểu lai",
+   "loiQue": "Bỉ đây (?) chạng phải người. Chẳng lợi cho sự chính bền của đấng quân tử, lớn đi nhỏ lại",
+   "thoanAm": "Thoán viết: Bĩ chi phỉ nhân, bất lợi quân tử trinh, đại vãng tiểu lai, tắc thị thiên địa bất giao nhi vạn vật bất thông dã; thượng hạ bất giao nhi thiên hạ vô bang dã, nội Âm nhi ngoại Dương, nội nhu nhi ngoại cương, nội tiểu nhân nhi ngoại quân tử, tiểu nhân đạo trưởng: quân tử đạo tiêu dã",
+   "thoan": "Lời Thoán nói rằng: Bĩ đấy? Chẳng phải đạo người, chẳng lợi cho sự chính bền của đấng quân tử, lớn đi nhỏ lại, thì là trời đất thông giao nhau mà muôn vật không thông vậy; trên dưới không giao nhau mà thiên hạ không có nước vậy; trong Âm mà ngoài Dương, trong mềm mà ngoài cứng, trong kẻ tiểu nhân mà ngoài đấng quân tử, ấy là đạo kẻ tiểu nhân lớn lên, đạo đấng quân tử tiêu đi vậy",
+   "loiTuongAm": "Tượng viết: Tiên địa bất giao, Bĩ, quan tử dĩ kiệm đức ty nạn, bất khả vinh dĩ lộc",
+   "loiTuong": "Lời Tượng nói rằng: Trời đất không giao nhau là quẻ Bĩ, đấng quân tử coi đó để dè đức, lánh nạn, không thể vẻ vang bằng lộc",
+   "haoAm": [
+    "Sơ Lục: Bạt mao nhự dĩ kỳ vựng, trinh, cát hanh",
+    "Lục Nhị: Bao thừa, tiểu nhân cát, đại nhân bĩ, hanh",
+    "Lục Tam: Bao tu",
+    "Cửu Tứ: Hữu mệnh vô cữu, trù ly chỉ",
+    "Cửu Ngũ: Hưu phủ, đại nhân cát, kỳ vong, kỳ vong! Hệ vu bào tang",
+    "Thượng Cửu: Khuynh bĩ, tiên bĩ hậu hỷ"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Nhổ cụm cỏ tranh, lấy vầng nó, chính bền tốt lành hanh thông",
+    "Hào Sáu Hai: Bọc chứa sự vâng thuận, kẻ tiểu nhân tốt, đấng đại nhân bĩ, thì hanh thông",
+    "Hào Sáu Ba: Bọc chứa sự hổ thẹn",
+    "Hào Chín Tư: Có mệnh không lỗi, bè loại dính phúc",
+    "Hào Chín Năm: Nghĩ bĩ, đấng đại nhân tốt. Này mất! Này mất! Buộc cây dâu rậm",
+    "Hào Chín Trên: Nghiêng bĩ, trước bĩ sau mừng"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Bạt mao trinh cát, chí tại quân dã",
+    "Tượng viết: Đại nhân bĩ hanh, bất loạn quần dã",
+    "Tượng viết: Bao tu, vị bất đáng dã",
+    "Tượng viết: Hữu mệnh vô cữu, chí hành dã",
+    "Tượng viết: Đại nhân chi cát, vị chính đáng dã",
+    "Tượng viết: Bĩ chung tắc khuynh, hà, khả trường dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Nhổ cỏ tranh, chính bền thì tột, vì chí ở vua vậy",
+    "Lời Tượng nói rằng: Đấng đại nhân bĩ thì hanh thông, không loạn dân vậy",
+    "Lời tượng nói rằng: Bọc chứa sự hổ thẹn, ngồi không đáng vậy",
+    "Lời Tượng nói rằng: có mệnh không lỗi, chí ý được thực hành vậy",
+    "Lời tượng nói rằng: Đấng đại nhân được tốt, ngôi chính đáng vậy",
+    "Lời Tượng nói rằng: Bĩ chót thì nghiêng, sao khá dài vậy"
+   ],
+   "ten": "Thiên Địa Bĩ",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 13,
+   "tenTrongSach": "Quẻ Đồng Nhân",
+   "quaiTrongSach": "Kiền trên ; Ly dưới",
+   "loiQueAm": "Đồng nhân vu dã, hanh, lợi thiệp đại xuyên; lợi quân tử trinh",
+   "loiQue": "Cùng người ở đồng, hanh thông, lợi về sự sang sông lớn, lợi cho sự chính bền của đấng quân tử",
+   "thoanAm": "Thoán viết: Đồng nhân, nhu đắc vị, đắc trung nhi ứng hồ Kiền, viết Đồng nhân Đồng nhân viết Đông nhân vu dã, hanh, lợi thiệp đại xuyên Kiền hành dã Văn minh dĩ kiện, trung chính nhi ứng, quân tử chính dã Duy quân tử vi năng thông thiên hạ chi chí",
+   "thoan": "Lời Thoán nói rằng: Quẻ Đồng nhân, mềm được ngôi, được chỗ giữa, mà ứng với Kiền, gọi là Đồng nhân Quẻ Đồng nhân nói rằng Cùng với người đồng hanh thông! Lợi về sự sang sông lớn, trời đi vậy Văn vẻ sáng sủa và mạnh, trung chính để ứng nhau chính đạo của đấng quân tử vậy Chỉ đấng quân tử là có thể thông được chí thiên hạ",
+   "loiTuongAm": "Tượng viết: Thiên dữ hỏa, Đồng nhân, quan tử dĩ loại lộc biện vật",
+   "loiTuong": "Lời tượng nói rằng: Trời với lửa là quẻ Đồng nhân, đấng quân tử coi đó mà chia loại các giống, phân biệt các vật",
+   "haoAm": [
+    "Sơ Cửu: Đồng nhân vu môn, vô cữu",
+    "Lục Nhị: Đồng nhàn vu tông, lận",
+    "Cửu Tam: Phục nhung vu măng, thăng kỳ cao lăng, tam tuế bất hưng",
+    "Cửu Tứ: Thừa kỳ dung, phất khắc công, cát",
+    "Cửu Ngũ: Đồng nhân, tiên hào diếu nhi hậu tiếu, đại sự khắc tương ngộ",
+    "Thượng Cửu: Đồng nhân vu giao, vô hối"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Cùng người ở cửa, không lỗi",
+    "Hào Sáu Hai: Cùng người ở họ, đáng tiếc",
+    "Hào Chín Ba: Phục quân ở rừng, lên thửa gò cao, ba năm không dấy lên",
+    "Hào Chín Tư: Cưỡi thừa tường, không đánh được,tốt",
+    "Hào Chín Năm: Cùng với người, trước kêu gào mà sau cười, quân lớn được, gặp nhau",
+    "Hào Chín Trên: Cùng người ở đồng, không ăn năn"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Xuất môn đồng nhân, hựu thùy cữu dã?",
+    "Tượng viết: Đồng nhân vu tông, lận đạo dã",
+    "Tượng viết: Phục nhung vu mãng, địch cương dã; tam tuếbất hưng, an hành dã",
+    "Tượng viết: Thừa kỳ dung, nghĩa phất khắc dã, kỳ cát tắc khốn, nhi phản tắc dả",
+    "Tượng viết: Đồng nhân chi tiên, dĩ trung trực dã, đại sự tương ngộ, ngôn tương khắc dã",
+    "Tượng viết: Đồng nhân vu giao, chí vị đắc dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Ra cửa cùng người, còn ai trách vậy?",
+    "Lời Tượng nói rằng: Cùng người ở họ, cách đáng tiếc vậy",
+    "Lời Tượng nói rằng: Phục quân ở rừng, địch với kẻ cứng vậy, ba năm không dấy là đi không được vậy",
+    "Lời Tượng nói rằng: Cưỡi thửa tường, nghĩa không thể được vậy. Sự tốt đó thì là bị khốn mà biết quay lại phép tắcvậy",
+    "Lời Tượng nói rằng: Lúc trước sự cùng, người vì ở giữa mà thẳng vậy; quân lớn gặp nhau, ý nói được nhau vậy",
+    "Lời Tượng nói rằng: Cùng người ở đồng, chí chưa được vậy"
+   ],
+   "ten": "Thiên Hỏa Đồng Nhân",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 14,
+   "tenTrongSach": "Quẻ Đại Hữu",
+   "quaiTrongSach": "Ly trên;  Kiền dưới",
+   "loiQueAm": "Đại hữu nguyên hanh",
+   "loiQue": "Quẻ Đại hữu cả lớn hanh thông",
+   "thoanAm": "Thoán viết: Đại hữu, nhu đắc tôn vị, đại trung nhi thượng hạ ứng chi, viết Đại hữu. Kỳ đức cương kiện nhi văn minh, ứng hồ thiên nhi thì hành, thị dĩ nguyên hanh",
+   "thoan": "Lời Thoán nói rằng: Quẻ đại hữu, kẻ mềm được ngôi tôn, cả giữa mà trên dưới ứng nhau với nó, gọi là Đại hữu. Đức nó cứng mạnh mà văn vẻ sáng láng, ứng nhau với trời mà đi đúng thì, cho nên cả lớn hanh thông",
+   "loiTuongAm": "Tượng viết: Hỏa tại thiên thượng. Đại hữu, quân tử dĩ át ác dương thiện, thuận thiên hưu mệnh",
+   "loiTuong": "Lời Tượng nói rằng: Lửa cao ở trên trời, là quẻ Đại hữu, đấng quân tử coi đó mà ngăn kẻ ác, biểu dương người thiện, thuận theo mệnh tốt của trời",
+   "haoAm": [
+    "Sơ Cửu: Vô giao hại, phỉ cữu, nan tắc vô cữu",
+    "Cửu Nhị: Đại xa dĩ tái, hữu du văng, vô cữu",
+    "Cửu Tam: Công dụng hưởng vu thiên tử, tiểu nhân phất khắc",
+    "Cửu Tứ: Phỉ kỳ bàng, vô cữu",
+    "Lục Ngũ: Quyết phu giao như, uy như, cát",
+    "Thượng Cửu: Tự thiên hựu chi, cát, vô bất lợi"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Không dính tới sự hại, chẳng phải lỗi. Khó nhọc thì không lỗi",
+    "Hào Chín Hai: Xe lớn để chở, có thừa đi, không lỗi",
+    "Hào Chín Ba. Tước Công dùng hưởng của đấng thiên tử, kẻ tiểu nhân không thể được",
+    "Hào Chín Tư: Chẳng phải sự thịnh của mình; không lỗi",
+    "Hào Sáu Năm: Thửa tin dường giao nhau vậy, dường oai nghiêm vây, tốt",
+    "Hào Chín Trên: Tự trời giúp nó, tốt, không gì không lợi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Đại hữu Sơ Cửu, vô giao hại dã",
+    "Tượng viết: Đại xa dĩ tái, tích trung bất bại dã",
+    "Tượng viết: Công dụng hưởng vu thiên tử, tiểu nhân hại dã",
+    "Tượng viết: Phỉ kỳ bàng, vô cữu, minh biệt tích dã",
+    "Tượng viết: Quyết phu giao như, tín dĩ phát chí dã; uy như chi cát, dị nhi vô bị dã",
+    "Tượng viết: Đại hữu thượng cát, tự thiên hựu dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Quẻ Đại hữu hào Chín Đầu, chưa dính đến sự hại vậy",
+    "Lời Tượng nói rằng: Xe lớn để chở, chứa ở trong không hỏng vậy",
+    "Lời Tượng nói rằng: Tước Công dùng hưởng của đấng thiên tử, hại cho kẻ tiểu nhân vậy",
+    "Lời Tượng nói rằng: Chẳng phải sự thịnh, không lỗi, vì phân biệt rõ ràng vậy",
+    "Lời Tượng nói rằng: Thửa tin dường giao như vậy, dùng đức tin để phát chí ý vậy; dường oai nghiêm vậy mà tốt, vì khinh thường mà không phòng bị vậy",
+    "Lời Tượng nói rằng: Trên quẻ Đại hữu được tốt sự trời giúp vậy"
+   ],
+   "ten": "Hỏa Thiên Đại Hữu",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 15,
+   "tenTrongSach": "Quẻ Khiêm",
+   "quaiTrongSach": "Khôn trên;  Cấn dưới",
+   "loiQueAm": "Khiêm hanh, quân tử hữu chung",
+   "loiQue": "Quẻ Khiêm hanh thông, đấng quân tử có sau chót",
+   "thoanAm": "Thoán viết: Khiêm hanh, thiên đạo hạ tế nhi quang minh, địa đạo ty nhi thượng hành, thiên đạo khuy doanh nhi ích khiêm, địa đạo biến doanh nhi lưu khiêm, quỉ thần hại doanh nhi phúc khiêm, nhân đạo ố doanh nhi hiếu khiêm. Khiêm tốn nhi quang, ty nhi bất khả du, quân tử chi chung dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Khiêm hanh thông, đạo trời giúp xuống mà sáng láng, đạo đất thấp mà đi lên, đạo trời làm vơi chỗ đầy mà thêm chỗ khiêm, đạo đất biến đổi chỗ đầy mà trôi vào chỗ khiêm, quỉ thần làm hại chỗ đầy mà làm phúc cho chỗ khiêm, đạo người ghét chỗ đầy mà yêu chỗ khiêm. Sự khiêm cao mà sáng, thấp mà không hề vượt qua, đó là sau chót của đấng quân tử",
+   "loiTuongAm": "Tượng viết: Địa trung hữu sơn, Khiêm, quân tử dĩ biểu đa ích quả, xứng vật bình thi",
+   "loiTuong": "Lời Tượng nói rằng: Trong đất có núi, là quẻ Khiêm, đấng quân tử coi đó mà rút chỗ nhiều, thêm chỗ ít, cân lường các vật, làm cho sự thi thố được thăng bằng",
+   "haoAm": [
+    "Sơ Lục: Khiêm khiêm, quân tử, đụng thiệp đại xuyên,cát",
+    "Lục Nhị: Minh khiêm, trinh cát",
+    "Cửu Tam: Lao khiêm, quân tử hữu chung, cát",
+    "Lục Tứ: Vô bất lợi, vi khiêm",
+    "Lục Ngũ: Bất phú dĩ kỳ lân, lợi dụng xâm phạt, vô bất lợi",
+    "Thượng Lục: Minh khiêm, lợi dụng hành sư chính ấp quốc"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Đấng quân tử nhún nhún, dùng sang sông lớn, tốt",
+    "Hào Sáu Hai: Kiêu sự nhún, chính bền, tốt",
+    "Hào Chín Ba; Đấng quân tử nhọc mà nhún, sau chót, tốt",
+    "Hào Sáu Tư: Không gì không lợi, vung vẩy sự nhún",
+    "Hào Sáu Năm: Không giàu, sai khiến được láng giềng, lợi dụng lấn đánh, không gì không lợi",
+    "Hào Sáu Trên: Kêu sự nhún, lợi dụng trẩy quân đánh làng nước"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Khiêm khiêm, quân tử ty dĩ tự mạc dã",
+    "Tượng viết: Minh khiêm trinh cát, trung tâm đắc dã",
+    "Tượng viết: Lao khiêm quân tử, vạn dân phục dã",
+    "Tượng viết: Vô bất lợi, vi khiêm, bất vi tắc dã",
+    "Tượng viết: Lợi dụng xâm phạt, chinh bất phục dã",
+    "Tượng viết: Minh khiêm, chí vị đắc dã; khả dụng hành sự chinh ấp quốc dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Nhún nhún, đấng quân tử dùng sự thấp nhún để tự chăn vậy",
+    "Lời Tượng nói rằng: Kêu sự khiêm, chính bền tốt, được tự trong lòng vậy",
+    "Lời Tượng nói rằng: Đấng quân tử nhọc mà nhún, thì muôn dân phục vậy",
+    "Lời Tượng nói rằng. Không gì không lợi, vung vẩy sự nhún, không trái phép vậy",
+    "Lời Tượng nói rằng: Lợi dùng lấn đánh, đánh kẻ không phục vậy",
+    "Lời Tượng nói rằng: Kêu sự nhún, chí chưa thỏa vậy; có thể dùng để trẩy quân, đánh làng nước vậy"
+   ],
+   "ten": "Địa Sơn Khiêm",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 16,
+   "tenTrongSach": "Quẻ Dự",
+   "quaiTrongSach": "Cấn trên;  Khôn dưới",
+   "loiQueAm": "Dự, lợi kiến hầu, hành sư",
+   "loiQue": "Quẻ Dự, lợi cho sự dựng nước hầu, trẩy quân",
+   "thoanAm": "Thoán viết: Dự cương ứng nhi chí hành, thuận dĩ động, Dự Dự thuận dĩ động, cổ thiên địa như chỉ, nhi huống kiến hầu hành sư hồ! Thiên địa dĩ thuận động, cố nhật nguyệt bất quá, nhi tứ thì bất thắc; thánh nhân dĩ thuận động, tắc hình phạt thanh nhi dân phục Dự chi thì nghĩa đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Dự, kẻ cứng ứng với mà chí được thực hành, thuận để động, là quẻ Dự Vui thuận mà động, cho nên trời đất củng giống như nó, huống chi là dựng nước hầu trẩy quân! Trời đất dùng sự xuôi thuận mà động cho nên mặt trời mặt trăng không quá độ, bốn mùa không sai; đấng thánh nhân dùng sự xuôi thuận mà động thì hành phạt thanh giản mà muôn dân phục Thì nghĩa của quẻ Dự lớn vậy thay",
+   "loiTuongAm": "Tượng viết: Lôi xuất địa phấn, Dự, tiên vương dĩ tắc nhạc sủng đức, ân tiến chi thượng đế, dĩ phối tổ khảo",
+   "loiTuong": "Lời Tượng nói rằng; Sấm ra, đất chuyển, là quẻ Dự, đấng tiên vương coi đó mà làm nhạc, chuộng đức, thịnh dâng đức Thượng đế để phối ông cha",
+   "haoAm": [
+    "Sơ Lục: Minh dự, hung",
+    "Lục Nhị: Giới vu thạch, bất chung nhật, trinh cát",
+    "Lục Tam: Vu dự hối trì, hữu hối",
+    "Cửu Tứ: Do dự, đại hữu đắc, vật nghi, bằng hạp châm",
+    "Lục Ngũ: Trinh tật, hằng bất tử",
+    "Thượng lục: Minh dự thành, hữu thâu, vô cứu"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: kêu sự vui, hung!",
+    "Hào Sáu Hai: tiết tháo như đá, không trọn ngày, chính bền thì tốt",
+    "Hào Sáu Ba: Nhìn sự vui, ăn năn chậm, có ăn năn",
+    "Hào Chín Tư: Bởi đó là vui, cả có được, chớ nghi ngờ, bè bạn tụ họp",
+    "Hào Sáu Năm: Chính bền có tật, thường không chết",
+    "Lời Tượng nói rằng: Mờ tối về sự vui, việc thành rồi, có thay đổi, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Sơ Lục minh dự, chí cùng hung dã",
+    "Tượng viết bất chung nhật, trinh cát, dĩ trung chínhdã",
+    "Tượng viết: Vu dưhữu hốì, vị bất đáng dã",
+    "Tượng viết: Do dự, đại hữu đắc, chí đại hành dã",
+    "Tượng viết: Lục Ngũ trinh tật, thừa cương dã, hằng bất tử, trung vị vong dã",
+    "Tượng viết: Minh dự tại thượng, hà khả trường dã"
+   ],
+   "tieuTuong": [
+    "Lời tượng nói rằng: Hào Sáu Đầu reo sự vui, chí đã cùng cực là hung vậy",
+    "Lời Tượng nói rằng: Không trọn ngày, chính bền và tốt vì trung chính vậy",
+    "Lời Tượng nói rằng: Nhìn sự vui, có ăn năn, ngôi không đáng vậy",
+    "Lời Tượng nói rằng: Bởi đố mà vui, cả có được chí ý cả được thực hành vậy",
+    "Lời Tượng nói rằng: Hào Sáu Năm trinh mà có tật, là vì cưỡi lên kẻ cứng; thường không chết, là tại vì ngôi giữa chưa mất",
+    "Lời Tượng nói rằng: Tối tăm về sự vui ở trên, lâu dài sao được?"
+   ],
+   "ten": "Lôi Địa Dự",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 17,
+   "tenTrongSach": "Quẻ Tùy",
+   "quaiTrongSach": "Đoái trên ;  Chấndưới",
+   "loiQueAm": "Tùy nguyên hanh lợi trinh, vô cữu",
+   "loiQue": "Quẻ Tùy cả, lợi, trinh, không lỗi",
+   "thoanAm": "Thoán viết: Tùy, cương lai nhi hạ nhu, động nhi duyệt, Tùy Đại hanh trinh vô cữu, nhi thiên hạ tùy thì Tùy thì chỉ nghĩa đại hỷ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Tùy, cứng đến mà ở dưới mềm, động mà đẹp lòng, là quẻ Tùy Cả hanh trinh, không lỗi, mà thiên hạ tùy thì Cái nghĩa tùy thì lớn vậy thay",
+   "loiTuongAm": "Tượng viết: Trạch trung hữu lôi, Tùy, qưân tử dĩ hướng hối nhập yến tức",
+   "loiTuong": "Lời Tượng nói rằng: Trong chằm có sấm, là quẻ Tùy, đấng quân tử coi đó mà sắp tối vào nghỉ ngơi",
+   "haoAm": [
+    "Sơ Cửu: Quan hữu thâu, trinh cát, xuất môn giao hữu công",
+    "Lục Nhị: Hệ tiểu tử, thất trượng phu",
+    "Lục Tam: Hệ trượng phu, thất tiểu tử, tùy hữu cầu, đắc lợi, cự trinh",
+    "Cửu Tứ: Tùy hữu hoạch, trinh hung, hữu phu, tại đạo, dĩ minh, hà cữu?",
+    "Cửu Ngũ: Phu vu gia, cát",
+    "Thượng Lục: Câu hệ chi, nải tòng duy chi, vương dụng hưởng vu Tây sơn"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Quan có thay đổi, chính thì tốt, ra cửa kết bạn thì có công",
+    "Hào Sáu Hai: Quâi quít kẻ tiểu tử, mất đấng trượng phu",
+    "Hào Sáu Ba: Quấn quít đấng trượng phu, mất kẻ tiểu tử, theo mà có tìm, lợi về ở trinh",
+    "Hào Chín tư: Theo có được, chính mà hung; có tin, ở đạo, dùng sáng, lỗi gì?",
+    "Hào Chín Năm: Tin về kẻ lành, tốt",
+    "Hào Sáu Trên: Cầm buộc đó, bèn theo ràng đó, vua dùng hưởng ở non Tây"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Quan hữu thâu, tòng chính cát dã; xuất môn giao hữu công, bất thất dã",
+    "Tượng viết: Hệ tiểu tử, phất kiêm dữ dã",
+    "Tượng viết: Hệ trượng phu, chí xả hạ dã",
+    "Tượng viết: Tùy hữu hoạch, kỳ nghĩa hung dã; hữu phu tại đạo, minh công dã",
+    "Tượng viết: Phu vu gia, cát, vị chính trung dã",
+    "Tượng viết: Câu hệ chi, thượng cùng dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Quan có thay đổi, theo chính tốt vậy; ra cửa kết bạn có công, không lỗi vậy",
+    "Lời Tượng nói rằng: Quấn quít kẻ tiểu tử, không gồm cùng vậy",
+    "Lời Tượng nóỉ rằng: quấn quít đấng trượng phu chí bỏ kẻ dưới vậy",
+    "Lời Tượng nói rằng: Theo có được, nghĩa nó hung vậy; có tin, ở đạo, công của sự sáng vậy",
+    "Lời Tượng nói rằng: Tin về kẻ lành, tốt, vì ở ngôi chính giữa vậy",
+    "Lời Tượng nóỉ rằng: Cầm buộc đó, ở trên đã cùng vậy"
+   ],
+   "ten": "Trạch Lôi Tùy",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 18,
+   "tenTrongSach": "Quẻ Cổ",
+   "quaiTrongSach": "Cấn trên ;  Tốn dưới",
+   "loiQueAm": "Cổ nguyên hanh, lợi thiệp đại xuyên, tiên giáp tam nhật, hậu giáp tam nhật",
+   "loiQue": "Quẻ Cổ cả, hanh, lợi về sang sông lớn. Trước giáp ba ngày, sau giáp ba ngày",
+   "thoanAm": "Thoán viết: Cổ, cương thượng nhi nhu hạ, tốn nhi chỉ, cổ Cổ nguyên hanh nhi thiên hạ trị dã Lợi thiệp đại xuyên, văng hữu sự dã Tiên giáp tam nhật, hậu giáp tam nhật, chung tắc hữu thủy, thiên hành dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Cổ, cứng lên mà mềm xuống, nhún mà đậu, là quẻ Cổ Quẻ cổ cả hanh mà thiên hạ trị vậy Lợi về sang sông lớn, đi có việc vậy Trước giáp ba ngày, sau giáp ba ngày, chót thì có đầu, cuộc vận hành của trời đất vậy",
+   "loiTuongAm": "Tượng viết: Sơn hạ hữu phong, Cổ, quân tử dĩ chấn dân dục đức",
+   "loiTuong": "Lời Tượng nói rằng: Dưới núi có gió, là quẻ Cổ, đấng quân tử coi đó mà nhức dân nuôi đức",
+   "haoAm": [
+    "Sơ Lục: Cán phụ chi cổ, hữu tử, khảo vô cữu, lệ, chung cát",
+    "Cửu Nhị: Cán mẫu chi cổ, bất khả trinh",
+    "Cửu Tam: Cán phụ chi cổ, tiểu hữu hối, vô đại cữu",
+    "Lục Tứ: Dụ phụ chi cổ, vãng kiến lận",
+    "Lục Ngữ: Cán phụ chi cổ, dụng dự",
+    "Thượng Cửu: Bất sự vương hầu, cao thượng kỳ sự"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Cán đáng cuộc cổ của cha, có con, cho không lỗi, nguy ! Sau chót tốt",
+    "Hào Chín Hai: Cán đáng sự cổ của mẹ, không thể trinh",
+    "Hào Chín Ba: Cán đáng sự cổ của cha, hơi có ăn năn, không có lỗi lớn",
+    "Hào Sáu Tư: Rộng rãi với sự cổ của cha, đi thấy tiếc",
+    "Hào Sáu Năm: Cán đáng sự cổ của cha, dùng nhen",
+    "Hào Chín Trên: Chẳng thờ tước vương tước hầu, cao nâng thửa việc"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Cán mẫu chi cổ, ý thừa khảo dã",
+    "Tượng viết: Cán mẫu chi cổ, đắc trưng đạo dã. Dịch ngỉua. - Lời Tượng nói rằng: Cán đáng sự cổ của mẹ, được trung đạo vậy",
+    "Tượng viết: Cán phụ chi cổ, chung vô cữu dã",
+    "Tượng viết: Dụ phụ chi cổ, vảng vị đắc dã",
+    "Tượng viết: Cán phụ dụng dự, thừa dĩ đức dã",
+    "Tượng viết: Bất sự vương hầu, chí khả tắc dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Cán đáng sự cổ của cha, ý vâng cha vậy",
+    "",
+    "Lời Tượng nói rằng: Cán đáng sự cổ của cha, trọn không lỗi vậy",
+    "Lời Tượng nói rằng: Rộng rãi với sự cổ của cha, đi chưa được vậy",
+    "Lời Tượng nói rằng: Cán đáng cho cha, dùng vâng lây đức vậy",
+    "Lời Tượng nói rằng: Chẳng thờ tước vương, tước hầu, chí đáng làm phép vậy"
+   ],
+   "ten": "Sơn Phong Cổ",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 19,
+   "tenTrongSach": "Quẻ Lâm",
+   "quaiTrongSach": "Khôn trên; Đoái dưới",
+   "loiQueAm": "Lâm nguyên hanh lợi trinh, chí vu bát nguyệt hữu hung",
+   "loiQue": "Quẻ Lâm, cả, hanh, lợi, trinh, đến chưng tám tháng, có hung",
+   "thoanAm": "Thoán viết: Lâm, cương tẩm nhi trưởng, duyệt nhi thuận, cương trung nhi ứng, đại hanh dĩ chính, thiên chi đạo dã. Chí vu bát nguyệt hữu hung, tiêu bất cửu dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Lâm, đức cứng dần dần lớn lên, đẹp lòng mà thuận, cứng giữa mà ứng, cả hanh và chính, đạo của trời vậy. Đến chưng tám tháng có hung, sự tiêu đi không lâu vậy",
+   "loiTuongAm": "Tượng viết: Trạch thượng hữu địa, Lâm, quân tử dĩ giáo tư vô cùng, dung bảo dân vô cương",
+   "loiTuong": "Lời Tượng nói rằng: Trên chằm có đất là quẻ Lâm, đấng quân tử coi đó mà tứ dậy không cùng, dong giữ dân không bờ",
+   "haoAm": [
+    "Sơ Cửu: Hàm lâm, trình cát",
+    "Cửu Nhị: Hàm lâm, cát, vô bất lợi",
+    "Lục Tam: Cam Lâm, vô do lợi, ký ưu chi, vô cữu",
+    "Lục Tứ: Chí lâm, vô cữu",
+    "Lục Ngũ: Trí lâm, đại quân chi nghi, cát!",
+    "Thượng Lục: Đôn lâm, cát, vô cữu"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Đều tới, chính tốt",
+    "Hào Chín Hai: Đều tới, tốt, không gi không lợi",
+    "Hào Sáu Ba: Ngọt tới, không thửa lợi, đã lo đó, không lỗi",
+    "Hào Sáu Tư; Rất tới, không lỗi",
+    "Hào Sáu Năm: Khôn tới, sự nên của vua cả, tốt!",
+    "Hào Sáu Trên: Dầy tới, tốt, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Hàm lâm trinh cát, chí hành chính dã",
+    "Tượng viết: Hàm lâm, cát, vô bất lợi, vị thuận mệnh dã",
+    "Tượng viết: Cam lâm, vị bất đáng dã; kỳ ưu chi, cửu bất trường dã",
+    "Tượng viết: Chí lâm vô cữu, vị đáng dã",
+    "Tượng viết: Đại quân chi nghi, hành trung chi vị dã",
+    "Tượng viết: Đôn lâm chi cát, chí tại nội dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Đều tới chính tốt, chí ở làm sự chính đính vậy",
+    "Lời Tượng nói rằng: Đều tới, tốt, không gì không lợi, chưa thuận mệnh vậy",
+    "Lời Tượng nói rằng: Ngọt tới, ngôi không đáng vậy; đã lo đó, lỗi không dài vậy",
+    "Lời tượng nói rằng: rất tới không lỗi, ngôi đáng vậy",
+    "Lời Tượng nói rằng: Sự nên của vua cả, nghĩa là làm theo đức giữa vậy",
+    "Lời Tượng nói rằng: Dầy tới mà tốt, chí ở trong vậy"
+   ],
+   "ten": "Địa Trạch Lâm",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 20,
+   "tenTrongSach": "Quẻ Quán",
+   "quaiTrongSach": "Tốn trên; Khôn dưới",
+   "loiQueAm": "Quan, quán nhi bất tiến, hữu phu ngung nhược",
+   "loiQue": "Quẻ quan, rửa mà không cứng, có tin, dường cung kính vậy",
+   "thoanAm": "Thoán viết: Đại quan tại thượng, thuận nhi tốn, trung chính dĩ quan thiên hạ Quan, quán nhi bất tiến, hữu phu ngung nhược, hạ quan nhi hóa dã Quan thiên chỉ thần đạo nhi tứ thì bất thắc: thánh nhân dĩ thần đạo thiết giáo, nhi thiên hạ phục hỹ",
+   "thoan": "Lời Thoán nói rằng: Xem lớn ở trên, thuận mà nhún, trung chính để thiên hạ xem Quẻ quán, rửa mà không cúng, có tin, dường cung kính vậy, ấy là kẻ dưới xem mà hóa vậy Xem thần đạo của trời mà bốn mùa không sai; đấng thánh nhân dùng thần đạo đặt sự dạy bảo mà thiên hạ phục vậy",
+   "loiTuongAm": "Tượng viết: Phong hành địa thượng, quán, tiên vương dĩ tỉnh phương, quan dân, thiết giáo",
+   "loiTuong": "Lời Tượng nói rằng: Gió đi trên đất là quẻ Quán, đấng tiên vương coi đó mà xét các phương, xem tục dân, đặt sự dạy",
+   "haoAm": [
+    "Sơ Lục: Đồng quán, tiểu nhân vô cữu, quân tử lận",
+    "Lục Nhị: Khuy quan, lợi nữ trinh",
+    "Lục Tam: Quan ngã sinh tiến thoái",
+    "Lục Tứ: Quạn quốc chi quang, lợi dụng tân vu vương",
+    "Cửu Ngũ: Quan ngã sinh, quân tử vô cữu",
+    "Thượng Cửu: Quan kỳ sinh, quân tử vô cữu"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Trẻ xem, kẻ tiểu nhân không lỗi, đấng quân tử đáng tiếc",
+    "Hào Sáu Hai: Nhòm xem, lợi về sự trinh của con gái",
+    "Hào Sáu Ba: Xem ta sinh tiến lui",
+    "Hào Sáu Tư: Xem sự sáng láng của nước, lợi dụng làm khách chưng vua",
+    "Hào Chín Năm: Xem ta sinh, quân tử, không lỗi",
+    "Hào Chín Trên: Xem thửa sinh, quân tử không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Sơ Lục đồng quan, tiểu nhân đạo dã",
+    "Tượng viết: Khuy quan, nữ trinh, diệt khả xú dã. Địch nghĩa. - Lời Tượng nói rằng: Dòm xem, sự trinh của con gái cũng đáng xấu vậy",
+    "Tượng viết: Quan ngã sinh tiến thoái, vị thất đạo dã",
+    "Tượng viết: Quan quốc chi quang, thượng tân dã",
+    "Tượng viết: Quan ngã sinh, quan dân dã",
+    "Tượng viết: Quan kỳ sinh, chí vị bình dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Hào Sáu đầu trẻ xem, đạo kẻ tiểu nhân vậy",
+    "",
+    "Lời Tượng nói rằng: Xem ta sinh tiến lui, chưa mất đạo vậy",
+    "Lời Tượng nói rằng: Xem sự sáng của nước, chuộng làm khách vậy",
+    "Tượng viết: Xem ta sinh, là xem dân vậy",
+    "Lời Tượng nói rằng: Xem thửa sinh, chí chưa bình vậy"
+   ],
+   "ten": "Phong Địa Quán",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 21,
+   "tenTrongSach": "Quẻ Phệ Hạp",
+   "quaiTrongSach": "Ly trên ; Chấn dưới",
+   "loiQueAm": "Phệ hạp hanh, lợi dụng ngục",
+   "loiQue": "Quẻ Phệ hạp hanh, lợi dùng việc ngục",
+   "thoanAm": "Thoán viết: Dị trung hữu vật, viết Phệ hạp Phệ hạp nhi hanh Cương nhu phân động nhi minh, lôi điện hợp nhi chương Nhu đắc trung nhi thượng hành, tuy bất đáng vị, lợi dùng ngục dã",
+   "thoan": "Lời Thoán nói rằng: Trong mép có vật là quẻ Phệ hạp cắn hợp mà hanh Cứng mềm chia động mà sáng, sấm chớp hợp lại mà rõ Mềm được giữa mà đi lên, tuy không đáng ngôi, lợi về sự dùng ngục vậy",
+   "loiTuongAm": "Tượng viết: Lôi điện Phệ hạp, tiên vương dĩ minh phạt sắc pháp",
+   "loiTuong": "Lời Tượng nói rằng: Sấm chớp là quẻ Phệ hạp, đấng Tiên vương coi đó để tỏ phạt truyền phép",
+   "haoAm": [
+    "Sơ Cửu: Lý hiệu, diệt chỉ, vô cữu",
+    "Lục Nhị: Phệ phu, diệt ty, vô cữu",
+    "Lục Tam: Phệ tích nhục, ngộ độc tiểu lận, vô cữu",
+    "Cửu Tứ: Phệ can tỷ, đắc kim thỉ, lợi gian trình, cát!",
+    "Lục Ngũ, Phệ can nhục, đắc hoàng kim, trinh lệ, vô cữu",
+    "Thượng Cửu, Hạ hiệu, diệt nhĩ, hung!"
+   ],
+   "hao": [
+    "Hào Chín Đầu; Xéo xiềng, đứt ngón chân, không lỗi",
+    "Hào Sáu Hai: Cắn da, dứt mũi, không lỗi",
+    "Hào Sáu Ba: cắn mắm khô, gặp độc, hơi tiếc, không lỗi",
+    "Hào Chín Tư: Cắn chạo khô, được tên vàng, lợi về khó nhọc, chính bền tốt",
+    "Hào Sáu Năm: Cắn thịt khô, được vàng vàng, chính bền, lo sợ, không lỗi",
+    "Hào Chín trên: Đội xiềng, đứt tai, hung!"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Lý hiệu, diệt chỉ, bất hành dã",
+    "Tượng viết: Phệ phu diệt ty, thừa cương dã",
+    "Tượng viết: Ngộ độc, vị bất đáng dã",
+    "Tượng viết: Lợi gian trinh, cát, vị quang dã",
+    "Tượng viết: Trinh lệ vô cữu, đắc đáng dã",
+    "Tượng viết: Hạ hiệu, diệt nhĩ, thông bất minh dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Xéo xiềng, đứt ngón chân, không đi vậy",
+    "Lời Tượng nói rằng: cắn da cụt mũi, vì cưỡi cứng vậy",
+    "Lời Tượng nói rằng: Gặp độc, ngôi không đáng vậy",
+    "Lời Tượng nói rằng: Lợi về khó nhọc, chính bền tốt, là chưa sáng vậy",
+    "Lời Tượng nói rằng: Chính bền, lo sợ, không lỗi, vì được đáng vậy",
+    "Lời Tượng nói rằng: Đội xiềng dứt tai, sự nghe không sáng vậy"
+   ],
+   "ten": "Hỏa Lôi Phệ Hạp",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 22,
+   "tenTrongSach": "Quẻ Bí",
+   "quaiTrongSach": "Cấn trên; Ly dưới",
+   "loiQueAm": "Bí hanh, lợi tiểu hửu du vãng",
+   "loiQue": "Quẻ Bí hanh, hơi lợi có thửa đi",
+   "thoanAm": "Thoán viết: Bí hanh Nhu lai nhi văn cương, cố hanh; phân cương thượng nhi văn nhu, cố tiểu lợi hữu du vãng, thiên văn dã  Quan hồ thiên văn, dĩ sát thì biến Quan hồ nhân văn, dĩ hóa thành thiên hạ",
+   "thoan": "Lời Thoán nói rằng: Quẻ Bí hanh Mềm lại mà văn sức cho cứng, cho nên hanh; chia cứng lên mà văn sức cho mềm, cho nên hơi lợi có thửa đi, văn vẻ của trời vậy Văn minh dĩ chỉ, nhân văn dã. Dịch Ãm. - Văp vẻ sáng sủa để đỗ, văn vẻ của người vậy Xem chưng văn vẻ của trời, để xét sự biến của các mùa Xem chưng văn vẻ của người, để hóa nên thiên hạ",
+   "loiTuongAm": "Tượng viết: Sơn hạ hữu hỏa, Bí, quân tử dĩ minh thứ chính, vô cảm chiết ngục",
+   "loiTuong": "Lời Tượng nói rằng: Dưới núi có lửa là quẻ Bí, đấng quản tử coi đó mà tỏ mọi chính, không quả cảm về việc đoán ngục",
+   "haoAm": [
+    "Sơ Cửu: Bí kỳ chỉ, xả xa nhi đồ",
+    "Lục Nhị: Bí kỳ tu",
+    "Cửu Tam: Bí như, nhu như, vĩnh trinh, cát",
+    "Lục Tứ: Bí như, phan như, bạch mâ hản nhưĩ Phì khấu, hôn câu",
+    "Lục Ngũ: Bí vu khâu viênt thúc bạch tiên tiên, lận chung cát",
+    "Thượng Cứu: Bạch bi, vô cữu"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Trang sức thửa ngón chân, bỏ xe mà đi không",
+    "Hào Sáu Hai: Trang sức cái râu của mình",
+    "Hào Chín Ba: Rõ ràng vậy,bóng mượt vậy; mãi mãi chính bền tốc",
+    "Hào Sáu Tư: Rỡ ràng vậy, phơ phơ vậy, ngựa trắng có cánh vậy. Chẳng phải giặc, dâu gia",
+    "Hào Sáu Năm: Trang sức ở gò vườn, bó lụa mỏng hẹp, đáng tiếc, sau chót tốt",
+    "Hào Chín Trên: Trang sức bằng màu trắng, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Xả xa nhi đồ, nghĩa phất thừa dã",
+    "Tượng viết: Bí kỳ tu, dữ thượng hưng dã",
+    "Tượng viết: Vĩnh trinh chi cát, chung mạc chi lăng dã",
+    "Tượng viết: Lục tứ đương vị, nghi dã; phỉ khấu, hôn cấu, chung vô vưu dã",
+    "Tượng viết: Lạc ngũ chi cắt, hữu hỷ dã",
+    "Tượng viết: Bách bí vô cữu, thượng đắc chí dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Bỏ xe mà đi không, nghĩa không nên cưỡi vậy",
+    "Lời Tượng nói rằng: Trang sức cái râu của mình, cùng trên dấy vậy",
+    "Lời Tượng nói rằng: Lâu dài chính bền mà tốt, là vì không gì lấn nó",
+    "Lời Tượng nói rằng: Sáu Tư đương ngôi, đáng ngờ vậy; chẳng phải giặc, dâu gia, sau chót không oán vậy",
+    "Lời Tượng nói rằng: Cái tốt của hào Sáu Năm, có sự mừng vậy",
+    "Lời Tượng nói rằng: trang sức bằng màu trắng, không lỗi, ở trên mà đắc chí vậy"
+   ],
+   "ten": "Sơn Hỏa Bí",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 23,
+   "tenTrongSach": "Quẻ Bác",
+   "quaiTrongSach": "Cấn trên; Khôn dưới",
+   "loiQueAm": "Bác bất lợi hữu du vãng",
+   "loiQue": "Quẻ bác không lợi có thửa đi",
+   "thoanAm": "Thoán viết: Bác, bác dã, nhu biến cương dã Bất lợi hữu du vãng, tiểu nhân trưởng dã Thuận nhi chỉ chi, quan tượng dã; quân tử thượng tiêu tức doanh hư, thiên hành dã",
+   "thoan": "Lời Thoán nói rằng: Bác là gọt vậy, mềm biến cứng vậy Chẳng lợi có thửa đi, vì kẻ tiểu nhân đương thịnh vậy Thuận mà đỗ đấy, xem tượng vậy, đấng quân tử chuộng sự nghe ngóng đầy vơi, vận trời vậy",
+   "loiTuongAm": "Tượng viết: Sơn phụ ư địa, Bác, quân tử dĩ hậu hạ an trạch",
+   "loiTuong": "Lời Tượng nói rằng: Núi phụ ở đất, là quẻ Bác, người trên coi đó mà hậu cho kẻ dưới, làm yên chỗ ở",
+   "haoAm": [
+    "Sơ Lục: Bác sàng dĩ túc, miệt trinh, hung",
+    "Lục Nhị: Bác sàng dĩ biện, miệt trinh hung",
+    "Lục Tam: Bác chi, vô cữu",
+    "Lục Tứ: Bác sàng dĩ phu, hung!",
+    "Lục Ngũ: Quán ngư dĩ cung nhân sủng, vô bất lợi",
+    "Thượng Cửu: Thạc quả bất thực, quân tử đắc dư, tiểu nhân bác lư"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Đẽo giường bằng chân, không trinh, hung",
+    "Hào Sáu Hai: Đẽo giường bằng bễ, chẳng trinh, hung!",
+    "Hào Sáu Ba: Đẽo đó, không lỗi",
+    "Hào Sáu Tư: Đẽo giường bằng da, hung!",
+    "Hào Sáu Năm: Xâu cá; lấy cung nhân được yên, không gì không lợi",
+    "Hào Chín Trên: Trái lớn không ăn, đấng quân tử được xe, kẻ tiểu nhân đẽo nhà"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Bác sàng dĩ túc, dĩ diệt hạ dã",
+    "Tượng viết: Bác sàng dĩ biện, vị hữu dữ dã",
+    "Tượng viết: Bác chi vô cữu, thất thượng hạ dã",
+    "Tựợng viết: Bác sàng dĩ phu, thiết cận tai dã",
+    "Tượng viết: Dĩ cung nhân sủng, chung vô vưu dã",
+    "Tượng viết: Quân tủ đắc dư, dân sở tái dã; tiểu nhân bác lư, chung bất khả dụng dã. Định nghĩa. - Lời Tượng nói rằng: Đấng quân tử được xe, dân thừa chở vậy; kẻ tiểu nhân đẽo nhà, trọn không thể dùng vậy"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Đẽo giường bằng chân, vì dứt dưới vậy",
+    "Lời Tượng nói rằng: Đẽo giường bằng bễ, chưa có “cùng” vậy",
+    "Lời Tượng nói rằng: Đẽo đó, không lỗi, mất trên dưới vậy",
+    "Lời Tượng nói rằng: Đẽo giường bằng da, sát gần vạ vậy",
+    "Lời Tượng nói rằng: Lấy cung nhân được yêu, sau chót không có lỗi vậy",
+    ""
+   ],
+   "ten": "Sơn Địa Bác",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 24,
+   "tenTrongSach": "Quẻ Phục",
+   "quaiTrongSach": "Khôn trên;  Chấn dưới",
+   "loiQueAm": "Phục hanh xuất nhập vô tật, bằng lai vô cữu Phản phúc kỳ đạo, thất nhật lai phục, lợi hữu du vãng",
+   "loiQue": "Quẻ Phục hanh, ra vào không tật, bạn đến không lỗi Lật đi lật lại thửa đạo, bảy ngày lại trở lại, lợi có thửa đi",
+   "thoanAm": "Táohn viết: Phục hanh, cương phản, động nhi dĩ thuận hành, thị dĩ xuất nhập vô tật, bằng lai vô cữu Phản phúc kỳ đạo, thất nhật lai phục, thiên hành dã Lợi hữu du vàng, cương trưởng dã Phục kỳ hiến thiên địa, tạo hóa chi tâm hồ",
+   "thoan": "Lời Thoán nói rằng: Quẻ Phục hanh là cứng trở lại; động mà thấy sự thuận đi lên; cho nên ra vào không tật, bạn đến không lỗi Lật đi lật lại thửa đạo, bảy ngày lại trở lại, vận trời vậy Lợi có thửa đi, cứng lớn vậy Quẻ Phục thửa thấy lòng của trời đất tạo hóa chăng?",
+   "loiTuongAm": "Tượng viết: Lôi tại địa trung, Phục, Tiên vương dĩ chí, nhật bế quan, thương lữ bất hành, hậu bất tỉnh phương",
+   "loiTuong": "Lời Tượng nói rằng: Sấm ở trong đất, là quẻ Phục, đấng Tiên vương coi đó mà ngày chí đóng cửa ải, kẻ thương lữ không đi, các vua không xét các phương",
+   "haoAm": [
+    "Sơ Cửu: Bất viễn phục, vô chỉ hối, nguyên cát",
+    "Lục Nhị: Hưu phục cát!",
+    "Lục Tam: Tần phục lệ, vô cữu",
+    "Lục Tứ: Trung hành độc phục",
+    "Lục Ngũ: Đôn phục, vô hối",
+    "Thượng Lục: Mê phục, hung, hữu tai sảnh, dụng hành sư, chung hữu đại bại; dĩ kỳ quốc quân,hung, chí vu thập niên, bất khắc chính"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Chẳng xa trở lại, không đến ăn năn, cả tốt",
+    "Hào Sáu Hai: Đẹp sự trở lại, tốt!",
+    "Hào Sáu Ba: Luôn luôn trở lại, nguy! Không lỗi",
+    "Hào Sáu Tư: Đi giữa một mình trở lại",
+    "Hào Sáu Năm: Dốc lòng về sự trở lại,không phải ăn năn",
+    "Hào Sáu Trên: Lú lấp sự trở lại, hung! Có vạ tội, dùng để trẩy quân, sau chót có thua lớn; tới cả vua nước đó, đến chừng mười năm, không thể đi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Bất viễn chi phục, dĩ tu thân dã",
+    "Tượng viết: Hưu phục chi cắt, dĩ hạ nhân dã",
+    "Tượng viết: Tần phục chi lệ, nghĩa vô cữu dã",
+    "Tượng viết: Trung hành độc phục, dĩ tòng đạo dã",
+    "Tượng viết: Đôn phục vô hối, trung dĩ tự khảo dã",
+    "Tượng viết: Mê phục chi hung, phản quân đạo dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Sự trở lại của việc chẳng xa, để sửa mình vậy",
+    "Lời Tượng nói rằng: Đẹp sự trở lại mà tốt, vì biết lớn với kẻ nhân vậy",
+    "Lời Tượng nói rằng: Cái nguy của sự luôn luôn trở lại, nghĩa không lỗi vậy",
+    "Lời Tượng nói rằng: Đi giữa, một mình trở lại, để theo đạo vậy",
+    "Lời Tượng nói rằng: Dốc lòng về sự trở lại, dùng đạo trung để tự nên vậy",
+    "Lời Tượng nói rằng: Cái hung của kẻ lú lấp sự trở lại, là trái đạo vua vậy"
+   ],
+   "ten": "Địa Lôi Phục",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 25,
+   "tenTrongSach": "Quẻ Vô Vọng",
+   "quaiTrongSach": "Kiền trên; Chấn dưới",
+   "loiQueAm": "Vô Vọng nguyên hanh, lợi trinh, kỳ phỉ chính, hửu sảnh, bất lợi hữu du vãng",
+   "loiQue": "Quẻ Vô Vọng cả hanh, lợi về sự chính bền; thửa chẳng chính có tội, không lợi có thửa đi",
+   "thoanAm": "Thoán viết: Vô vọng, cương tự ngoại lai, nhi vi chủ ư nội Động nhi kiện, cương trung nhi ứng, đại hanh dĩ chính, thiên chi mệnh dã Kỳ phi chính, hữu sảnh, bất lợi hữu du vãng, vô vọng chi vãng, hà chi hỹ? Thiên mệnh bất hựu, hành hỹ tai",
+   "thoan": "Lời Thoán nói rằng: Quẻ Vô Vọng, cứng tự ngoài đến, mà làm chủ ở trong Động mà mạnh, cứng giữa mà có ứng với, cả hanh và chính, mệnh của trời vậy Thửa chẳng chính, có tội, chẳng lợi có thửa đi, không càn mà đi, đi đâu nhỉ? Mệnh trời không giúp, đi được chăng?",
+   "loiTuongAm": "Tượng viết: Thiên hạ lôi hành vật dữ, Vô Vọng; Tiên vương dĩ mậu đối thì, dục vạn vật",
+   "loiTuong": "Lời Tượng nói rằng: Dưới trời sấm chạy vật được phú tính, là quẻ Vô Vọng; đấng Tiên vương coi đó mà tốt đối thì, nuôi muôn vật",
+   "haoAm": [
+    "Sơ Cửu: Vô vọng vãng cát",
+    "Lục Nhị: Bất canh hoạch, bất tri dư, tắc lợi hữu du vãng",
+    "Lục Tam: Vô vọng chi tai, hoặc hệ chi ngưu, hành nhân chi đắc, ấp nhân chi tai",
+    "Cửu Tứ: Khả trinh, vô cữu",
+    "Cửu Ngủ: Vô vọng chi tật, vật dược, hữu hỷ",
+    "Thượng Cửu: Vô Vọng hành, hữu sảnh, vô du lợi"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Không càn, đi tốt",
+    "Hào Sáu Hai: Chẳng cây, gặt; chẳng ngả, ngấu thì lợi có thửa đi",
+    "Hào Sáu Ba: Cái hại của sự không càn, hoặc buộc con trâu, kẻ đi đường mà được, người ấp bị hại",
+    "Hào Chín Tư: Khả trinh, không lỗi",
+    "Hào Chín Năm: Cái tật không càn, đừng thuốc, có mừng",
+    "Hào Chín Trên: Không càn mà đi, có tội, không thửa lợi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Vô vọng, chi vãng, đắc chí dã",
+    "Tượng viết: Bất canh hoạch, vị phú dã",
+    "Tượng viết: Hành nhân đắc ngưu, ấp nhân tai dã",
+    "Tượng viết: Khả trinh vô cữu, cố hữu chi dã",
+    "Tượng viết: Vô Vọng chi dược, bất khả thí dã",
+    "Tượng viết: Vô vọng chi hành, củng chi tai dả"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Sự đi của đức không càn, là đắc chí vậy",
+    "Lời Tượng nói rằng: Chằng cày gặt, chửa giầu vậy",
+    "Lời Tượng nói rằng: Người đi đường được trâu, là hại của người ấy vậy",
+    "Lời Tượng nói rằng: Khá trinh không lỗi, cố giữ đó vậy",
+    "Lời Tượng nói rằng: Cái thuốc không càn, chẳng khá thử vậy",
+    "Lời Tượng nói rằng: Không càn mà đi, là hại của sự cùng cực vậy"
+   ],
+   "ten": "Thiên Lôi Vô Vọng",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 26,
+   "tenTrongSach": "Quẻ Đại Súc",
+   "quaiTrongSach": "Cấn trên; Kiền dưới",
+   "loiQueAm": "Đại Súc lợi trinh bất gia thực, cát, lợi thiệp đại xuyên",
+   "loiQue": "Quẻ Đại Súc lợi về sự chính, chẳng ăn ở nhà, tốt lợi sang sông lớn",
+   "thoanAm": "Thoán viết: Đại Súc cương kiện, đốc thực, huy quang, nhật tân kỳ đức Cương thượng nhi thượng hiền, năng chỉ kiện, đại chính dã Bất gia thực, cát, dưỡng hiền dã Lợi thiệp đại xuyên, ứng hồ thiên dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Đại Súc cứng mạnh, dầy đặc, sáng sủa ngày ngày làm mới đức nó Cứng lên mà chuộng trời, hiền, ngăn được sự mạnh, cả chính vậy Chẳng ăn ở nhà, tốt, là nuôi người hiền vậy Lợi về sự sang sông lớn, là ứng với trời vậy",
+   "loiTuongAm": "Tượng viết: Thiên tại sơn trung, Đại Súc, quân tử dĩ đa chí tiền ngôn vãng hạnh, dĩ súc kỳ đức",
+   "loiTuong": "Lời Tượng nói rằng: Trời ở trong núi, là quẻ Đại Súc, đấng quân tử coi đó mà ghi nhiều lời trước, nết xưa, để nuôi đức mình",
+   "haoAm": [
+    "Sơ Cửu: Hữu lệ, lợi dĩ",
+    "Cửu Nhị: Dư thoát bức",
+    "Cửu Tam: Lương mã trục, lợi gian trinh, nhật nhàn dư vệ, lợi hữu du vàng",
+    "Lục Tứ: Đồng ngưu chi cốc, nguyên cát",
+    "Lục ngũ: Phần thi chi nha, cát",
+    "Thượng cửu: Hà thiên chí cù hanh"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Có nguy, lợi thôi",
+    "Hào Chín Hai: Xe trút bánh",
+    "Hào Chín Ba: Ngựa hay ruổi, ngày quen xe, lại có thửa đi",
+    "Hào Sáu Tư: Cái cùm trâu non, cả tốt",
+    "Hào Sáu Năm: Nanh con lợn thiến, tốt",
+    "Hào Chín Trên: Sao đường trời hanh"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Hữu lệ, lợi dĩ, bất phạm tai dã",
+    "Tượng viết: Dư thoát bức, trung vô vưu dã",
+    "Tượng viết: Lợi hữu du vãng, thựợng chí hợp dã",
+    "Tượng viết: Lục Tứ nguyên cát, hữu hỷ dã",
+    "Tượng viết: Lạc ngũ chi cát, hữu khánh dã",
+    "Tượng viết: Hà thiên chi cù hanh, đạo đại hành dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Có nguy lợi thôi, chẳng phạm vào tai vạ vậy",
+    "Lời Tượng nói rằng: Xe trút bánh, được giữa thì không có lỗi vậy",
+    "Lời Tượng nói rằng: Lợi có thửa đi, vì chí kẻ trên hợp vậy",
+    "Lời Tượng nói rằng : Hào Sáu Tư cả tốt, có mừng vậy",
+    "Lời Tượng nói rằng: Cái tốt của hào Sáu Năm, có phúc vậy",
+    "Lời Tượng nói rằng: Sao đường trời hanh! Đường cả thông hanh vậy"
+   ],
+   "ten": "Sơn Thiên Đại Súc",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 27,
+   "tenTrongSach": "Quẻ Di",
+   "quaiTrongSach": "Cấn trên; Chấn dưới",
+   "loiQueAm": "Dì trinh cát, quan di tự cầu khẩu thực",
+   "loiQue": "Quẻ Di chính tốt, xem sự nuôi, tự tìm cái thật của miệng",
+   "thoanAm": "Thoán viết: Di trinh cát, dưỡng chinh tắc cát dã; quan di, quan kỳ sở dưỡng dă; tự cầu khẩu thực, quan kỳ tự dưỡng dã Thiên địa dưỡng vạn vật, thánh nhân dưỡng hiền dĩ cập vạn dân. Di chi thì đại hỹ tai",
+   "thoan": "Lời Thoán nói rằng: Quẻ Di chính tốt, là thửa nuôi được chính thì tốt vậy; xem sự nuôi, là xem cái thửa nuôi vậy; tự tìm cái thật của miệng, là xem cái tự nuôi của người ta vậy Trời đất nuôi muôn vật, đấng thánh nhân nuôi người hiền để đến muôn dân, thì của quẻ Di lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Sơn hạ hữu lôi, Di, Quân tử dĩ thận ngôn ngữ, tiết ẩm thực",
+   "loiTuong": "Lời Tượng nói rằng: Dưới núi có sấm, là quẻ Di, đâng quân tử coi đó mà cẩn thận nói năng, dè dặt uống ăn",
+   "haoAm": [
+    "Sơ Cửu: Xả nhĩ linh quy, quan ngã đóa di, hung",
+    "Lục Nhị: Điên di, phất kinh vu khâu, chinh hung dã",
+    "Lục Tam: Phất di, trinh hung, thập niên vật dụng, vô du lợi",
+    "Lọc Tứ: Điên di, cát, hổ thị đam đam, kỳ dục trục trục vô cữu",
+    "Lục Ngũ: Phất kinh, cư trinh cát, bất khả thiệp đại xuyên",
+    "Thượng Cửu: Do di, lệ, cát, lợi thiệp đại xuyên"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Bỏ con rùa thiêng của mày, xem ta trễ mép, hung!",
+    "Hào Sáụ Hai: Đảo nuôi, trái thường ở gò, đi thì hung",
+    "Hào Sáu Bã: Trái nuôi, chính hung, mười năm chớ dùng, không thửa lợi",
+    "Hào Sáu Tư: Đảo nuôi, tốt, hổ trông hau háu, lòng muốn của nó liền liền, không lỗi",
+    "Hào Sáu Năm: Trái thường, ở chính tốt, chăng khá sang sông lớn",
+    "Hào Chín Trên: Bởi nuôi, nguy, tốt, lợi sang sông lớn"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Quan ngã đóa đi, diệc bất túc quí dã",
+    "Tượng viết: Lục Nhị chinh hung, hành thất loại dã",
+    "Tượng viết: Thập niên vật dụng, đạo đại bội dã",
+    "Tượng viết: Điên di chi cát, thượng thí quang dã",
+    "Tượng viết: Cư trinh chi cát, thuận dĩ tòng thượng dã",
+    "Tượng viết: Do di, lệ, cát, đại hữu khánh dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Xem ta trễ mép, cũng chẳng đủ quý vậy",
+    "Lời Tượng nói rằng: Hào sáu Hai đi thì hung, vì đi mất loài vậy",
+    "Lời Tượng nói rằng: Mười năm chớ dùng, đạo cả trái vậy",
+    "Lời Tượng nói rằng: Cái tốt của sự đảo nuôi, vì ơn trên sáng vậy",
+    "Lời Tượng nói rằng: Cái tốt của sự ở chính, vì thuận theo trên vậy",
+    "Lời Tượng nói rằng: Bởi nuôi, ngu, tốt, cả có phúc vậy"
+   ],
+   "ten": "Sơn Lôi Di",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 28,
+   "tenTrongSach": "Quẻ Đại Quá",
+   "quaiTrongSach": "Đoái trên ;Tốn dưới",
+   "loiQueAm": "Đại quá, đống nạo, lợi hữu du văng, hanh",
+   "loiQue": "Quẻ Đại quá, cột ỏe, lợi có thửa đi, hanh",
+   "thoanAm": "Thoán viết: Đại quá, đại giả quá dã Đông nạo, bản mạt nhược dã Cương quá nhi trung, tốn nhi duyệt, hành, lợi hữu du vãng, nãi hanh Đại quá chi thì đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Đại quá là cái cả lớn quá thường Cột ỏe, gốc ngọn yếu vậy Cũng quá thường mà được giữa, nhún mà đẹp lòng, làm việc lợi có thửa đi, mới hanh Thì quẻ Đại quá lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Trạch diệt mộc, đại quá, quân tử dĩ độc lập bất cụ, độn thế vô muộn",
+   "loiTuong": "Lời Tượng nói rằng: Chằm ngập cây, là quẻ Đại quá, đấng quân tử coi đó mà đứng một mình không sợ, trốn đời không buồn",
+   "haoAm": [
+    "Sơ Lục: Tạ dụng bạch mao, vô cữu",
+    "Cửu Nhị: Khô dương sinh đề, lão phu đắc kỳ nữ thê vô bất lợi",
+    "Cửu Tam: Đống nạo hung!",
+    "Cửu Tứ: Đống long cát, hữu tha, lận",
+    "Cửu Ngũ: Khô dương sinh huê, lão phụ đác kỳ sỹ phu, vô cữu vô dự",
+    "Thượng Lục: Quả thiệp, diệt đính, hung, vô cữu"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Trải dùng cỏ tranh trắng, không lỗi",
+    "Hào Chín Hai: Cây Dương khô mọc rễ, chồng già được vợ con gái, không gì không lợi",
+    "Hào Chín Ba: Cột ỏe, hung!",
+    "Hào Chín Tư: cột cao, tốt; có khí khác, đáng tiếc",
+    "Hào Chín Năm: Cây dương khô mọc hoa, vợ già được chồng con trai, không lỗi không khen",
+    "Hào Sáu Trên: Quá lội ngập đỉnh đầu, hung, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tạ dụng bạch mao, nhu tại hạ dã",
+    "Tượng viết: Lão phu nữ thê, quá dĩ tương dữ dã",
+    "Tượng viết: Đống nạo chi hung, bất khả dĩ hữu phụ dã",
+    "Tượng viết: Đống long chi cát, bấthạo hồ hạ dã",
+    "",
+    "Tượng viết: Quá thiệp chi hung, bất khả cữu dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Trải dùng cỏ tranh trắng, mềm ờ dưới vậy",
+    "Lời Tượng nói rằng: Chồng già vợ con gái, quá độ cùng nhau vậy",
+    "Lời Tượng nói rằng: Cột ỏe mà hung, là vì chẳng khá có giúp vậy",
+    "Lời Tượng nói rằng: Cột cạo mà tốt, là vì chẳng ỏe ở dưới vậy",
+    "",
+    "Lời Tượng nói rằng: Cái hung của quẻ quá lội, chẳng khá trách vậy"
+   ],
+   "ten": "Trạch Phong Đại Quá",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 29,
+   "tenTrongSach": "Quẻ Tập Khảm",
+   "quaiTrongSach": "Khảm trên; Khảm dưới",
+   "loiQueAm": "Tập Khảm hữu phu duy tâm, hanh, hành hữu thượng",
+   "loiQue": "Quẻ Khảm kép, có tin, bui lòng, hanh, đi có chuộng",
+   "thoanAm": "Thoán viết: Tập Khảm trùng hiểm dã. Thủy lưu nhi bất doanh, hành hiểm nhi bất thất kỳ tín. Duy tâm hanh nãi dĩ cương trung dã; hành hữu thượng, vãng hữu công dã Thiên hiểm bất khả thăng dã, địa hiểm sơn xuyên khâu lăng dã, vương công thiết hiểm dĩ thủ kỳ quốc, hiểm chi thì dụng đại hỹ tại!",
+   "thoan": "Lời thoán nói rằng: Quẻ Khảm kép là hai lần hiểm vậy. Nước chảy mà không đẩy, đi chỗ hiểm mà không mất điềm tín của mình. Bui lòng hanh vì cứng giữa vậy: đi có chuộng lạ đi có công vậy Trời hiểm không thể lên được, đất hiểm thì là núi sông gò đống, tước vương tước công đặt chỗ hiểm để giữ thửa nước, thì dụng của sự hiểm lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Thủy tấn chi tập Khảm, quân tử dĩ thường, đức hạnh, tập giáo sự",
+   "loiTuong": "Lời Tượng nói rằng: Nước lại tới, là quẻ Khảm kép, đấng quân tử coi đó mà giữ cho đức hạnh có thường, tập cho giáo sự được quen",
+   "haoAm": [
+    "Sơ Lục: Tập Khảm, nhập vu Khảm tăm hung!",
+    "Cửu Nhị: Khảm hữu hiềm, cầu tiểu đắc",
+    "Lục Tam: Lai chi khảm khảm, hiền thả chẩm, nhập vu khảm tãm, vật dụng",
+    "Lục Tử: Tôn tửu, quỹ nhị, dụng phẫu, nạp ước tự dũ chung vô cữu",
+    "Cửu Ngũ: Khảm bất doanh, chỉ ký bình, vô cữu",
+    "Thượng Lục: Hệ dụng huy chiền, chỉ vu tòng cức, tam tuế bất đắc, hung!"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Chỗ hiểm kép, vào cái hố trong chỗ hiểm, hung!",
+    "Hào Chín Hai: Chỗ trũng có sự hiểm, tìm hơi được",
+    "Hào Sáu Ba: Lại đi hiểm hiểm, hiểm vào gối, vào cái hố của hiểm, chớ dùng",
+    "Hào Sáu Tư: Chén rượu, rá xôi, thêm dùng hồ sành, nộp ước tự cửa sổ tròn, sau chót không lỗi",
+    "Hào Chín Năm: Chỗ trũng chẳng đầy, đến đã phẳng, không lỗi",
+    "Hào Sáu Trên: Trói dùng chạc thừng, đặt ở bụi gai, ba năm chẳng được, hung!"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tập Khảm nhập Khảm, thất đạo hung dã",
+    "Tượng viết: Cầu tiểu đắc, vị xuất trung dã",
+    "Tượng viết: Lai chi khảm khảm, chung vô công dã",
+    "Tượng viết: Tôn tửu quĩ nhị, cương nhu tế dã",
+    "Tượng viết: Khảm bất doanh, trung vị đại dã",
+    "Tượng viết: Thượng Lục thất đạo, hung tạm tuế dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Từ chỗ hiểm kép vào chỗ hiểm, lạc đường, hung vậy",
+    "Lời Tượng nói rằng: Tìm hơi được, là chưa ra khỏi bên trong vậy",
+    "Lời Tượng nói rằng: Lại đi hiểm hiểm, rút lại không công vậy",
+    "Lời Tượng nói rằng: Chén rượu, rá đồ ăn, hai, cứng mềm giúp nhau vậy",
+    "Lời Tượng nói rằng: Chỗ trũng chẳng đầy, vi đức giữa chưa lớn vậy",
+    "Lời Tượng nói rằng: Hào Sáu Trên lỗi đạo, hung ba năm vậy"
+   ],
+   "ten": "Thuần Khảm",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 30,
+   "tenTrongSach": "Quẻ Ly",
+   "quaiTrongSach": "Ly trên ;Ly dưới",
+   "loiQueAm": "Ly lợi trinh, hanh, xúc tẫn ngưu, cát",
+   "loiQue": "Quẻ Ly vệ sự chính, hanh, nuôi trâu cái, tốt",
+   "thoanAm": "Thoán viết: Ly lệ dã, nhật nguyệt lệ hồ thiên, bách cốc thảo mộc lệ hồ địa Trùng minh dĩ lệ hồ chính, nãi hóa thành, thiên hạ Nhu lệ hồ trung chính, cố hanh, thị dĩ xúc tẫn ngưu cát dã",
+   "thoan": "Lời Thoán nói rằng: Ly tức là bám, mặt trời mặt trăng bám ở trời, trăm giống thóc, cây, cỏ bám ở đất Hai lần sáng để bám vào chỗ chính; bèn hóa nên thiên hạ Chất mềm bám vào chỗ trung chính cho nên hanh vì vậy, nuôi trâu cái thì tốt",
+   "loiTuongAm": "Tượng viết: Minh lưỡng tác; Ly, đại nhân dĩ kê minh chiếu hồ tứ phương",
+   "loiTuong": "Lời Tượng nói rằng; Sự sáng hai lần dấy, là quẻ Ly, bậc người lớn coi đó mà kế tiếp sáng soi ở bốn phương",
+   "haoAm": [
+    "Sơ Cửu: Lý thác nhiên, kinh chi vô cữu",
+    "Lục Nhị: Hoàng Ly, nguyên cát",
+    "Cửu Tam: Nhật trắc chi ly, bất cỗ phẫu nhị nhi ca, tắc đại diệt chi ta, hung!",
+    "Cửu Tứ: Đột như kỳ lai như, phần như, tử như, khí như!",
+    "Lục Ngũ: Thế đà nhược! Thích ta nhược! Cát!",
+    "Thượng Cửu, Vương dụng xuất chinh, hữu giá, chiết thủ, hoạch phi kỳ sũ, vô cữu"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Xéo bừa vậy, kính đó không lỗi",
+    "Hào Sáu Hai: Vàng sáng, cả tốt",
+    "Hào Chín Ba: Sự sáng của mặt trời dé. Chẳng gõ chậu sành mà hát, thì là cả già mà than, hung!",
+    "Hào Chín Tư: Đột như thửa lai vậy, cháy vậy, chết vậy, bỏ vậy!",
+    "Hào Sáu Năm: Nước mắt giàn giụa vậy, ngậm ngùi than vậy, tốt!",
+    "Hào Chín Trên: Vua dùng ra đánh, có sự tốt, bẻ đầu, bắt chẳng phải loài, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Lý thác chi kính, dĩ tựu cữu dã",
+    "Tượng viết: Hoàng Ly nguyên cát, đắc trung đạo dã",
+    "Tượng viết: Nhật trắc chi ly, hà khả cữu dà?",
+    "Tượng viết: Đột như kỳ lai như, vô sở dung dã",
+    "Tượng viết: Lục Ngũ chi cát, ly vương công dã",
+    "Tượng viết: Vương dụng xuất chinh, dĩ chính bang dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Sự kính của kẻ xéo bừa, để tránh lỗi vậy",
+    "Lời Tượng nói rằng : Vàng sáng cả tốt, được đạo giữa vậy",
+    "Lời Tượng nói rằng: Sự sáng của mặt trời dé, sao khá lâu vậy?",
+    "Lời Tượng nói rằng: Đột nhiên thửa lại, là không có chỗ dung vậy",
+    "Lời tượng nói rằng: Sự tốt của hào Sáu Năm, là được bám vào tước vương tước công vậy",
+    "Lời Tượng nói rằng: Vua dùng ra đánh, đề chính nước vậy"
+   ],
+   "ten": "Thuần Ly",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 31,
+   "tenTrongSach": "Quẻ Hàm",
+   "quaiTrongSach": "Đoái trên; Cấn dưới",
+   "loiQueAm": "Hàm hanh, lợi trinh, thù nữ, cát",
+   "loiQue": "Quẻ Hàm hanh, lợi chính, lấy con gái, tốt",
+   "thoanAm": "Thoán viết: Hàm cảm dã, nhu thượng nhi cương hạ, nhị khí cảm ứng dĩ tương dữ, chỉ nhi duyệt, nam hạ nữ, thị dĩ hanh lợi trình, thú nữ cát dã Thiên địa cảm nhi vạn vật hóa sinh, thánh nhân cảm nhân tâm nhi thiên hạ hòa bình, quan kỳ sở cảm nhi thiên địa vạn vật chi tình khả kiến hỹ",
+   "thoan": "Lời Thoán nói rằng: Hàm là cảm vậy. Mềm trên mà cứng dưới, hai khí cảm ứng để cũng nhau, đậu mà đẹp lòng, trai dưới gái; vì vậy mới hanh lợi trinh, lấy con gái thì tốt Trời đất cảm mà muôn vật hóa sinh, đấng thánh nhân cảm lòng người mà thiên hạ hòa bình; xem cái thửa cảm mà tình của trời đất muôn vật có thể thấy vậy",
+   "loiTuongAm": "Tượng viết: Sợn thượng hữu trạch, Hàm, quân tử dĩ hư thụ nhân",
+   "loiTuong": "Lời Tượng nói rằng: Trên núi có chầm, là quẻ Hàm, đấng quân tử coi đó mà trống rỗng lòng mình để nhận người ta",
+   "haoAm": [
+    "Sơ lục: Hàm kỳ mẫu",
+    "Lục nhị: Hàm kỳ phi, hung! cư cắt!",
+    "Cửu Tam: Hàm kỳ cổ, chấp kỳ tùy, vãng lận",
+    "Cửu Tứ: Trinh cát, hối vong, đồng vãng lai, bằng tòng nhĩ tư",
+    "Cửu Ngũ: Hàm kỳ môi, vô hối",
+    "Thượng Lục: Hàm kỳ phụ, giáp, thiệt"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Cảm thửa ngón chân cái",
+    "Hào Sáu Hai: Cảm thửa bụng chân hung! Ở yên, tốt!",
+    "Hào Chính Ba: Cảm thửa đùi, giữ thửa sự theo, đi thì đáng tiếc",
+    "Hào Chín Tư: Chính bền thì tốt, sự ăn năn sẽ mất; săng sắc đi lại, bạn theo sự nghĩ của mày",
+    "Hào Chín Năm: Cảm thửa thăn thịt, không ăn năn",
+    "Hào Sáu Trên: Cảm thửa xương má, mép, lưỡi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Hàm kỳ mẫu, chí tại ngoại dã",
+    "Tượng viết: Tuy hung, cư cát, thuận bất hại dã",
+    "Tượng viết: Hàm kỳ cổ, diệc bất xử dã, chí tại tùy nhân, sở chấp hạ dã",
+    "Tượng viết Trinh cát, hối vong, vị cảm hại dã, đồng đồng vãng lại, vị quang đại dã",
+    "Tượng viết: Hàm kỳ môi, chí mạt dã",
+    "Tượng viết: Hàm kỳ phụ, giáp, thiệt, đằng khẩu thuyết dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Cảm thửa ngón chân cái, chí ở ngoài vậy",
+    "Lời Tượng nói rằng: Dẫu hung, ở yên tốt, thuận thì không hại vậy",
+    "Lời Tượng nói rằng: Cảm thửa đùi, cùng chẳng ở vậy: Chí ở theo người, thửa giữ thấp vậy",
+    "Lời Tượng nói rằng: Chính tốt, sự ăn năn mất, chưa cảm hại vậy, săng sắc đi lại, chưa sáng lớn vậy",
+    "Lời Tượng nói rằng: Cảm thửa thăn thịt, chí ngọn vậy",
+    "Lời Tượng nói rằng: Cảm thửa xương má, mép lưỡi, là ruổi miệng nói vậy"
+   ],
+   "ten": "Trạch Sơn Hàm",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 32,
+   "tenTrongSach": "Quẻ Hằng",
+   "quaiTrongSach": "Chấn trên; Tốn dưới",
+   "loiQueAm": "Hằng hanh, vô cữu, lợi trinh, lợi hữu du vãng",
+   "loiQue": "Quẻ Hằng hanh, lợi về sự chính, lợi có thửa đi",
+   "thoanAm": "Thoán viết: Hằng cửu dã Cương thượng nhi nhu hạ, lôi phong tương dữ, tốn nhi động, cương nhu giai ứng, Hằng Hằng hanh, lei trinh, vô cữu, cửu ưkỳ đạo dã Thiên địa chi đặo, hằng cửu nhi bất dĩ dã Lợi hữu du vẵng, chung tắc hữu thủy dã Nhật nguyệt đắc thiên nhi năng cửu chiếu, tứ thì biến hóa nhi năng cửu thành, thánh nhân cửu ư kỳ đạo nhi thiên hạ hóa thành, quan kỳ sở hằng, nhi thiên địa vạn vật chi tình khả kiến hỹ",
+   "thoan": "Lời Thoán nói rằng: - Hằng là lâu vậy  Quẻ Hằng hanh, lợi về sự chính, không lỗi, là vì lâu với thửa đạo vậy Đạo của trời đất, thường lâu mà không thôi vậy Lợi có thửa đi, chót thì có đầu vậy Mặt trời mặt trăng được trời mà có thể soi lâu, bốn mùa biến hóa mà có thể nên lâu, đấng thánh nhân lâu với thửa đạo mà thiên hạ hóa nên; xem cái thửa thường, mà tình trời đất muôn vật có thể thấy vậy",
+   "loiTuongAm": "Tượng viết: Lôi phong Hằng, quân tử dĩ lập bất dịch phương",
+   "loiTuong": "Lời Tượng nói rằng: Sấm gió là quẻ Hằng, đấng quân tử coi đó mà đứng chẳng đổi phương",
+   "haoAm": [
+    "Sơ Lục: Tuấn Hằng, trinh hung, vô du lợi",
+    "Cửu Nhị: Hối vong",
+    "Cửu Tam: Bất hằng kỳ đức, hoặc thừa chi tu, trinh lận",
+    "Cửu Tứ: Điền vô cầm",
+    "Lục Ngũ: Hằng kỳ đức, trinh, phụ nhân cát, phu tử hung",
+    "Thượng lục: Chấn hằng, hung"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Đào sâu sự thường, trinh cũng hung, không thửa lợi",
+    "Hào Chín Hai: Sự ăn năn mất",
+    "Hào Chín Ba: Chẳng thường thửa đức, hoặc vâng đây thẹn, trinh cùng đáng tiếc",
+    "Hào Chín Tư: Săn không loài cầm",
+    "Hào Sáu Năm: Thường thửa đức, chính, đàn bà tốt, đàn ông hung",
+    "Hào Chín Trên: Xốc thường, hung"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tuấn hằng chi hung, thủy cầu thâm dã",
+    "Tượng viết: Cửu Nhị hối vong, năng cửu trung dã",
+    "Tượng viết: Bất hằng kỳ đức, vô sở dung dã",
+    "Tượng viết: Cửu phi kỳ vị, an đắc cầm dã",
+    "Tượng viết: Phụ nhân cát, tòng nhất nhi chung dã; phu tử chế nghĩa, tòng phụ hung dã",
+    "Tượng viết: Chấn hằng tại thượng, đại vô công dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Đào sâu sự thường mà hung, mới cầu sâu vậy",
+    "Lời Tượng nói rằng: Hào Chín Hai, ăn năn mất, vì giữ lâu được đức giữa vậy",
+    "Lời Tượng nói rằng: Chẳng thường thửa đức, không có chỗ dung vậy",
+    "Lời Tượng nói rằng: Ở lâu không phải ngôi, sao được con cầm vậy?",
+    "Lời Tượng nói rằng: Đàn bà tốt, theo một bề đến trọn đời vậy; đàn ông đặt ra nghĩa, theo đằn bà thì hung",
+    "Lời Tượng nói rằng: xốc thường ở trên, cả không công vậy"
+   ],
+   "ten": "Lôi Phong Hằng",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 33,
+   "tenTrongSach": "Quẻ Độn",
+   "quaiTrongSach": "Kiền trên ;  Cấn dưới",
+   "loiQueAm": "Độn hanh, tiểu lợi trinh",
+   "loiQue": "Quẻ độn hanh, nhỏ lợi trinh",
+   "thoanAm": "Thoán viết: Độn hanh, Độn nhi hanh dã Cương đương vị nhi ứng, dữ thì hành dã Tiểu lợi trinh, tẩm nhi trưởng dã Độn chi thì nghĩa đại hỷ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Độn hanh, là lánh đi mà hanh vậy Cứng đương ngôi mà ứng, cũng thì đi vậy Nhỏ lợi trinh, dần dần mà lớn vậy Thì nghĩa của quẻ Độn lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Thiên hạ hữu sơn, Độn; quân tử dĩ viễn tiểu nhân, bất ác nhi nghiêm",
+   "loiTuong": "Lời Tượng nói rằng: Dưới trời có núi, là quẻ Độn, đấng quân tử coi đó mà xa kẻ tiểu nhân, không ác mà nghiêm",
+   "haoAm": [
+    "Sơ Lục: Độn vỹ, lệ! Vật dụng hữa du vãng",
+    "Lục Nhị: Chấp chi dụng hoàng ngưu chi cách, mạc chi thắng thoát",
+    "Cửu Tam: Hệ độn, hữu tật, lệ! Xúc thần thiếp, cát",
+    "Cửu tứ: Hiếu độn, quân tử cát, tiểu nhân phủ",
+    "Cửu ngũ: Gia Độn, trinh cát",
+    "Thượng Cửu: Phì độn, vô bất lợi"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Trốn đuôi, nguy! Chớ dùng có thửa đi",
+    "Hào Sáu Hai: Giữ đó, dùng da trâu vàng không ai trút nổi?",
+    "Hào Chín Ba: Vướng trốn, có tật nguy! Nuôi đầy tớ nàng hầu, tốt",
+    "Hào Chín Tư: Yêu trốn, đấng quân tử tốt, kẻ tiểu nhân không",
+    "Hào Chín Năm: Tốt trốn, chính tốt",
+    "Hào Chín Trên: Béo trốn, không gì không lợi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Độn vỹ chi lệ, bất vãng hà tai dã",
+    "Tượng viết: Chấp dụng hoàng ngưu, cố chí dã",
+    "Tượng viết: Hệ độn chi lệ, hữu tật bại dã; sức thần thiếp cát, bất khả đại sự dã",
+    "Tượng viết: Quân tử hiếu độn, tiểu nhân phủ dã",
+    "Tượng viết: Gia độn trình cát, dĩ chính chí dã",
+    "Tượng viết: Phì độn vô bất lợi, vô sở nghi dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Cái nguy của sự trốn đuôi, không đi hại gì vậy?",
+    "Lời Tượng nói rằng: Giữ dùng trâu vàng, bền chí vậy",
+    "Lời Tượng nói rằng: Vướng trốn mà dữ, là có tật mệt vậy; nuôi đầy tớ nàng hầu, tốt, là không thể làm việc lớn vậy",
+    "Lời Tượng nói rằng: Đấng quân tử yên trốn, kẻ tiểu nhân thì không vậy",
+    "Lời Tượng nói rằng: Tốt trốn chính tốt, vì chính chí vậy",
+    "Lời Tượng nói rằng: Béo trốn, không gì không lợi, là không thửa ngờ vậy"
+   ],
+   "ten": "Thiên Sơn Độn",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 34,
+   "tenTrongSach": "Quẻ Đại Tráng",
+   "quaiTrongSach": "Chấn trên;Kiền dưới",
+   "loiQueAm": "Đại tráng lợi trinh",
+   "loiQue": "Quẻ Đại tráng lợi về sự chính",
+   "thoanAm": "Thoán viết: Đại tráng, đại giả tráng dã, cương dĩ động, cố tráng Đại tráng lợi trinh, đại giả chính dã, chính đại nhi thiên địa chi tình khả kiến hỹ",
+   "thoan": "Lời Thoán nói rằng: Quẻ tráng, là lớn thì mạnh vậy. Dùng đức cứng mà động, cho nên lớn mạnh Lớn mạnh lợi về sự chính, là cái lớn thì chính vậy; chính lớn mà tình trời đất có thể thấy được",
+   "loiTuongAm": "Tượng viết: Lôi tại thiên thượng. Đại tráng, quân tử dĩ phi lễ vật lý",
+   "loiTuong": "Lời Tượng nói rằng: Sấm ở trên trời, là quẻ Đại tráng. Đấng quân tử coi đó mà không phải lễ chớ xéo vào",
+   "haoAm": [
+    "Sơ Cửu: Tráng vu chỉ, chính hung, hữu phu",
+    "Cửu Nhị: Trình cát",
+    "Cửu Tam: Tiểu nhân dụng tráng, quân tử dụng võng, trinh lệ, đê dương xúc phiên, doanh kỳ giốc",
+    "Cử Trinh cát, hối vong, phiên quyết bất doanh, tráng vụ đại dư chỉ phúc",
+    "Lục Ngũ: Táng dương vu dị, vỏ hổi",
+    "Thượng lục: Dê dương xúc phiên, bất năng thoái, bất năng toại, vô du lợi, gian tắc cát"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Mạnh ở ngón chân, đi thì hung, có tin",
+    "Hào Chín Hai: Chính tốt",
+    "Hào Chín Ba: Kẻ tiểu nhân dùng mạnh, đấng quân tử dùng chẳng, chính nguy! Dê đực húc giậu, mắc thửa sừng",
+    "Hào Chín Tư: Chính thì tốt, ăn năn mất, phên bựt chẳng mắc, mạnh ở vành trục xe lớn",
+    "Hào Sáu Năm: Mất dê ở sự dễ không ăn năm",
+    "Hào Sáu Trên: Dê đực húc giậu, chẳng hay lui, chẳng hai toại, không thửa lợi, khó thì tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tráng vu chỉ, kỳ phu cùng dã",
+    "Tượng viết: Cửu Nhị trinh cát, dĩ trung dã",
+    "Tượng viết: Tiểu nhân dụng tráng, quân tử võng dã",
+    "Tượng viết: Phiên quyết bất doanh, thượng vãng dã",
+    "Tượng viết: Táng dương vu dị, vị bất đáng dã",
+    "Tượng viết: Bất năng thoái, bất năng toại, bất tường dã, gian tắc cát, cữu bất trường dã"
+   ],
+   "tieuTuong": [
+    "Lời tượng nói rằng: Mạnh ở ngón chân, thửa tin cùng vậy",
+    "Lời Tương nói rằng: Hào Chín Hai chính tốt, về giữa vậy",
+    "Lời Tượng nói rằng: Kẻ tiểu nhân dùng mạnh, đấng quân tử chẳng vậy",
+    "Lời Tượng nói rằng: Giậu bựt chẳng mắc, còn đi vậy",
+    "Lời Tượng nói rằng: Mất dê ở sự dễ, ngôi không đáng vậy",
+    "Lời Tượng nói rằng: Chẳng hay lui, chẳng hay toại, là chẳng tường vậy; khó thì tốt, là lỗi chẳng dài vậy"
+   ],
+   "ten": "Lôi Thiên Đại Tráng",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 35,
+   "tenTrongSach": "Quẻ Tấn",
+   "quaiTrongSach": "Ly trên; Khôn dưới",
+   "loiQueAm": "Tấn, khang hầu dụng tích mã phồn thứ, trú nhật tam tiếp",
+   "loiQue": "Quẻ Tấn, tước hầu yên dừng cho ngựa giậm nhiều, ban ngày ba lần tiếp",
+   "thoanAm": "Thoán viết: Tấn tiến dã, minh xuất địa thượng, nhi lệ hồ đại minh, nhu tiến nhi thượng hành, thị dĩ khang hầu dụng tích mã phồn thứ, trú nhật tam tiếp dã",
+   "thoan": "Lời Thoán nói rằng: Tấn là tiến. Sáng ra trên đất, mà bám vào chỗ sáng lớn, mềm tiến mà đi lên, thế cho nên tước hầu yên dùng cho ngựa giậm nhiều, ban ngày ba lần tiếp vậy",
+   "loiTuongAm": "Tượng viết: Hỏa tại địa thượng. Tấn, quân tử dĩ tự chiêu minh đức",
+   "loiTuong": "Lời Tượng nói rằng: Lửa ở trên đất, là quẻ Tấn. đấng quân tử coi đó để tự làm tỏ đức sáng",
+   "haoAm": [
+    "Sơ Lục: Tấn như, tồi như, trình cát, võng phu, dạ vô cữu",
+    "Lục Nhị: Tấn như, sầu như, trinh cát, thụ tư giới phúc vu kỳ vương mẫu",
+    "Lục Tam: Chúng doãn, hối vong",
+    "Cửu Tứ: Tấn như, thạch thử trinh lệ",
+    "Lục Ngũ: Hối vong, thất đắc vật tuất, vãng cát, vô bất lợi",
+    "Thượng Cửu: Tấn kỳ dốc, duy dụng phạt ấp, lệ! Cát vô cữu, trinh lận"
+   ],
+   "hao": [
+    "Hào Sáu Đầu; Dường tiến lên vậy, dường đun lại vậy, chính thì tốt, chẳng tin, khoan thai không lỗi",
+    "Hào Sáu Hai: Dường tiến vậy, dường sầu vậy, chính thì tốt, nhận phúc lớn ấy chưng thuở bà nội",
+    "Hào Sáu Ba: Mọi người tin, ăn năn mất",
+    "Hào Chín Tư: Dường tiến vậy, con chuột đồng, chính bền, nguy!",
+    "Hào Sáu Năm: Ăn năn mất, mất được chớ lo, đi thì tốt, không gì không lợi",
+    "Hào Chín Trên: Tiến thửa sừng, bui dùng đánh làng, lo thì tốt, không lỗi, trinh thì đáng tiếc"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tấn như, tồi như, độc hành chính dã; dụ vô cữu, vị thụ mệnh dã",
+    "Tượng viết: Thụ tư giới phúc, dĩ trung chính dã",
+    "Tượng viết: Chúng doãn chi chí, thượng hành dã",
+    "Tượng viết: Thạch thử trinh lệ, vị bất đáng dã",
+    "Tượng viết: Thất đắc vật tuất, vãng hữu khánh dã",
+    "Tượng viết: Duy dụng phạt ấp, đạo vị quang dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Dường tiến vậy, dường bẻ vậy, là một đi chính vậy; khoan thai không lỗi, vì chưa chịu mệnh vậy",
+    "Lời Tượng nói rằng: Nhận phúc lớn ấy, vì trung chính vậy",
+    "Lời Tượng nói rằng: Cái chí được mọi người tin, vì đi lên vậy",
+    "Lời Tượng nói rằng: Chuột đồng chính nguy, ngôi chẳng đáng vậy",
+    "Lời Tượng nói rằng: Mất được chớ lo, đi có phúc vậy",
+    "Lời Tượng nói rằng: Bui dùng đánh làng, đạo chưa sáng vậy"
+   ],
+   "ten": "Hỏa Địa Tấn",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 36,
+   "tenTrongSach": "Quẻ Minh Di",
+   "quaiTrongSach": "Khôn trên; Ly dưới",
+   "loiQueAm": "Minh di lợi gian trinh",
+   "loiQue": "Quẻ Minh di lợi về khó nhọc trinh chính",
+   "thoanAm": "Thoán viết: Minh nhập địa trung, Minh di Nội văn minh nhi ngoại nhu thuận, dĩ mông đại nạn, Văn vương dĩ chi Lợi gian trinh, hối kỳ minh dã; nội nạn nhi năng chính kỳ chí, Cả tử dĩ chi",
+   "thoan": "Lời Thoán nói rằng: Sáng vào trong đất, là quẻ Minh di Trong văn vẻ sáng láng mà ngoài mềm thuận để đội nạn lớn, vua Văn dùng cách đó Lợi về khó nhọc trinh chính, là làm cho tối thửa sự sáng vậy; trong nạn mà hay chính thửa chí, ông Cơ tử dùng cách đó",
+   "loiTuongAm": "Tượng viết: Minh nhập địa trung, Minh di, quân tử dĩ ly chúng, dụng hối nhi minh",
+   "loiTuong": "Lời Tượng nói rằng: Sáng vào trong đất là quẻ Minh di. Đấng quân tử coi đó để trị dân chúng, dùng tối mà sáng",
+   "haoAm": [
+    "Sơ Cửu: Minh di vu phi, thùy kỳ dực; quân tử vu hành, tam nhật bất thực; hữu du vãng; chủ nhân hữu ngôn",
+    "Lục Nhị: Minh di, di vu tả cổ, dụng chửng, mã tráng cát",
+    "Cửu Tam: Minh di vu nam thù, đắc kỳ đại thủ, bất khả tật trinh",
+    "Lục Tứ: Nhập vu tả phúc, hoạch minh di chi tâm, vu xuất môn định",
+    "Lục Ngũ: Cơ Tử chi minh di, lợi trinh",
+    "Thượng Lục: Bất minh hối; sơ đăng vu thiên, hậu nhập vu địa"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Sáng đau chưng bay; đủ thửa cánh; đấng quân tử chưng đi, ba ngày chẳng ăn; có thửa đi; người chủ có nói",
+    "Hào Sáu Hai: Sáng đau, đau ở đùi bên tả, dùng cứu, ngựa mạnh tốt",
+    "Hào Chín Ba: Sáng đau chưng cuộc săn bên nam được thừa đầu lớn, chẳng khá kíp chính",
+    "Hào Sáu Tư: Vào chưng bụng bên tả được cái lòng sáng đau: chưng ra cửa sân",
+    "Hào Sáu Năm, ông Cơ Tử chưng sáng đau, lợi về chính bền",
+    "Hào Sáu Trên: Chẳng sáng; tối đầu lên chưng trời, sau vào chưng đất"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Quân tử vu hành, nghĩa bất thực dã",
+    "Tượng viết: Lục Nhị chi cát, thuận dĩ tắc dã",
+    "Tượng viết: Nam thú chi chí, nãi đại bất đắc dã",
+    "Tượng viết: Nhập vu tả phúc, hoạch tâm ý dã",
+    "Tượng viết: Cơ Tử chi trinh, minh bất khả tức dã",
+    "Tượng viết: Sơ Đăng vu thiên, chiếu tứ quốc dã; hậu nhập vu địa, thất đắc dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Đấng quân tử chưng đi nghĩa là chẳng ăn vậy",
+    "Lời Tượng nói rằng: Cái tốt của hào Sáu Hai, vì thuận bằng phép vây",
+    "Lời Tượng nói rằng: Chí săn bên Nam, bền cả được vậy",
+    "Lời Tượng nói rằng: Vào chưng bụng bên tả, được lòng ý vậy",
+    "Lời Tượng nói rằng: Ông Cơ Tử chưng chính, sự sáng không thể tắt vậy",
+    "Lời Tượng nói rằng: Đầu lên chưng trời, soi bốn nước vậy; sau vào chưng đất, mất phép vậy"
+   ],
+   "ten": "Địa Hỏa Minh Di",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 37,
+   "tenTrongSach": "Quẻ Gia Nhân",
+   "quaiTrongSach": "Tốn trên; Ly dưới",
+   "loiQueAm": "Gia nhân lợi nữ trinh",
+   "loiQue": "Quẻ gia nhân lợi về gái chính",
+   "thoanAm": "Thoán viết: Gia nhân, nữ chính vị hồ nội, nam chính vị hồ ngoại; nam nữ chính; thiện địa chỉ đại nghĩa dã. Gia nhân hữu nghiêm quân yên, phụ mẩu chi vị dã. Phụ phụ, tử tử, huynh huynh, đệ đệ, phu phu, phụ phụ, nhi gia đạo chính, chính gia nhi thiên hạ định hỹ",
+   "thoan": "Lời thoán nói rằng: Quẻ Gia nhân; con gái chính ngôi ở trong, con trai chính ngôi ở ngoài, trai gái chính, là nghĩa lớn của trời đất vậy. Người nhà cố vua nghiêm, là cha mẹ vậy. Cha ra cha, con ra con, anh ra anh, em ra em, vợ ra vợ, chồng ra chồng, mà đạo nhà chính. Chính được nhà thì thiên hạ phải đâu vào đấy",
+   "loiTuongAm": "Tượng viết: Phong tự hỏa xuất, Gia nhân, quân tử dĩ ngôn hữu vật, nhi hạnh hữu hằng",
+   "loiTuong": "Lời Tượng nói rằng: Gió từ lửa ra, là quẻ Gia nhân, đấng quân tử coi đó mà nói có vật, nết có thường",
+   "haoAm": [
+    "Sở Cửu: Nhàn hữu gia, hối vong",
+    "Lục Nhị: Vô du toại, tại trung quỹ, trinh cát",
+    "Cửu Tam: Gia nhân hạc hạc, hối, lệ, cát: phu tử hy hy. chung lận",
+    "Lục T: Phú gia, đại cát",
+    "Cửu Ngũ: Vương cách hữu gia, vật, tuất cát",
+    "Thượng Cửu: Hữu phu uy như, chung cát"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Ngăn ngừa có nhà, ăn năn mất",
+    "Hào Sáu Hai: không thửa thỏa, ở trong, chủ việc ăn uống, chính tốt",
+    "Hào Chín Ba: Người nhà nem nép (?), hối dữ, tốt; vợ con hơn hớn, sau chót thẹn tiếc",
+    "Hào Sáu Tư: Giàu nhà, cả tốt",
+    "Hào Chín Năm: Vua đến có nhà, chớ lo, tốt",
+    "Hào Chín Trên: Có tin, đường oai nghiêm vậy, trọn tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Nhàn hữu gia, chí vị biện dã",
+    "Tượng viết: Lục Nhị chi cát, thuận dĩ tốn dã",
+    "Tượng viết: Gia nhân hạc hạc, vị thất dã; phụ tử hy hy, thất gia tiết dã",
+    "Tượng viết: Phú gia đại cát, thuận tại vị dã",
+    "Tượng viết: Vương cách hữu gia, giao tương ái dã",
+    "Tượng viết: Uy như chỉ cát, phản thân chi vị dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: ngăn ngừa có nhà, chí chưa đổi vậy",
+    "Lời Tượng nói rằng: Cái tốt của Hào Sáu Hai, thuận và nhún vậy",
+    "Lời Tượng nói rằng: Người nhà nem nép, chưa mất vậy; vợ con hơn hớn, mất tiết độ của nhà vậy",
+    "Lời Tượng nói rằng: Giàu nhà cả tốt, thuận ở ngôi vậy",
+    "Lời Tượng nói rằng: Vua đến có nhà, yêu lẫn nhau vậy",
+    "Lời Tượng nói rằng: Dường oai nghiêm vậy mà tốt, chỉ về trở lại trong mình vậy"
+   ],
+   "ten": "Phong Hỏa Gia Nhân",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 38,
+   "tenTrongSach": "Quẻ Khuê",
+   "quaiTrongSach": "Ly trên; Đoái dưới",
+   "loiQueAm": "Khuê, tiểu sự cát",
+   "loiQue": "Quẻ Khuê, việc nhỏ tốt",
+   "thoanAm": "Thoán viết; Khuê, hỏa động nhi thượng, trạch động nhi hạ, nhị nữ đồng cư, kỳ chí bất đồng hành Duyệt nhi lệ hồ minh, nhu tiến nhi thượng hành, đắc trung, nhi ứng hồ cương, thị dĩ tiểu sự cát Thiên địa khuê nhi kỳ sự đồng dã, nam nữ khuê nhi kỳ chí thông dã, vạn vật khuê nhỉ kỳ sự loại dã. Khuê chi thì dụng đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Khuê, lửa động mà lên, chằm động mà xuống, hai gái cùng ở, mà chí họ không cùng đi Đẹp lòng mà bám vào sáng, mềm tiến mà đi lên, được giữa mà ứng với cứng, vì vậy việc nhỏ tốt Trời đất lìa nhau mà thửa việc cùng nhau, trai gái lìa nhau mà thửa chi thông nhau vậy, muôn vật lìa nhau mà thửa việc giống nhau vậy. Thời dụng của quẻ Khuê lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Thượng hỏa, hạ trạch, Khuê, quân tử dĩ đồng nhi dị",
+   "loiTuong": "Lời Tượng nói rằng: Trên lửa, dưới chằm, là quẻ Khuê. Đấng quân tử coi đó để cùng mà khác",
+   "haoAm": [
+    "Sơ cửu: Hối vong: táng mả, vật trục, tự phục, kiến ác nhân, vô cữu",
+    "Cửu Nhị: Ngộ chủ vu hạng, vô cữu",
+    "Lục Tam: Kiến dư duệ, kỳ ngưu xiết, kỳ nhân, thiên thả ty, vô sơ hữu chung",
+    "Cửu Tứ: Khuê cô, ngộ nguyên phu, giao phu, lệ, vôcữu",
+    "Lục Ngũ: Hối vong, quyết tôngphệ phu, vãng, hà cữu?",
+    "Thượng Cửu: Khuê cố kiến thỉ phụ đồ, tái quỉ nhất xa, tiên trương chi hồ, hậu thoát chi hồ, phỉ khấu, hôn cấu! Văng, ngộ vũ tắc cát"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Ăn năn mất, mất ngựa, chớ đuổi theo tự nhiên trở lại, thấy người ác, không lỗi",
+    "Hào Chín Hai: Gặp chúa ở ngõ, không lỗi",
+    "Hào Sáu Ba: Thấy xe kéo, thửa trâu kìm, thửa người gọt đầu và xẻo mũi. Không đầu, có chót",
+    "Hào Chín Tư: Lìa côi, gặp chàng lành, tin lẫn, nguy, không lỗi",
+    "Ăn năn mất, thửa họ cắn da, đi, lỗi gì?",
+    "Hào Chín Trên: Lìa cô thấy lợn đội bùn, chở ma một xe, trước giương chưng cung, sau tháo chưng cung, chẳng phải giặc, dâu gia, đi, gặp mưa thì tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Kiến ác nhân, dĩ ty cữu dã",
+    "Tượng viết: Ngộ chủ vu hạng, vị thất đạo dã",
+    "Tượng viết: Kiến dư duệ, vị bất đáng dã, Vô sơ hữu chung, ngộ cương dã",
+    "Tượng viết: Giao phu vô cữu, chí hành dã",
+    "Tượng viết: Quyết tông phệ phu, vảng hữu khánh dã",
+    "Tượng viết: Ngô vũ chỉ cát, quần nghi vong dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Thấy người ác, để tránh lỗi vậy",
+    "Lời Tượng nói rằng: Gặp chúa ở ngõ, chưa mất đạo vậy",
+    "Lời Tượng nói rằng: Thấy xe kéo, ngồi chẳng đáng vậy, không đầu có chót, gặp cứng vậy",
+    "Lời Tượng nói rằng: Tin lẫn, không lỗi, chí được thực hành vậy",
+    "Lời Tượng nói rằng: Thửa họ cắn da, đi có phúc vậy",
+    "Lời Tượng nói rằng: Gặp mưa mà tốt, các điều ngờ mất vậy"
+   ],
+   "ten": "Hỏa Trạch Khuê",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 39,
+   "tenTrongSach": "Quẻ Kiển",
+   "quaiTrongSach": "Khảm trên; Cấn dưới",
+   "loiQueAm": "Kiển lợi Tây Nam, bất lợi Đông Bắc, lợi kiến đại nhân trinh cát",
+   "loiQue": "Quẻ Kiển, lợi Tây Nam không lợi Đông Bắc, lợi về sự thấy người lớn, chính thì tốt",
+   "thoanAm": "Thoán viết: Kiển nan dã, hiểm tại tiền đã Kiển hiểm nhi năng chỉ, tri hỹ tai! Kiển lợi Tây Nam, vãng đắc trung dã, bất lợi Đông Bắc, kỳ đạo cùng dã Lợi kiến đại nhân, văng hữu công dã, đáng vị trình cát dĩ chính bang dã. Kiển chi thì dụng đại hỷ tai!",
+   "thoan": "Lời Thoán nói rằng: Kiển là khó vậy, hiểm ở trước vậy Thấy hiểm mà biết đậu, khôn vậy thay! Quẻ Kiển lợi Tây Nam, đi được vào giữa vậy, chẳng lợi Đông Bắc, thuở đạo cùng vậy Lợi thấy người lớn, đi có công vậy, đáng ngôi chính tốt, đẻ chính nước vậy. Thời dụng của quẻ Kiển lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Sơn thượng hữu thủy. Kiển, quân tử dĩ phản thân tu đức",
+   "loiTuong": "Lời Tượng nói rằng: Trên núi có nước, là quẻ Kiển, đấng quân tử coi đó mà trở lại mình, sửa đức",
+   "haoAm": [
+    "Sơ lục: Vãng kiển, lai dự",
+    "Lục Nhị: Vương thần kiển kiển, phí cung chi cố",
+    "Cửu Tam: Vâng kiểu lai phản",
+    "Lục Tứ: Vãng kiển lai liên",
+    "Cửu ngũ: Đại kiển bằng lai",
+    "Thượng Lục: Vãng kiển lai thạc, cát, lợi kiến đại nhân"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Đi kiển, lại khen",
+    "Hào Sáu Hai: Tôi vua kiển kiển, chẳng phải cớ của mình",
+    "Hào Chín Ba: Đi kiển lại thì lại",
+    "Hào Sáu Tư: Đi kiển, lại thì liền",
+    "Hào Chín Năm: Cả Kiển bạn lại",
+    "Hào Sáu trên: Đi kiển lại lớn, tốt, lợi về sự thấy người lớn"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Vãng kiển lai dự, nghi đãi dã",
+    "Tượng viết: Vương thần kiển kiển, chung vô cữu dã",
+    "Tượng viết: Văng kiển lai phản, nội hỷ chi dã",
+    "Tượng viết: Văng kiển lai liên, đắng vị thực dã",
+    "Tượng viết: Đại kiển bằng lai, dĩ trung tiết dã",
+    "Tượng viết: Vãng kiển lai thạc, chí tại nội dã, lợi kiến đại nhân, dĩ tòng quí dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Đi kiển, lại khen, nên đợi vậy",
+    "Lời Tượng nói rằng: Tôi vua kiển, sau chót không lỗi vậy",
+    "Lời Tượng nói rằng: Đi thì kiển, lại thì trở lại, trong thích đó vậy",
+    "Lời Tượng nói rằng: Đi kiển, lại thì liền, đáng ngôi thật vậy",
+    "Lời Tượng nói rằng: Cả kiển bạn lại vì tiết giữa (?) vậy",
+    "Lởi Tượng nói rằng: Đi kiển, lại lớn, chí ở trong vậy, lợi về sự thấy người lớn, vì theo kẻ sang vậy"
+   ],
+   "ten": "Thủy Sơn Kiển",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 40,
+   "tenTrongSach": "Quẻ Giải",
+   "quaiTrongSach": "Chân trên;Khảm dưới",
+   "loiQueAm": "Giải lợi Tây Nam, vô sở vãng, kỳ lai phục, cát, hữu du vãng, túc cát",
+   "loiQue": "Quẻ Giải lợi về phương Tây Nam, không thửa đi, thì lại lại, có thửa đi, sớm thì tốt",
+   "thoanAm": "Thoán viết: Giải, hiểm dĩ động, động nhỉ miễn hồ hiểm, giải.’ Giải lợi Tây Nam vãng đắc chúng dã Kỳ lai phục, cát, nãi đắc trung đã Hữu du vãng, túc, cát, vãng hữu công dã Thiên địa giải nhi lôi vũ tác, lôi vũ, tác nhi bách quả thảo mộc giai giáp triết, Giải chi thì đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Giải hiểm mà động, động mà khỏi chỗ hiểm, là giải Quẻ Giải lợi Tây Nam, đi thì được người vậy Thì lạí lại, tốt, bèn được giữa vậy Có thửa đi, sớm, tốt, đi thì có công vậy Trời đất giải mà sấm mưa nổi lên, sấm mưa nổi lên mà trầm quả cỏ cây đều vỏ nứt, thì của quẻ Giải lớn vậy thay?",
+   "loiTuongAm": "Tượng viết: Lôi vũ tác, Giải, quân tử dĩ xá quá hựu tội",
+   "loiTuong": "Lời Tượng nói rằng: Sấm mưa nổi lên, là quẻ Giải, đấng quân tử coi đó mà xá lỗi, tha tội",
+   "haoAm": [
+    "Sơ Lục: Vô cữu",
+    "Cửu Nhi: Điền hoạch tam hồ, đắc hoàng thi, trinh cát",
+    "Lục Tam: Phụ thả thừa, tri khấu trí, trinh lận",
+    "Cửu Tứ. Giải nhi mẫu, bằng chi tư phu",
+    "Lục Ngũ: Quân tử duy hữu giải, cắt, hữu phu vu tiểu nhân",
+    "Thượng lục: Công dụng xạ chuẩn vu cao dung chi thượng, hoạch chi, vô bất lợi"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Không lỗi",
+    "Hào Chín Hai: Săn được ba con cáo, được tên vàng, chính bền thì tốt",
+    "Hào Sáu Ba: Đội và cưỡi, dắt giặc đến, chính bền cũng đáng tiếc",
+    "Hào Chín Tư: Giải ngón chân cái mày, bằng đến ấy tin",
+    "Hào Sáu Năm: Đấng quân tử chỉ có giải, tốt, có tin chưng kẻ tiểu nhân",
+    "Hào Sáu Trên: Ông dùng bắn chim cắt ở trên, tường cao, được nó, không gì không lợi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Cương nhu chi tế, nghĩa vô cửu dã",
+    "Tượng viết: Cửu Nhị trinh cát, đắc trung đạo dã",
+    "Tượng viết: Phụ thả thừa, diệt khả xũ dã; tự ngã tri nhung, hựu thùy cữu dã",
+    "Tượng viết: Giải nhi mẫu, vị đáng vị dã",
+    "Tượng viết: Quân tử hữu giải, tiểu nhân thoái dã",
+    "Tượng viết: Công dụng xạ chuẩn, dĩ giải bồi dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Cứng mềm giao tế, nghĩa không lỗi vậy",
+    "Lời Tượng nói rằng: Hào Chín Hai chính bền thì tốt vì được trung đạo vậy",
+    "Lời Tượng nói rằng: Đội và cưỡi, cũng đáng xấu vậy; tự ta đem giặc đến, lại trách ai vậy?",
+    "Lời Tượng nói rằng: Giải ngón chân cái mày, chưa đáng ngôi vậy",
+    "Lời Tượng nói rằng: Đấng quân tử có giải, kẻ tiểu nhân lui vậy",
+    "Lời Tượng nói rằng: Ông dùng bắn chim cắt, để giải trái vậy"
+   ],
+   "ten": "Lôi Thủy Giải",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 41,
+   "tenTrongSach": "Quẻ Tổn",
+   "quaiTrongSach": "Cấn trên ; Đoái dưới",
+   "loiQueAm": "Tổn hữu phu, nguyên cát, vô cữu, khả trinh, lợi hữu du vãng Hạt chi dụng? Nhị quĩ khả dụng hưởng",
+   "loiQue": "Quẻ Tổn, có tin, cả tốt, không lỗi, khá trinh, lợi có thửa đi Chưng dùng gì? Hai quĩ khá dùng hưởng",
+   "thoanAm": "Thoán viết: Tổn, tổn hạ ích thượng, kỳ đạo thượng hành Tổn nhi hữu phu, nguyên cát, vô cữu, khả trinh lợi hữu du vãng Hạt chi dụng? Nhị quĩ, khả dụng hưởng, nhị quĩ ưng hữu thì, tổn cương ích nhu, hữu thì Tổn ích doanh hư, dữ thì giai hành",
+   "thoan": "Lời Thoán nói rằng: quẻ Tổn, bớt dưới thêm trên, thửa đạo đi lên Tổn mà có tin, cả tốt, không lỗi, có thể chính bến, lợi có thửa đi Chưng dùng gì? Hai quĩ, khá dùng hưởng. Hai quĩ nên có thì, bớt cứng thêm mềm có thì Bớt thêm đầy rỗng, cùng thì đều đi",
+   "loiTuongAm": "Tượng viết: Sơn hạ hữa trạch, Tổn, quân tử dĩ trừng phẫn, chất dục",
+   "loiTuong": "Lời Tượng nói rằng: Dưới núi có chằm, là quẻ Tổn đấng quân tử coi đó mà răn sự giận, lấp lòng dục",
+   "haoAm": [
+    "Sơ Cửu: Dĩ sự, xuyền váng, vô cữa, chước tổn chi",
+    "Cửu Nhị: Lợi trinh, chinh hung! Phất tổn, ích chi",
+    "Lục Tam: Tam nhân hành tắc tổn nhất nhân, nhất nhân hành tắc đắc kỳ hữu",
+    "Lục Tứ: Tổn tôn, sử xuyền hữu hỷ, nguyên cắt, vô cữu",
+    "Lục Ngũ: Hoặc ích chi thập bằng chi quy, phất khắc vi, nguyên cát",
+    "Thượng Cửu: Phất tổn, ích chi, vô cữu, trinh cát, lợi hữu du vãng, đắc thần vô gia"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Xong việc, mau đi, không lỗi, châm chước mà bớt đấy",
+    "Hào Chín Hai: Lợi về chính bền, đi thì hung! Chớ bớt, thêm đấy!",
+    "Hào Sáu Ba: Ba người đi thì tổn một người, một người đi thì được thửa bạn",
+    "Hào Sáu Tư: Bớt thửa tật, khiến chóng có mừng, cả tốt, không lỗi",
+    "Hào Sáu Năm: Hoặc ích cho đấy, chưng con rùa mười “bằng” chẳng hay trái, cả tốt!",
+    "Hào Chín Trên: Chẳng bớt, thêm đấy, không lỗi, chính bền tốt, lợi có thửa đi, được bề tôi không nhà"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Dĩ sự, chuyên vãng, thượng hợp chí dã",
+    "Tượng viết: Cửu nhị lợi trinh, trung dĩ vi chí dã",
+    "Tượng viết: Nhất nhân hành, tam đắc nghi dã",
+    "Tượng viết: Tổn kỳ tật, diệc khả hỷ dã",
+    "Tượng viết: Lục Ngũ: nguyên cát, tự thượng hựu dã",
+    "Tượng viết: Phất tổn, ích chi, đại đắc chí dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Xong việc mau đi, chuộng hợp chí vậy",
+    "Lời Tượng nói rằng: Hào Chín Hai lợi về chính bền, giữa lấy làm chí vậy",
+    "Lời Tượng nói rằng: Một người đi, ba thì ngờ vậy",
+    "Lời Tượng nói rằng: Bớt thửa tật, cũng đáng mừng vậy",
+    "Lời Tượng nói rằng: Hào Sáu Năm cả tốt, tự trên phù hộ vậy",
+    "Lời Tượng nói rằng: chẳng bớt, thêm đấy, cả được chí vậy"
+   ],
+   "ten": "Sơn Trạch Tổn",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 42,
+   "tenTrongSach": "Quẻ Ích",
+   "quaiTrongSach": "Tốn trên; Chấn dưới",
+   "loiQueAm": "Ích lợi hữu du vãng, lợi thiệp đại xuyên",
+   "loiQue": "Quẻ Ích lợi có thửa đi, lợi về sang sông lớn",
+   "thoanAm": "Thoán viết: Ích, tổn thượng ích hạ, dân nguyệt vô cương tự thượng há hạ, kỳ đạo đại quang Lợi hữu du vãng, trung chính hữu khánh Lợi thiệp đại xuyên, mộc đạo nãi hành Ích động nhi tốn, nhật tiến vô cương Thiên thi địa sinh, kỳ ích vô phương Phàm ích chi đạo, dữ thì giai hành",
+   "thoan": "Lời Thoán nói rằng: Quẻ Ích, bớt trên thêm dưới, dân đẹp lòng không bờ, tự trên xuống dưới, thửa đạo cả sáng Lợi có thửa đi, trung chính có phúc Lợi sang lớn, đạo ích mới cả thi hành Quẻ Ích động mà nhún, ngày tiến không bờ Trời thi hành, đất sinh, thửa ích không phương Phàm chưng đạo Ích, cùng thì đều đi",
+   "loiTuongAm": "Tượng viết: Phong lôi Ích, quân tử dĩ kiến thiện tắc thiên, hữu quá tắc cải",
+   "loiTuong": "Lời Tượng nói rằng: Gió sấm là quẻ Ích, đấng quân tử coi đó mà thấy điều thiện thì dời sang, có lỗi thì đổi đi",
+   "haoAm": [
+    "Sơ Cửu: Lợi dụng vi đại tác, nguyên cát, vô cữu",
+    "Lục Nhị: Hoặc ích chi thập bằng chi qui, phất khắc vi vĩnh trinh cát, vương dụng hưởng vu đế, cát!",
+    "Lục Tam: Ích chi, dụng hung sự, vô cữu, hữu phu, trung hàng, cáo công dụng khuê",
+    "Lục Tứ: Trung hành, cáp công tòng, lợi dụng vi y thiên quốc",
+    "Cửu Ngũ: Hữa phu, huệ tâm, vật vấn, nguyên cắt, hữu phu, huệ ngã đức",
+    "Thượng Cửu: Mạc ích chi, hoặc kích chi, lập tâm vật hằng, hung!"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Lợi dùng làm việc lớn, cả tốt, không lỗi",
+    "Hào Sáu Hai: Hoặc ích đấy, chưng rùa mười bằng chẳng hay trái, vĩnh viễn chính bền, tốt, vua dùng hưởng chưng trời, tốt!",
+    "Hào Sáu Ba: Ích đây, dùng việc hung, không lỗi, có tin, đường giữa, bảo tước. Công dùng ngọc khuê",
+    "Hào Sáu Tư: Đường giữa, tâu tước công theo, lợi dụng làm tựa, dời nước",
+    "Hào Chín Năm: Có tin lòng ơn, chớ hỏi, cả tốt, có tin, ơn đức ta",
+    "Hào Chín Trên: Chẳng ích nó, hoặc đánh nó, lập tâm chớ thường hung!"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Nguyên cát vô cữu, hạ bất hậu, sự dã",
+    "Tượng viết: Hoặc ích chi, tự ngoại lai dã",
+    "Tượng viết: Ích dụng hung sự, cố hữu chi dã",
+    "Tượng viết: Cáo công tòng, dĩ ích chí dã",
+    "Tượng viết: Hữu phu huệ tâm, vật vấn chi kỹ: huệ ngã đức, đại đắc chí dã",
+    "Tượng viết: Mạc ích chi, thiên từ dã, hoặc kích chi, tự ngoại tại dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Cả tốt không lỗi, kẻ dưới chẳng được dầy vậy",
+    "Lời Tượng nói rằng: Hoặc ích đấy, tự ngoài đến vậy",
+    "Lời Tượng nói rằng: Ích dùng việc hung, cố có đây vậy",
+    "Lời Tượng nói rằng: “Tâu tước Công, theo lấy chí làm ích vậy”",
+    "Lời Tượng nói rằng: Có tin, ơn lòng, chớ hỏi đấy vậy, ơn đức ta, cả được chí vậy",
+    "Lời Tượng nói rằng: Chẳng ích nó, lời nói lệch vậy, hoặc đánh nó, tự ngoài đến vậy"
+   ],
+   "ten": "Phong Lôi Ích",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 43,
+   "tenTrongSach": "Quẻ Quải",
+   "quaiTrongSach": "Đoái trên ; Kiền dưới",
+   "loiQueAm": "Quyết, dương vu vương đình, phu hiệu hữu lệ. Cáo tự ấp, bất lợi tức nhưng, lợi hữu dù vãng",
+   "loiQue": "Quẻ Quải, giơ chưng sân vua, tin gọi, có nguy. Bảo từ làng, chẳng lợi tới quân, lợi có thửa đi",
+   "thoanAm": "Thoán viết: Quải quyết dã, cương quyết nhu dã, kiện nhi duyệt, quyết nhi hòa Dương vu vương đình, nhu thừa ngũ cương dã Phu hiệu hữu lệ, kỳ nguy nãi quang dã Cáo tự ấp, bết lợi tức nhung, sở thượng nãi cùng dã Lợi hữu du vãng, cương trưởng nãi chung dã",
+   "thoan": "Lời Thoán nói rằng: Quải là quyết vậy, cứng quyết mềm vậy, mạnh mà đẹp lòng quyết mà hòa Giơ chưng sân vua, hào mềm cưỡi năm hào cứng vậy Tin gọi, có nguy, thửa nguy bèn sáng vậy Bảo tự làng, chẳng lợi tới quân, thửa chuộng bèn cùng vậy Lợi có thửa đi, cứng lớn bèn trọn vậy",
+   "loiTuongAm": "Tượng viết: Trạch thượng ư thiên, Quải, quân tử dĩ thí, lộc cập hạ, cư đức tắc ky",
+   "loiTuong": "Lời Tượng nói rằng: Chằm lên chưng trời, là quẻ Quải. Đấng quân tử coi đó mà ra lộc tới dưới, ở đức phép ky",
+   "haoAm": [
+    "Sở Cửu: Tráng vu tiền chỉ, vãng bất thắng, vi cữu",
+    "Cửu Nhị: Dịch hào, mộ dạ hữu nhung, vật tuất",
+    "Cửu Tam: Tráng vu cưu, hữu hung, quân tử quải quải, độc hành ngộ vũ, nhược nhu, hữu uấn, vô cữu",
+    "Cửu Tứ: Điêu vô phu, kỳ hành từ thư, khiên dương, hối vong, văn ngôn bất tín",
+    "Cửu Ngũ: Nghiến lục quải quải, trung hàng vô cữu",
+    "Thượng Lục: Vô hào, chung hữu hung"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Mạnh chưng ngón chân trước, đi thẳng được, là lỗi",
+    "Hào Chín Hai: Sợ kêu, đêm hôm có quân, chớ ngại",
+    "Hào Chín Ba: Mạnh chưng gồ má, có sự hung, đấng quân tử quyết quyết, đi một mình, gặp mưa, đường ướt, có giận, không lỗi",
+    "Hào Chin Tư: Đít không da, thửa đi chật vật, dắt dê, ăn năn mất, nghe nói chẳng tin",
+    "Hào Chín Năm: Rau sam quyết quyết, đường giữa không lỗi",
+    "Hào Sáu Trên: Không kêu, sau chót có hung"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Bất thắng nhi vãng, cữu da",
+    "Tượng viết: Hữu nhung, vật tuất, đắc trung đạo dã",
+    "Tượng viết: Quân tử quải quải, chung vô cữu dã",
+    "Tượng viết: Kỳ hành từ thư, vị bất đáng dã, văn ngôn bất tín, thông bất minh dã",
+    "Tượng viết: Trung hàng vô cữu, trung vị quang dã",
+    "Tượng viết: Vô hào chi hung, chung bất khả trường dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Chẳng được mà đi, là lỗi vậy",
+    "Lời Tượng nói rằng: Có quân, chớ ngại, được đạo vậy",
+    "Lời Tượng nói rằng: Đấng quân tử quyết quyết, chót không lỗi vậy",
+    "Lời Tượng nói rằng: Thửa đi chật vật, ngôi chẳng đáng vậy, nghe nói chẳng tin, sự nghe chẳng sáng vậy",
+    "Lời Tượng nói rằng: Đường giữa không lỗi, giữa chưa sáng vậy",
+    "Lời Tượng nói rằng: Sự hung của kẻ không kêu, sau chót không thể dài vậy"
+   ],
+   "ten": "Trạch Thiên Quải",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 44,
+   "tenTrongSach": "Quẻ Cấu",
+   "quaiTrongSach": "Càn trên; Tốn dưới",
+   "loiQueAm": "Cấu, nữ tráng, vật dụng thú nữ",
+   "loiQue": "Quẻ Cấu, con gái mạnh, chớ dùng lấy con gái",
+   "thoanAm": "Thoán viết: Cấu ngộ dã nhu ngộ cương dã Vật dụng thú nữ, bất khả dữ trường dã Thiên địa tương ngộ, phẩm vật hàm chương dã Cương ngộ trung chính, thiên hạ đại hành dã Cấu chi thì nghĩa đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Cấu là gặp vậy, mềm gặp cứng vậy Chớ dùng lấy con gái, chẳng khá cùng dài lâu vậy Trời đất gặp nhau, các phẩm các vật đều rõ vậy Cứng gặp giữa chính thiên hạ cả thi hành vậy Thì nghĩa của quẻ Cấu vậy thay!",
+   "loiTuongAm": "Tượng viết: Thiện hạ hữu phong, Cấu, hậu dĩ thi mệnh cáo tứ phương",
+   "loiTuong": "Lời Tượng nói rằng: Dưới trời có gió, là quẻ Cấu vui coi đó mà ra mệnh bảo bốn phương",
+   "haoAm": [
+    "Sơ Lục: Hệ vu kim nỷ, trính cát, hữu du vãng, kiến hung, luy thỉ phu chích chúc",
+    "Cửu Nhị: Bao hữu ngư, vô cữu, bất lợi tân",
+    "Cửu Tam: Điến vô phu, kỳ hành từ thư, lệ! Vô đại cữu",
+    "Cửu Tử: Bao vô ngư, khởi hung",
+    "Cửu Ngũ: Dĩ kỷ bảo qua, hàm chương, hữu vẫn tự thiên",
+    "Thượng Cửu: Cầu kỳ giốc, lận, vô cữu"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Buộc chưng neo sắt, chính tốt, có thửa đi, thấy hung, con lợn còm tin nhảy nhót",
+    "Hào Chín Hai: Bọc có cá, không lỗi chẳng lợi khách",
+    "Hào Chín Ba: Đít không da, thửa đi chật vật, nguy! Không lỗi lớn",
+    "Hào Chín Tư: Bọc không cá, dấy hung",
+    "Hào Chín Năm: lấy cây kỷ bọc quả dưa, ngậm văn vẻ, có sa tự trời",
+    "Hào Chín Trên: Gặp thửa sừng, đáng tiếc, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Hệ vu kim nỷ, nhu đạo khiên dã",
+    "Tượng viết: Bao hữư ngư, nghĩa bất cập tân dã",
+    "Tượng viết: Kỳ hành từ thư, hành vị khiên dã",
+    "Tượng viết: Vô ngư chi hung, viễn dân dã",
+    "Tượng viết: Cửu Ngũ hàm chương, trung chính dã, hữu vẫn tự thiên, chí bất xả mệnh dã",
+    "Tượng viết: Cấu kỳ giốc, thượng cùng lận dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Buộc chưng neo sắt, đạo mềm kéo vậy",
+    "Lời Tượng nói rằng: Bọc có cá, nghĩa chẳng kịp khách vậy",
+    "Lời Tượng nói rằng: Thửa đi chật vật, đi chưa kéo vậy",
+    "Lời Tượng nói rằng: Cái hung của sự - không cá, vì xa dân vậy",
+    "Lời Tượng nói rằng: Hào Chín Năm ngậm văn vẻ, giữa chính vậy, có sa tự trời, chí chẳng bỏ mệnh vậy",
+    "Lời Tượng nói rằng: Gặp thửa sừng, trên cùng, đáng tiếc vậy"
+   ],
+   "ten": "Thiên Phong Cấu",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 45,
+   "tenTrongSach": "Quẻ Tụy",
+   "quaiTrongSach": "Đoái trên; Khôn dưới",
+   "loiQueAm": "Tụy hanh, vương cách hữu miếu Lợi kiến đại nhân, hanh, lợi trinh Dụng đại sính cát, lợi hữu du vãng",
+   "loiQue": "Quẻ Tụy hanh, vua đến có miếu Lợi thấy bậc người lớn, hạnh, lợi về chính bền Dùng con sinh, lớn, tốt, lợi có thửa đi",
+   "thoanAm": "Thoán viết: Tụy tụ dã, thuận dĩ tuyệt, cương trung nhĩ ứng, có tụ Vương cách hữu miếu, trí hiếu hưởng dã Lợi kiến đại nhân, hanh, tu dĩ chính dã Dụng đại sinh cát, lợi hữu du vãng, thuận thiên mệnh dã Quan kỳ sở tụ nhi thiên địa vạn vận chi tình khả kiến hỹ",
+   "thoan": "Lời Thoán nói rằng: Tụy là họp vậy, thuận và đẹp lòng, cứng giữa mà có ứng, cho nên họp Vua đến có miếu, đem hết sự hiếu hưởng vậy Lợi thấy người lớn, hanh, họp bằng chính đạo vậy Dùng con sinh lớn, tốt lợi có thửa đi, thuận mệnh trời vậy Xem cái thửa họp, mà tình trời đất muôn vật khá thấy vậy",
+   "loiTuongAm": "Tượng viết: Trạch thượng ư địa, Tuy, quân tử dĩ trừ nhung khí, giới bất ngu",
+   "loiTuong": "Lời Tượng nói rằng: Chằm lên chưng đất, là quẻ Tụy, đấng quân tử coi đó mà trừ đồ quân, răn sự chẳng lường",
+   "haoAm": [
+    "Sơ Cửu: Hữu phu, bất chung, nãi loạn, nãi tụy, nhược hào, nhất ác vi tiếu, vật tuất, vãng vô cữu",
+    "Lục Nhị: Dẫn cát, vô cữu, phu nãi lợi, dụng Thược",
+    "Lục Tam: Tụy như, tư như, vô du lợi, vãng vô cữu, tiểu lận",
+    "Cửu Tứ: Đại cát, vô cữu",
+    "Cửu Ngũ: Tụy hữu vị, vô cữu, phỉ phu, nguyên vĩnh trinh hối vong",
+    "Thượng Lục: Tê tư, thế di, vô cữu"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Có tin, không chót, bèn loạn, bèn họp, bằng kêu, một nắm làm cười, chớ lo, đi không lỗi",
+    "Hào Sáu Hai: Dẫn tốt, không lỗi, tin bèn lời, dùng tế Thược",
+    "Hào Sáu Ba: Dường họp vậy, dường than vậy không thửa lợi, đi không lỗi, hơi tiếc",
+    "Hào Chín Tư: Cả tốt, không lỗi",
+    "Hào Chín Năm: Họp có ngói, không lỗi, chẳng tin, cả, dài, chính, ăn năn mất",
+    "Háo Sáu Trên: Than thở, nước mắt, nước mũi, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Nãi loạn, nãi tụy, kỳ chí loạn dã",
+    "Tượng viết: Dẫn cát, vô cữu, trung vị biến dã",
+    "Tượng viết: Vãng vô cữu, thượng tốn dã",
+    "Tượng viết: Đại cát, vô cữu, vị bất đáng dã",
+    "Tượng viết: Tụy hữu vị, chí vị quan dã",
+    "Tượng viết: Tê tư, thế di, vị an thượng dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Bèn loạn, bèn họp, thửa chí loạn vậy",
+    "Lời Tượng nói rằng: Dẫn tốt, không lỗi, giữa chưa đổi vậy",
+    "Lời Tượng nói rằng: Đi không lỗi, trên nhún vậy",
+    "Lời Tượng nói rằng: Cả tốt không lỗi, ngôi chẳng đáng vậy",
+    "Tượng nói rằng: họp có ngôi, chí chưa tỏ vậy",
+    "Lời Tượng nói rằng: Than thở, nước mắt nước mũi, chưa yên ngôi trên vậy"
+   ],
+   "ten": "Trạch Địa Tụy",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 46,
+   "tenTrongSach": "Quẻ Thăng",
+   "quaiTrongSach": "Khôn trên;Tốn dưới",
+   "loiQueAm": "Thăng nguyên hanh, dụng kiến đại nhân, vật tuất, nam chinh cát",
+   "loiQue": "Quẻ Thăng, cả hanh, dùng thấy người lớn, chớ lo, đi về phương Nam tốt",
+   "thoanAm": "Thoán viết: nhu dĩ thì thăng, tốn nhi thuận cương trung nhi ứng, thị dĩ đại hanh Dụng kiến đại nhân, vật tuất, hữu khanh dã, nam chinh cát, chí hành dã",
+   "thoan": "Lời Thoán nói rằng: Mềm lấy thì lên, nhún mà thuận, cứng giữa mà ứng, cho nên cả hanh Dùng thấy người lớn, chớ lo, có phúc vậy, đi về phương Nam tốt, chí được thi hành vậy",
+   "loiTuongAm": "Tượng viết: Địa trung sinh mộc, Thăng, quân tử dĩ thuận đức, tích tiểu dĩ cao đại",
+   "loiTuong": "Lời Tượng nói rằng: Trong đất mọc cây là quẻ Thăng, đấng quân tử coi đó mà thuận đức, chứa điều nhỏ để cao lớn",
+   "haoAm": [
+    "Sơ Lục: Doãn thăng, đại cát",
+    "Cửu Nhị: Phu nãi lợi, dụng Thược, vô cữu",
+    "Cửu Tam: Thăng hư ấp",
+    "Lục Tứ: Vượng dụng hưởng vu Kỳ Sơn, cát, vô cữu",
+    "Lục Ngũ: Trinh cát, thăng giai",
+    "Thượng Lục: Minh thăng, lợi vu bất tức chi trinh"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Tin lên, cả tốt",
+    "Hào Chín Hai: Tin bèn lợi, dùng tế Thược, không lỗi",
+    "Hào Chín Ba: Lên làng trống không",
+    "Hào Sáu Tư: Vua dùng hưởng ở núi Kỳ, tốt, không lỗi",
+    "Hào Sáu Năm: Chính bền, tốt, lên thềm",
+    "Hào Sáu Trên: Tối lên, lợi về sự chính bền chẳng nghĩ"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Doãn thăng đại cát, thượng hợp chí dã",
+    "Tượng viết: Cửu Nhị chi phu, hữu hỷ dã",
+    "Tượng viết: Thăng hư ấp, vô sở nghi dã",
+    "Tượng viết: Vương dụng hưởng vu Kỳ Sơn, thuận sự dã",
+    "Tượng viết: Trinh cát, thăng giai, đại đắc chí dã",
+    "Tượng viết: Minh thăng tại thượng, tiêu bất phú dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Tin lên cả tốt, trên hợp chí vậy",
+    "Lời Tượng nói rằng: Sự tin của hào Chín Hai, có mừng vậy",
+    "Lời Tượng nói rằng: lên làng trống không, không thửa ngờ vậy",
+    "Lời tượng nói rằng: Vua dùng hưởng chưng núi Kỳ, việc thuận này",
+    "Lời tượng nói rằng: Chính bền, tốt lên thềm, cả được chí vậy",
+    "Lời Tượng nói rằng: Tối lên ở trên, tiêu chẳng giàu vậy"
+   ],
+   "ten": "Địa Phong Thăng",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 47,
+   "tenTrongSach": "Quẻ Khốn",
+   "quaiTrongSach": "Đoài trên; Khảm dưới",
+   "loiQueAm": "Khốn, hanh trinh, đại nhân cát, vô cữu, hữu ngôn bất tín",
+   "loiQue": "Quẻ Khốn hanh, chính bền, người lớn tốt , không lỗi, có nói không tin",
+   "thoanAm": "Thoán viết: Khốn cương yểm dã Hiểm dĩ huyệt, khốn nhi bất thât kỳ hanh, kỳ duy quân tử hồ? Trinh, đại nhân cát, dĩ cương trung dã Hữu ngôn bất tín, thượng khẩu nãi cùng dã",
+   "thoan": "Lời Thoán nói rằng: Khốn là cứng bị lấy vậy Hiểm mà đẹp lòng, khốn mà không mất cái hanh của mình, chỉ có đấng quân tử như thế chăng? Chính bên, người tốt, vì cúng giữ vậy Có nói chẳng tin, chuộng miệng bèn cùng vậy",
+   "loiTuongAm": "Tượng viết: Trạch vô thủy, Khốn, quân tử dĩ tri mệnh toại chí",
+   "loiTuong": "Lời Tượng nói rằng: Chằm không nước là quẻ Khốn, đấng quân tử coi đó mà đến mệnh thỏa chí",
+   "haoAm": [
+    "Sơ lục: Điến khốn vu châu mộc, nhập vu u cốc, tam tuế bất thục",
+    "Cửu Nhị: Khốn vu tửu tửu thực, chu phất phương lai, lợi dụng hưởng tự, chính hung, vô cữu",
+    "Lục Tam: Khốn vu thạch, cứ vu tật lệ, nhập vu kỳ cung, bất kiến thê, hung",
+    "Cửu Tứ: Lai từ từ, khốn vu kim xa, lận hữu chung",
+    "Cửu Ngũ: Ty ngoạt, khốn vu xích phất, nãi từ hữu duyệt, lợi dụng tế dự",
+    "Thượng lục: Khốn vu cát lũy, vu nghiết ngột, viết: động hối, hữu hối, chính cát"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Đít khốn chưng trồi cây, vào chưng hang tối, ba năm chẳng thấy",
+    "Hào Chín Hai: Khốn chưng rượu cơm, cái phất đỏ đương lại, lợi dùng cúng tế, đi hung không lỗi",
+    "Hào Sáu Ba: Khốn chưng đá, vin chưng cây cà gai, vào chưng thửa buồng, chẳng thấy thửa vợ, hung",
+    "Hào Chín Tư: Lại thong thả, khốn chưng xe sắt, đáng tiếc! có chót",
+    "Xẻo mũi, chặt chân, khốn chưng cái phất đỏ, bèn thong thả có đẹp lòng, lợi dụng tế tự",
+    "Hào Sáu Trên: Khốn chưng cây sắn dây, nhưng cheo leo, rằng: động ăn năn, có ăn năn, đi tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Nhập vu u cốc, u bất minh dã",
+    "Tượng viết: Khốn vu tửu thực, trung hữu khánh dã",
+    "Tượng viết: Cứ vu tật lê, thừa cương dã, nhập vu kỳ cung, bất kiến kỳ thê, bất tường dã",
+    "Tượng viết: Lai từ từ, chí tại hạ dã: tuy bất đáng vị, hữu dữ dã",
+    "Tượng viết: Tỵ ngoạt chí vị đắc dã, nãi từ hữu tuyệt, dĩ trung trực dã, lợi dụng tế tự, thụ phúc dã",
+    "Tượng viết: Khốn vu cát lũy, vị đáng dã, động hối, hữu hối, cát hành dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Vào chưng hang tối, tối chẳng sáng vậy",
+    "Lời Tượng nói rằng: Khốn chưng rượu cơm, giữa có phúc vậy",
+    "Lời Tượng nói rằng: Vịn chưng cà gai, cưỡi cứng vậy, vào chưa thửa buồng, chẳng thấy thửa vợ, chẳng lành vậy",
+    "Lời Tượng nói rằng: Lại thong thả, chí ở dưới vậy, tuy chẳng đáng ngôi, có kẻ cùng với vậy",
+    "Lời Tượng nói rằng: Xẻo mũi, chặt chân, chí chưa được vậy, bèn thong thả có đẹp lòng, vì giữa thẳng vậy: lợi dùng tế tự, chịu phúc vậy",
+    "Lời Tượng nói rằng: Khốn chưng cây sắn dây, chưa đáng vậy động thì ăn năn, có ăn năn, đi tốt vậy"
+   ],
+   "ten": "Trạch Thủy Khốn",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 48,
+   "tenTrongSach": "Quẻ Tỉnh",
+   "quaiTrongSach": "Khảm trên;  Tốn dưới",
+   "loiQueAm": "Tỉnh, cải ấp bất cải tỉnh, vô đắc vô táng, vãng lai tỉnh tỉnh Hất chí, diệc vị quất tỉnh, luy kỳ bình hung",
+   "loiQue": "Quẻ Tỉnh, đổi làng chẳng đổi giếng, không mất không được, đi lại giếng giếng Hầu đến, cũng chưa dong trạc đến giếng, hỏng thửa lọ, hung",
+   "thoanAm": "Thoán viết: Tốn hồ thủy nhi thượng thủy, tỉnh, tỉnh dưỡng nhi bất cùng dã, cải ấp bất cải tỉnh, nãi dĩ cương trung dã, hất chí, diệc vị quất tỉnh, vị hữu công dã, huy kỳ bình, thị dĩ hung dã",
+   "thoan": "Lời Thoán nói rằng: Vào chưng nước mà đưa nước lên, là giếng, giếng là vật nuôi mà không cùng vậy, đổi làng chẳng đổi giếng, bèn vì cứng giữa vậy, hầu tới, cũng chưa dong chạc đến giếng, chưa có công vậy, hỏng thửa lọ, cho nên hung vậy",
+   "loiTuongAm": "Tượng viết: Mộc thượng hữu thủy, Tỉnh, quân tử dĩ lạo dân khuyến tưởng",
+   "loiTuong": "Lời Tượng nói rằng: Trên cây có nước là quẻ Tỉnh, đấng quân tử coi đó mà yên ủi dân, khuyến khích sự giúp đỡ",
+   "haoAm": [
+    "Sơ lục: Tỉnh nê bất thực, cựu tỉnh vô cầm Tỉnh mê bất thực, cựu tỉnh vô cầm",
+    "Cửu Nhị: Tỉnh cốc, xạ phụ, úng tệ lậu",
+    "Cửu Tam: Tỉnh điệp bất thực, vi ngã tâm trắc, khả dụng cấp, vương minh, tịnh thụ kỳ phúc",
+    "Lục Tử: Tỉnh thịu, vô cữu",
+    "Cửu Ngũ: Tỉnh liệt, hàn toàn thực",
+    "Thượng Lục: Tỉnh thu, vật mục, hữu phu, nguyên cát"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Giếng bùn chẳng ăn, giếng cũ không chim",
+    "Hào Chín Hai: Giếng hang, bắn loài ếch nhái, vò nát dò",
+    "Hào chín Ba: Giếng trong chẳng ăn, làm sự bùi ngùi cho lòng ta, khá dùng múc nước; vua sáng, cùng chịu thửa phúc",
+    "Hào Sáu Tư: Giếng xây bờ, không lỗi",
+    "Hào Chín Năm: Giếng mát, suối lạnh, ăn",
+    "Hào Sáu Trên: Giếng thu, chớ chùm, có tin, cả tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tỉnh mê bất thực, hạ dã; cựu tỉnh vô cầm thì xả dã",
+    "Tượng viết: Tỉnh cốc, xạ phụ, vô dữ dã",
+    "Tượng viết: Tỉnh điệp bất thực, hành trắc dã, cầu minh vương, thụ phúc dã",
+    "Tượng viết: Tỉnh thỉu vô cữu, tu tỉnh dã",
+    "Tượng viết: Hàn tuyền chi thực, trung chính dã",
+    "Tượng viết: nguyên cát tại thượng, đại thành dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Giếng bùn chẳng ăn, ở dưới vậy; giếng cũ không chim, thì bỏ vậy",
+    "Lời Tượng nói rằng: Giếng hang, bắn ếch nhái, không cùng vậy",
+    "Lời Tượng nói rằng: Giếng trong chẳng ăn, kẻ đi bùi ngùi vậy: tìm vua sáng, cùng chịu phúc vậy",
+    "Lời Tượng nói rằng: Giếng xây dựng bờ không lỗi, sửa giếng vậy",
+    "Lời Tượng nói rằng: Suối lạnh chưng ăn, giữa chính vậy",
+    "Lời Tượng nó rằng: Cả tốt ở trên, cả nên vậy"
+   ],
+   "ten": "Thủy Phong Tỉnh",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 49,
+   "tenTrongSach": "Quẻ Cách",
+   "quaiTrongSach": "Đoái trên ;  Ly dưới",
+   "loiQueAm": "Cách, dĩ nhật nãi phu, nguyên hanh lợi trinh, hối vong",
+   "loiQue": "Quẻ Cách, hết ngày bèn tin, cả hanh lợi trinh, ăn năn mất",
+   "thoanAm": "Thoán viết: Cách, thủy hỏa tương tức, nhị nữ đồng cư, kỳ chí bất tương đắc, viết Cách Dĩ nhật nãi phu, cách nhi tín chi Văn minh dĩ duyệt đại hanh dĩ chính, cách nhi đảng, kỳ hối nãi vong Thiên địa cách nhi tứ thì thành, Thang Vũ cách mệnh, thuận hồ thiên nhi ứng hồ nhân, Cách chi thì đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Cách, nước lửa làm tắt lẫn nhau, hai con gái cùng ở, mà bụng dạ không hợp nhau, gọi rằng Cách Hết ngày bèn tin, đổi mà tin đó Văn vẻ sáng sủa và đẹp lòng, cả hanh và chính, đổi mà xứng đáng, sự ăn năn ấy mới mất Trời đất đổi mà bốn mùa nên; vua Thang vua Vũ đổi mệnh thuận với trời mà ứng với người, thì của quẻ Cách lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Trạch trung hữu hỏa, cách, quân tử dĩ trị lịch minh thì",
+   "loiTuong": "Lời Tượng nói rằng: Trong chằm có lửa, là quẻ Cách. Đấng quân tử coi đó mà trị lịch rõ mùa",
+   "haoAm": [
+    "Sơ Cửu: Củng dụng hoàng ngưu chi cách",
+    "Lục Nhị: Dĩ nhật nãi cách chi, chinh cát, vô cữu",
+    "Cửu tam: Chính hung trinh lệ, cách ngôn tam tựu, hữu phu",
+    "Cửu Tứ: Hối vong, hữu phu, cải mệnh cát",
+    "Cửu Ngũ: Đại nhân hổ biến, vị chiêm hữu phu",
+    "Thượng Lục: Quân tử báo biến, tiểu nhân cách diện, chính hung, cư trinh"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Giàng bó dùng da trâu vàng",
+    "Hào Sáu Hai: Hết ngày bèn đổi đấy, đi tốt, không lỗi",
+    "Hào Chín Ba: Đi hung, chính nguy, nói đổi ba nên có tin",
+    "Hào Chín Tư: Ăn năn mất, có tin đổi mệnh tốt",
+    "Hào Chín Năm: Người lớn cọp biến, chưa xem có tin",
+    "Hào Sáu Trên: Đấng quân tử beo biến, kẻ tiểu nhân đổi mặt, đi hung, ở chính"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Củng dụng hoàng ngưu, bất khả dĩ hữu vi dã",
+    "Tượng viết: Dĩ nhật cách chi, hành hữu gia dã",
+    "Tượng viết: Cách ngôn tam tựu, hựu hà chi hỹ?",
+    "Tượng viết: Cải mệnh chi cát, tín chí dã",
+    "Tượng viết: Đại nhân hổ biến, kỳ văn bính dã",
+    "Tượng viết: Quân tử báo biến, kỳ văn uất dã, tiểu nhân cách diện, thuận dĩ tòng quân dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Giàng bó dùng trâu vàng, chẳng khá có làm vậy",
+    "Lời Tượng nói rằng: Hết ngày đổi đấy, đi có tốt vậy",
+    "Lời Tượng nói rằng: Nói đổi ba lên, lại đi đâu vậy?",
+    "Lời Tượng nói rằng: Cái tốt của sự đổi mệnh, là tín chí vậy",
+    "Lời Tượng nói rằng: Người lớn cọp biến, thửa vẻ tỏ vậy",
+    "Lời Tượng nói rằng: Đấng quân tử báo biến, thửa vẻ sặc sỡ vậy, kẻ tiểu nhân đổi mặt, thuận để theo vua vậy"
+   ],
+   "ten": "Trạch Hỏa Cách",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 50,
+   "tenTrongSach": "Quẻ Đỉnh",
+   "quaiTrongSach": "Ly trên; Tốn dưới",
+   "loiQueAm": "Đỉnh nguyên cát hanh",
+   "loiQue": "Quẻ Đỉnh, cả tốt hanh",
+   "thoanAm": "Thoán viết: Đỉnh tượng dã; dĩ mộc tốn hỏa, phanh nhẫm dã, Thánh nhân hanh dĩ hưởng thượng đế, nhi đại hanh dĩ dưỡng thánh hiền Tốn nhi nhĩ mục thông minh, nhu tiến nhi thượng hành, đắc trung nhi ứng hồ cương, thị dĩ nguyên hanh",
+   "thoan": "Lời Thoán nói rằng: Quẻ Đỉnh là Tượng vậy; lấy cây nhún lửa, ninh nấu vậy, đấng thánh nhân dùng sự hanh để cúng đấng thượng đế, dùng sự cả hanh để nuôi bậc thánh hiền Nhún mà tai mắt suốt sáng, mềm tiến mà đi lên được giữa mà ứng nhau với hào cứng cho nên cả hanh",
+   "loiTuongAm": "Tượng viết: Mộc thượng hữu hỏa, Đỉnh, quân tử dĩ chính vị ngưng mệnh",
+   "loiTuong": "Lời Tượng nói rằng: Trên cây có lửa, là quẻ Đỉnh. Đấng quân tử coi đó mà chính ngôi đóng mệnh",
+   "haoAm": [
+    "Sơ Lục: Đỉnh điên chỉ, lợi xuất bĩ, đắc thiếp dĩ kỳ tử, vô cữu",
+    "Cửu Nhị: Đỉnh hữu thật, ngã cừu hữu tật, bất ngã năng tức, cát!",
+    "Cửu Tam: Đỉnh nhĩ cách, kỳ hành tắc, trĩ cao bất thực, phương vũ, khuy hối chung, cát",
+    "Cửu Tứ: Đỉnh chiết túc, phúc công tốc, kỳ hình ốc, hung!",
+    "Lục Ngũ: Đỉnh hoàng nhĩ, kim huyên, lợi trinh",
+    "Thượng cửu: Đỉnh ngọc huyên, đại cát, vô bất lợi"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Vạc chổng chân, lợi ra vật hư xấu, được, nàng hầu, lấy thửa con, không lỗi",
+    "Hào Chín Hai: Vạc có cái chứa, kẻ thù ta có tật, chẳng ta hay tới, tốt!",
+    "Hào Chín Ba: Tai vạc đổi, thửa đi lấp, mỡ con chim trĩ không ăn, đang mưa, ăn năn về thiếu, chọn tốt",
+    "Hào Chín Tư: Vạc gẫy chân, đổ đồ ăn của Ông, thửa tội giết kín hung!",
+    "Hào Sáu Năm: Vạc tai vàng, quai màu vàng, lợi về chính bền",
+    "Hào Chín Trên: Đỉnh quai ngọc, cả tốt, không gì không lợi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Đỉnh điên chỉ, vị bội dã, lợi xuất bĩ, dĩ tòng quí dã",
+    "Tượng viết: Đỉnh hữu thật, thận sở chi dã, ngã cừu hữu tật, chung vô vưu dã",
+    "Tượng viết: Đỉnh nhĩ cách, thất kỳ nghĩa dã",
+    "Tượng viết: Phúc cộng tốc, tín như hà dã",
+    "Tượng viết: Đỉnh hoàng nhĩ, trung dĩ vi thật dã",
+    "Tượng viết: Ngọc huyên tại thượng, cương nhu tiết dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Vạc chổng chân, chưa trái vậy, lợi ra vật hư xấu, vì theo sang vậy",
+    "Lời Tượng nói rằng: Vạc có đồ chứa, cẩn thận thửa đi vậy; kẻ thù ta có tật, trọn không lỗi vậy",
+    "Lời Tượng nói rằng: Tai vạc đổi, mất thửa nghĩa vậy",
+    "Lời Tượng nói rằng: Đổ đồ của Ông, tin đường sao vậy",
+    "Lời Tượng nói rằng: Vạc tai vàng giữa lấy làm thật vậy",
+    "Lời Tượng nói rằng: Tai ngọc ở trên, cứng mềm có chừng độ vậy"
+   ],
+   "ten": "Hỏa Phong Đỉnh",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 51,
+   "tenTrongSach": "Quẻ Chấn",
+   "quaiTrongSach": "Chấn trên; Chấn dưới",
+   "loiQueAm": "Chấn hanh, Chấn lại khích khích, tiếu ngôn ách ách, chấn kinh bách lý, bất táng … chủy Xưởng",
+   "loiQue": "Quẻ Chấn hanh, sợ lại ngơm ngớp, cười nói khanh khách, nhức kinh trăm dậm, chẳng mất môi và rượu Xưởng",
+   "thoanAm": "Thoán viết: Chấn hanh, chấn lại khích khích, khủy trí phúc dã, tiếu ngôn ách ách, hậu hữu tắc dã Chấn kinh bách lý, kinh viễn nhi cụ nhỉ dã Xuất khả dĩ thủ tôn miếu xã tắc, dĩ vi tế chủ dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Chấn hanh, sợ lại ngơm ngớp, vì mà sợ đến phúc vậy: cười nói khanh khách, sau có phép vậy Nhức kinh trăm dậm, kinh xa mà sợ gần vậy Ra khá lấy giữ tôn miếu xã tắc, để làm chủ tế vậy",
+   "loiTuongAm": "Tượng viết: Tấn lôi, Chấn, quân tử dĩ khủng cụ tu tĩnh",
+   "loiTuong": "Lời Tượng nói rằng: Liền sấm là quẻ Chấn, đấng quân tử coi đó mà sợ hãi sửa xét",
+   "haoAm": [
+    "Sơ cửu: Chấn lai khích khích, hậu tiếu ngôn ách ách cát",
+    "Lục Nhị: Chấn lai lệ ức, táng bối, tê vu cửu lăng, vật trục, thất nhật đắc",
+    "Lục Tam: Chấn tô tô, chấn hành vô sảnh",
+    "Lục Tứ: Chấn toại nê",
+    "Lục Ngũ: Chấn vãng lai lệ, ức vô táng hữu",
+    "Thượng Lục: Chấn tắc tác, thị quắc quắc, chinh hung chấn bất vu kỳ cung, vu kỳ lân, vồ cữu, hôn cấu hữu ngôn"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Nhức lại ngơm ngớp, sau cười nói khanh khách, tốt",
+    "Hào Chín Hai: Nhức lại, nguy đồ (?) mất của, lên chân chín gò, chớ đuổi, bảy ngày được",
+    "Hào Sáu Ba: Nhức, thom thỏm, nhức đi, không tội",
+    "Hào Chín Tư: Nhức bèn đắm",
+    "Hào Sáu Năm: Nhức đi lại nguy, đồ (?) không mất cái có",
+    "Hào Sáu Trên: Nhức xơ xác, trông ngơ ngác, đi thì hung; nhức chẳng chưng thửa mình, chưng thửa láng giềng, không lỗi, dâu gia có nói"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Chấn lai khích khích, khủng trí phúc dã tiếu ngôn ách ách, hậu hữu tắc dã",
+    "Tượng viết: Chấn lai lệ, thừa cương dã",
+    "Tượng viết: Chấn tô tô, vị bất đáng dã",
+    "Tượng viết: Chấn toại nê, vị quang dã",
+    "Tượng viết: Chấn lai lệ, nguy hành dã; kỳ sự tại trung, đại vô táng dã",
+    "Tượng viết: Tác tác trung vị đắc dã, tuy hung vô cữu, úy lân giới dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Sợ lại ngom ngớp, vì sợ mà đến phúc vậy; cười nói khanh khách, sau có phép vậy",
+    "Lời Tượng nói rằng: Nhức lại, nguy, cưỡi cứng vậy",
+    "Lời Tượng nói rằng: Nhức thom thỏm, ngôi chẳng đáng vậy",
+    "Lời Tượng nói rằng: Nhức bèn đắm, chưa sáng vậy",
+    "Lời Tượng nói rằng: Nhức lại nguy, đi hiểm nghèo vậy, thửa việc ở giữa, lớn không mất vậy",
+    "Lời Tượng nói rằng: Xờ xạc giữa chưa được vậy; tuy hung không lỗi, sợ láng giềng răn vậy"
+   ],
+   "ten": "Thuần Chấn",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 52,
+   "tenTrongSach": "Quẻ Cấn",
+   "quaiTrongSach": "Cấn trên;  Cấn dưới",
+   "loiQueAm": "Cấn kỳ bối, bất hoạch kỳ thân, thành kỳ đình, bất kiến kỳ nhân, vô cữu",
+   "loiQue": "Đậu thửa lưng, chẳng được thửa mình, đi thửa sân, chẳng thấy thửa người, không lỗi",
+   "thoanAm": "Thoán viết: Cấn chỉ dã. Thì chỉ tắc chỉ, thì hành các hành. Động tĩnh bất thất kỳ thì, kỳ đạo quang minh Cấn kỳ chỉ, chỉ kỳ sở dã Thượng hạ địch ứng, bất tương dữ dã Thị dĩ bất hoạch kỳ thân, hành kỳ đình bất kiến kỳ nhân, vồ cữu dã",
+   "thoan": "Lời Thoán nói rằng: Cấn là đậu vậy. Lúc đáng đậu thì đậu, lúc đáng đi thì đi. Động tĩnh không lỗi thửa thì, thửa đạo sáng tỏ Đậu thửa đậu, là đậu thửa chốn vậy Trên dưới chọi ứng, chẳng cùng nhau vậy Vì vậy chẳng được thửa mình, đi thửa sân chẳng thấy thửa người, không lỗi vậy",
+   "loiTuongAm": "Tượng viết: Kiêm sơn Cấn, quân tử dĩ tư bất xuất kỳ vị",
+   "loiTuong": "Lời Tượng nói rằng: Gồm núi là quẻ Cấn. Đấng quân tử coi đó mà nghĩ chẳng việc thửa ngôi",
+   "haoAm": [
+    "Sơ Lục: Cấn kỳ chỉ, vô cữu, lợi vĩnh trinh",
+    "Lục nhị: Cấn kỳ phì, bất chủng kỳ tùy, kỳ tâm bất khoái",
+    "Cửu tam: Cấn kỳ hạn, liệt kỳ di, lệ huân tâm",
+    "Lục Tứ: Cấn kỳ thân, vô cữu",
+    "Lục Ngũ: Cấn kỳ phụ ngôn hữu tự, hối vong",
+    "Thượng Cửu: Đôn Cấn, cát"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Đậu thửa ngón chân, không lỗi, lợi về dài lâu chính bền",
+    "Hào Sáu Hai: Đậu thửa bụng chân, chẳng cứu thửa theo, thửa lòng chẳng sướng",
+    "Hào Chín Ba: Đậu thửa hạn, xé thửa thăn, nguy hun lòng",
+    "Hào Sáu Tư: Đậu thửa mình, không lỗi",
+    "Hào Sáu Năm: Đậu thửa mép, nói có thứ tự, ăn năn mất",
+    "Hào Chín Trên - Dầy đậu, tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Cấn kỳ chỉ, vị thất chính dã",
+    "Tượng viết: Bất chửng kỳ tùy, vị thoái thính dã",
+    "Tượng viết: Cấn kỳ hạn, nguy huân tâm dã",
+    "Tượng viết: Cấn kỳ thân, chỉ chư cung dã",
+    "Tượng viết: Cấn kỳ phụ, dĩ trung chính dã",
+    "Tượng viết: Đậu Cấn chi cát, dĩ hậu chung dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Đậu thửa ngón chân, chưa mất chính vậy",
+    "Lời Tượng nói rằng: Chẳng cứu thửa theo, chứa lui nghe vậy",
+    "Lời Tượng nói rằng: Đậu thửa hạn, nguy hun lòng vậy",
+    "Lời Tượng nói rằng: Đậu thửa mình, là đậu chưng mình vậy",
+    "Lời Tượng nói rằng: Đậu thửa mép, lấy giữa chính vậy",
+    "Lời Tượng nói rằng: Đầy đậu mà tốt, vì dầy chót vậy"
+   ],
+   "ten": "Thuần Cấn",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 53,
+   "tenTrongSach": "Quẻ Tiệm",
+   "quaiTrongSach": "GIẢI NGHĨA",
+   "loiQueAm": "Tiêm, nữ qui, cát, lợi trinh",
+   "loiQue": "Quẻ Tiệm, con gái về, tốt, lợi về chính bền",
+   "thoanAm": "Thoán viết: Tiệm chi tiến dã, nữ qui cát dã Tiến đắc vị, vãng hữu công dã Tiến dĩ chính, khả dĩ chính bang dã Kỳ vị, cương đắc trung dã Chỉ nhi tốn, động bất cùng dã",
+   "thoan": "Lời Thoán nói rằng: Tiệm là tiến vậy, con gái về nhà chồng tốt Tiến được ngôi, đi có công vậy Tiến bằng cách chính đáng, có thể chính nước vậy Thửa ngôi, cứng được giữa vậy Đậu mà nhún, động chẳng cũng vậy",
+   "loiTuongAm": "Tượng viết: Sơn thượng hữu mộc, Tiệm, quân tử dĩ cư hiền đức",
+   "loiTuong": "Lời Tượng nói rằng: Trên núi có cây là quẻ Tiệm, đấng quân tử coi đó mà chứa đức hiền, làm hay thói tục",
+   "haoAm": [
+    "Sơ Lục: Hồng tiệm vu can, tiểu tử lệ, hữu ngôn, vô cữu",
+    "Hồng tiệm vu bàn, ẩm thực hãn hãn",
+    "Cửu tam: Hồng tiệm vu lục, phu chinh bất phục, phụ dựng bất dục, hung, lợi ngữ khấu",
+    "Lục Tứ: Hồng tiệm vu mộc, hoắc đắc kỳ giốc, vô cữu",
+    "Cửu Ngũ: Hồng tiệm vu lăng, phụ tam tuế bất dựng, chung mạc chi thắng, cát",
+    "Thượng Cửu: Hồng tiệm vu quỳ, kỳ vũ khả dụng vi nghi, cát"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Con sếu tiến chưng bến, trẻ nhỏ nguy, có nói, không lỗi",
+    "Con Sếu tiến chưng tảng đá, ăn uống hơn hớn",
+    "Hào Chín Ba: Con sếu tiến chưng đất liền, chồng đi chẳng lại, vợ chửa chẳng nuôi, hung, lợi về chống giặc",
+    "Hào Sáu Tư: Con sếu tiến chưng cây, hoặc được thửa cành ngang, không lỗi",
+    "Hào Chín Năm: Con sếu tiến chưng gò, vợ ba năm chẳng chửa, trọn chẳng gì thắng, tốt",
+    "Hào Chín Trên: con sếu tiến chưng đường mây, lộng nó khá dùng làm miều cờ, tốt"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tiểu tử chi lệ, nghĩa vô cữu dã",
+    "Tượng viết: Ẩm thực hãn hãn, bất tố bão dã",
+    "Tượng viết: Phu chinh bất phục, ly quần sũ dã; phụ dực bất dục, thất kỳ đạo dã; lợi dụng ngữ khấu, thuận tượng bảo dã",
+    "Tượng viết: Hoặc đắc kỳ giốc, thuận dĩ tốn dã",
+    "Tượng viết: Chung mạc chi thắng, cát, đắc sở nguyện dã",
+    "Tượng viết:Kỳ vũ khả dụng vi nghi, cát, bất khả loạn dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Trẻ nó chưng nguy, nghĩa không lỗi vậy",
+    "Lời tượng nói rằng: Uống ăn hơn hớn, chẳng nó không vậy",
+    "Lời tượng nói rằng: Chồng đi chẳng lại, lìa đàn loài vậy; vợ chửa chẳng nuôi, lỗi thửa đạo vậy; lời dùng chống giặc, thuận cùng giữ vậy",
+    "Lời Tượng nói rằng: Hoặc được thửa cành ngang, thuận và nhún vậy",
+    "Lời Tượng nói rằng: Chọn thẳng gì được, tốt, được thửa muốn vậy",
+    "Lời Tượng nói rằng: Thửa lông khả dùng làm miếu cờ, tốt, chẳng khá loạn vậy"
+   ],
+   "ten": "Phong Sơn Tiệm",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 54,
+   "tenTrongSach": "Quẻ Qui Muội",
+   "quaiTrongSach": "Chấn trên; Đoái dưới",
+   "loiQueAm": "Qui muội chinh hung, vô du lợi",
+   "loiQue": "Quẻ Qui muội, đi hung không thửa lợi",
+   "thoanAm": "Thoán viết: Qui muội thiên địa chi đại nghĩa dã. Thiên địa bất giao nhị vạn vật bất hưng, qui muội nhân chi chung thủy dã Duyệt dĩ động, sở qui muội dã; chinh hung, vị bất đáng dã; vô du lợi, nhu thừa cương dã",
+   "thoan": "Lời thoán nói rằng: Quẻ Qui muội là nghĩa lớn của trời đất vậy. Trời đất giao nhau mà muôn vật chẳng dấy lên. Quẻ Qui muội là chót và đầu của loài người vậy Đẹp lòng mà động, người về là em gái vậy; đi hung ngôi chẳng đáng vậy; không thửa lợi, mềm cưỡi cứng vậy",
+   "loiTuongAm": "Tượng viết; Trạch thượng hữu lôi, Qui muội, quân tử dĩ vinh chung tri tệ",
+   "loiTuong": "Lời Tượng nói rằng: Trên chằm có sấm là quẻ Qui muội. Đấng quân tử coi đó mà dài lúc chót, biết điều hỏng",
+   "haoAm": [
+    "Sơ Cửu: Quy muội dĩ đệ, bí năng lý, chinh cát",
+    "Cửu Nhị: Diểu năng thị, lợi u nhân chi trinh",
+    "Lục Tam: Qui muội dĩ tu, phản qui dĩ đệ",
+    "Cửu Tứ: Qui muội khiên kỳ, trì qui hữu thì",
+    "Lục Ngũ: Đế Ất qui muội, kỳ quân chi quệ, bất như kỳ đệ chi quệ lương, nguyệt cơ vọng, cát!",
+    "Thượng Lục: Nữ thừa khuông, vô thật: sĩ khuê dương vô huyết; vô du lợi"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Em gái về nhà chồng bằng vợ lẽ, quẻ biết xẻo, đi tốt",
+    "Hào Chín Hai: Chột biết trông, lợi về sự chính bền của bậc u nhân",
+    "Hào Sáu Ba: Em gái về bằng sự đợi, lại về bằng vợ lẽ",
+    "Hào Chín Tư: Em gái về nhà chồng lỗi hẹn, chậm về có thời",
+    "Hào Sáu Năm: Vua Đế Ất gả chồng em gái, vạt áo của vua nó không đẹp bằng vạt áo của vợ lẽ nó. Mặt trăng hầu tuần vọng, tốt!",
+    "Hào Sáu Trên: Con gái vâng giỏ, không đồ đựng; con trai giết dê, không máu; không thửa lợi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Qui muội dĩ đệ, dĩ hằng dã; bí năng lý, cát, tương thừa dã",
+    "Tượng viết: Lợi u nhân chi trinh, vị biến thường dã",
+    "Tượng viết: Qui muội dĩ tu, vị đáng dã",
+    "Tượng viết: Khiên kỳ chi chí, hữu đãi nhi hành dã",
+    "Tượng viết: Đế Ất qui muội, bất như kỳ đệ chi quệ lương dã, kỳ vị tại trung, dĩ quí hành dã",
+    "Tượng viết: Thượng Lục vô thật, thừa hư khuông dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Em gái về nhà chồng, bằng vợ lẽ, vì thường thường vậy; quẻ biết xéo, tốt, vâng nhau vậy",
+    "Lời Tượng nói rằng: Lợi về sự chính bền của bậc u nhân, chưa đổi sự thường vậy",
+    "Lời Tượng nói rằng: Em gái về nhà chồng lấy đợi chưa đáng vậy",
+    "Lời Tượng nói rằng: Cái chí lỗi hẹn, có đợi mà đi vậy",
+    "Lời Tượng nói rằng: Vua Đế Ất gả chồng em gái chẳng đẹp bằng vạt áo của vợ lẽ nó, là tại ngôi nó ở giữa, lấy sang đi vậy",
+    "Lời Tượng nói rằng: Hào Sáu Trên không đồ đựng, vâng giỏ không vậy"
+   ],
+   "ten": "Lôi Trạch Quy Muội",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 55,
+   "tenTrongSach": "Quẻ Phong",
+   "quaiTrongSach": "Chấn trên; Ly dưới",
+   "loiQueAm": "Phong hanh, vương cách chi, vật ưu nghi nhật trung",
+   "loiQue": "Quẻ Phong hanh thông, vua đến đấy, chớ lo, nên mặt trời giữa",
+   "thoanAm": "Thoán viết: Phong đại dã, minh dĩ động; cố phong; vương cách chi, thượng đại dã; vật ưu, nghi nhật trung, chiếu thiên hạ dã Nhật trung tắc trắc, nguyết doanh tắc thực; thiên dịa doanh hư dữ thì tiêu tức, nhi huống ư nhân hồ? Nhi huống ư quỷ thần hồ?",
+   "thoan": "Lời Thoán nói rằng: thịnh là lớn vậy; sáng và đông cho nên thịnh; vua đến đó, chuộng lớn vậy; chớ lo, nên mặt trời giữa, soi gầm trời vậy Mặt trời giữa thì dé, mặt trăng đầy thì khuyết trời đất đầy rỗng, cũng thì cùng tiêu sinh, mà phương chi với người? Phương chi với quỷ thần?",
+   "loiTuongAm": "Tượng viết: Lôi điện giai chí, Phong, quân tử dĩ triết ngục trí hình",
+   "loiTuong": "Sấm chớp đều đến là quẻ Phong. Đấng quân tử coi mà bẻ ngục đến hình",
+   "haoAm": [
+    "Sơ Cửu: Ngọ kỳ phối chủ, tuy tuần vô cữu, vãng hữu thượng",
+    "Lục Nhị: Phong kỳ bộ, nhật trung kiến Đẩu, vãng đắc nghi tật, hữu phu phát nhược, cát",
+    "Cửu Tam: Phong kỳ bái, nhật trung kiến mạt, triết kỳ hữu quãng, vô cữu",
+    "Cửu Tứ: Phong kỳ bộ, nhật trung kiến Đẩu, ngộ kỳ di chủ, cát",
+    "Lục Ngũ: Lai chương hữu khánh dự, cát",
+    "Thượng Lục: Phong kỳ ốc, bộ kỳ gia, khuy kỳ hộ, khuých kỳ vô nhân, tam tuế bất thục, hung"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Gặp thử chủ sánh dẫn đều không lỗi, đi có chuộng",
+    "Hào Sáu Hai: Thịnh thửa trướng mặt trời giữa thấy sao Đẩu, đi được ngờ ghét, có tin dường mở ra vậy tốt",
+    "Hào Chín Ba: Thịnh thửa màn, mặt trời giữa thấy sao Mạt, gãy thửa cánh tay phải, không lỗi",
+    "Hào Chín Tư: Thịnh thửa trướng, mặt trời giữa thấy sao Đẩu, gặp thửa chủ ngang tốt",
+    "Hào Sáu Năm: Lại đẹp có phúc khen, tốt",
+    "Hào Sáu Trên: Thịnh thửa mái, che thửa nhà nhòm thửa cửa, hiu quạnh thửa không người, ba năm chẳng thấy, hung"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tuy tuần vô cữu, quá tuần tai dã",
+    "Tượng viết: Hữu phu phát nhược, tín dĩ phát chí dã",
+    "Tượng viết: Phong kỳ bái, bất khả đại sự dã: triết kỳ hữu quang, chung bất khả dụng dã",
+    "Tượng viết: Phong kỳ bộ, vị bất đáng dã",
+    "Tượng viết: Lục Ngũ chi cát, hữu khánh dã",
+    "Tượng viết: Phong kỳ ốc, thiên tế tường dã, khuy kỳ hộ, khuých kỳ vô nhan, tự tàng dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Dẫu đều không lỗi, quá đều hại vậy",
+    "Lời Tượng nói rằng: Có tin dường mở ra vậy, là dùng sự tin để mở chí vậy",
+    "Lời Tượng nói rằng: Thịnh thửa màn, chẳng khá làm việc lớn vậy; gãy thửa cánh tay phải, trọn chẳng khá dùng vậy",
+    "Lời Tượng nói rằng: Thịnh thửa trướng, ngôi chẳng đáng vậy",
+    "Lời Tượng nói rằng: Cái tốt của hào Sáu Năm, có phúc vậy",
+    "Lời Tượng nói rằng: Thịnh thửa mái nhà, giữa trời lượn vậy, nhòm thửa của hiu quạnh thửa không người, tự giấu vậy"
+   ],
+   "ten": "Lôi Hỏa Phong",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 56,
+   "tenTrongSach": "Quẻ Lữ",
+   "quaiTrongSach": "GIẢI NGHĨA",
+   "loiQueAm": "Lữ tiểu hanh, lữ trinh cát",
+   "loiQue": "Quẻ Lữ nhỏ hanh thông sự đi đường chính bền tốt",
+   "thoanAm": "Thoán viết: Lữ tiểu hanh, nhu đắc trung hồ ngoại nhi thuận hồ cương, chỉ nhi lê hồ minh, thị dĩ tiểu hanh, lữ trinh cát dã Lữ chi thì nghĩa đại hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Quẻ Lữ nhỏ hanh thông, mềm được giữa ở ngoài mà thuận với cứng, đậu mà mắc với sáng, cho nên nhỏ hanh thông, đi đường chính bền tốt vậy Thì nghĩa của quẻ Lữ lớn vậy thay!",
+   "loiTuongAm": "Tượng viết: Sơn thượng hữu hỏa, Lữ quân tử dĩ minh thuận dụng hình nhi bất lưu ngục",
+   "loiTuong": "Lời Tượng nói rằng: Trên núi có lửa là quẻ Lữ, đấng quân tử coi đó mà sáng ghín dùng hình, mà chẳng để ngục đọng lại",
+   "haoAm": [
+    "Sơ Lục: Lữ tỏa tỏa, tư kỳ sơ thủ tai",
+    "Lục Nhị: Lữ tức thứ, hoài kỳ tư, đắc đồng bộc trinh",
+    "Cửu Tam: Lữ phần kỳ thứ, táng kỳ đồng bộc, trinh lệ",
+    "Cửu Tứ: Lữ vu xử, đắc kỳ tư phủ, ngã tâm bất khoái",
+    "Lục Ngũ: Xã trĩ, nhất thỉ vong, chung dĩ dự mệnh",
+    "Thượng Cửu: Điểu phần kỳ sào, lữ nhân tiên tiếu, hậu hào diêu, táng ngưu vu dị, hung!"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Hành lữ nhỏ mọn, ấy là cái lấy vạ",
+    "Hào Sáu Hai: Hành lữ tới chỗ trọ, ôm thửa của, được thằng nhỏ, đầy tớ chính bền",
+    "Hào Chín Ba: Hành lữ cháy thửa nhà trợ, mất thửa thằng nhỏ, đầy tớ, chính bền nguy",
+    "Hào Chín Tư: Hành lữ chưng ở, được thửa của búa, lòng ta chẳng sướng",
+    "Hào Sáu Năm: Bắn chim trĩ, một phát tên mất, chọn lấy khen mệnh",
+    "Hào Chín Trên: Chim cháy thửa tổ, kẻ hành lữ trước cười, sau kêu gào, mất trâu chưng dễ dàng, hung!"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Lữ tỏa tỏa, chí cùng tai dã",
+    "Tượng viết: Đắc đồng bộc trinh, chung vô cữu dã",
+    "Tượng viết: Lữ phần kỳ thứ, diệc dĩ thương kỹ, dĩ lữ dữ hạ, kỳ nghĩa táng dã",
+    "Tượng viết: Lữ vu xử, vị đắc vị đã, đắc kỳ tư phủ, tâm vị khoái dã",
+    "Tượng viết: Chung dĩ dự mệnh, thượng đãi dã",
+    "Tượng viết: Dĩ lữ tại thượng, kỳ nghĩa phần dã; táng ngưu vu dị, chung mạc chi văn dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Hành lữ nhỏ mọn, chí cùng hại vậy",
+    "Lời Tượng nói rằng: Được thằng nhỏ đầy tớ chính bền, chọn không lỗi vậy",
+    "Lời Tượng nói rằng: Hành lữ cháy thửa nơi trọ cũng đã hại vậy; lấy thì hành lữ cùng với kẻ dưới, thửa nghĩa mất vậy",
+    "Lời Tượng nói rằng: Hành lữ chưng ở, chưa được ngôi vậy, được thửa của búa, lòng chưa sướng vậy",
+    "Lời Tượng nói rằng: Trọn lấy khen mệnh trên kịp vậy",
+    "Lời Tượng nói rằng: Lấy kẻ hành lữ ở trên, thửa nghĩa cháy vậy; mất trâu chưng dễ dàng, trọn chẳng nghe vậy"
+   ],
+   "ten": "Hỏa Sơn Lữ",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 57,
+   "tenTrongSach": "Quẻ Tốn",
+   "quaiTrongSach": "GIẢI NGHĨA",
+   "loiQueAm": "Tốn tiểu hanh, lợi hữu du vãng, lợi kiến đại nhân",
+   "loiQue": "Quẻ Tốn nhỏ hanh thông, lợi có thửa đi, lời thấy người lớn",
+   "thoanAm": "Thoán viết: Trùng Tốn dĩ thân mệnh Cương tốn hồ trung chính nhi chí hành, nhu giai thuận hồ cương, thị dĩ tiểu hanh, lợi hữu du vãng, lợi kiến đại nhân",
+   "thoan": "Lời Thoán nói rằng: Hai lần nhún để nhắc lại mệnh Cứng vào chưng giữa chính mà chí được thi hành, mềm đều thuận chưng cứng, cho nên nhỏ hanh, lợi có thửa đi, lợi thấy người lớn",
+   "loiTuongAm": "Tượng viết: Tùy phong Tốn, Quân tử dĩ thân mệnh hành sự",
+   "loiTuong": "Lời Tượng nói rằng: Theo gió là quẻ Tốn. Đấng quân tử coi đó mà nhắc lại mệnh lệnh, làm việc",
+   "haoAm": [
+    "Sơ Lục: Tiến thoái, lợi vũ nhân chi trinh",
+    "Cửu Nhị: Tôn tại sàng hạ, dựng sử vu phân nhược, cát! Vo cữu!",
+    "Cửu Tam: Tần tốn lận",
+    "Lục Tứ: Hối vong, điền hoạch tam phẩm",
+    "",
+    "Thượng Cửu: Tốn tại sàng hạ, táng kỳ tư phủ, hung!"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Tiến lui, lợi về sự chính bền của người võ",
+    "Hào Chín Hai: Nhún ở dưới giường , dùng thày bói, thày cúng bời bời vậy, tốt! Không lỗi!",
+    "Hào Chín Ba: Liền nhún, đáng tiếc",
+    "Hào Sáu Tư: Ăn năn mất, săn được ba phẩm",
+    "Hào Chín Năm: Chính bền tốt, ăn năn mất, không gì lợi, không đầu có chót, trước canh bà ngày, sau canh ba ngày tốt!",
+    "Hào Chín Trên: Nhún ở dưới giường, mất thửa của búa, hung!"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Tiến thoái, chí nghi dã, lợi vũ nhân chi trinh, chí trị dã",
+    "Tượng viết: Phán nhược chi cát, đắc trung dã",
+    "Tượng viết: Tần tốn chi lận, chí cùng dã",
+    "Tượng viết: Điền hoạch tam phẩm, hữu công dã",
+    "Tượng viết: Cửu Ngũ chi cát, vị chính trung dã",
+    "Tượng viết: Tốn tại sàng hạ, thượng cùng dã; táng kỳ tư phủ, chính hồ hung dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Tiến lui chí ngờ vậy; lợi về nết chính bền của người võ; chí trị vậy",
+    "Lời Tượng nói rằng: Dường hời vậy mà tốt, được giữa vậy",
+    "Lời Tượng nói rằng: Liền nhún mà đáng tiếc, chí cùng vậy",
+    "Lời Tượng nói rằng: Săn được ba phẩm, có công vậy",
+    "Lời Tượng nói rằng: Cái tốt của hào Chín Năm ngôi chính giữa vậy",
+    "Lời tượng nói rằng: Nhún ở dưới giường, trên cùng vậy; mất thửa của búa, chỉnh chưng hung vậy"
+   ],
+   "ten": "Thuần Tốn",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 58,
+   "tenTrongSach": "Quẻ Đoái",
+   "quaiTrongSach": "Đoái trên; Đoái dưới",
+   "loiQueAm": "Đoái hanh lợi trinh",
+   "loiQue": "Quẻ Đoái hanh, lợi về chính bền",
+   "thoanAm": "Thoán viết: Đoái duyệt dã, cương trung nhi nhu ngoại, duyệt dĩ lợi trinh, thị dĩ thuận hồ thiên nhi ứng hồ nhân.Duyệt dĩ tiên dân, dân vong kỳ lao; duyệt dĩ phạm nan, dân niệm kỳ tử. Duyệt chi đại, dân khuyết hỹ tai!",
+   "thoan": "Lời Thoán nói rằng: Đoái là đẹp lòng. Cứng trong mà mềm ngoài, đẹp lòng và lợi về chính bên, cho nên thuận với trời mà ứng với người. Dùng sự đẹp lòng mà đi trước dân, dân quên sự nhọc của nó. Dùng sự đẹp để phạm vào hiểm nạn, dân nghĩ sự có chết của nó. Sự đẹp lòng lớn lao, dân khuyến khích vậy thay",
+   "loiTuongAm": "Tượng viết: Lệ trạch Đoái, quân tử dĩ bằng hữu giảng tập",
+   "loiTuong": "Lời Tượng nói rằng: Bám chằm là quẻ Đoái, đấng quân tử coi đó mà bè bạn giảng tập",
+   "haoAm": [
+    "Sơ Cửu: Hòa đoái, cát!",
+    "Cửu Nhị: Phu đoái cát, hối vong",
+    "Lục Tam: Lai đoái, hung!",
+    "Cửu Tứ: Thượng đoái, vị ning, giới tật, hữu hỷ",
+    "Cửu Ngũ: Phu vu hấc, hữu lệ",
+    "Thượng Lục: Dẩn đoái"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Hòa đẹp lòng, tốt!",
+    "Hào Chín Hai: Tin đẹp lòng, tôt ăn năn mất",
+    "Hào Sáu Ba: Lại đẹp lòng hung!",
+    "Hào Chín Tư: Đắn đo đẹp lòng chưa yên, thẳng ghét, có mừng",
+    "Hào Chín Năm: Tin chung đẽo, có nguy",
+    "Hào Sáu Trên: Dẫn đẹp lòng"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Hòa đoái chi cát, hối vong",
+    "Tượng viết: Phu đoái chị cát, tín chí dã",
+    "Tượng viết: Lai đoái chi hung, vị bất đáng dã",
+    "Tượng viết: Cửu tứ chi hỷ, hữu khảnh dã",
+    "Tượng viết: Phu vu bác, vị chính đương dã",
+    "Tượng viết: Thượng Lục dẫn đoái, vị quang dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: cái tốt của sự hòa đẹp lòng, đi chưa ngờ vậy",
+    "Lời Tượng nói rằng: Tín đẹp lòng mà tốt, tín chí vậy",
+    "Lời Tượng nói rằng: Lại đẹp lòng mà hung, ngôi chẳng đáng vậy",
+    "Lời Tượng nói rằng: cái mừng của hào Chín Tư, có phúc vậy",
+    "Lời Tượng nói rằng: Tin chưng đẽo, ngôi chính nên vậy",
+    "Lời Tượng nói rằng: Hào Sáu Trên dẫn đẹp lòng chưa sáng vậy"
+   ],
+   "ten": "Thuần Đoài",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 59,
+   "tenTrongSach": "Quẻ Hoán",
+   "quaiTrongSach": "Tốn trên; Khảm dưới",
+   "loiQueAm": "Hoán hanh, vương cách hữu miếu, lợi thiệp đại xuyầg, lợi trinh",
+   "loiQue": "Quẻ Hoán hanh, vua đến có miếu, lợi sang sông lớn, lợi về chính bền",
+   "thoanAm": "Thoát viết: Hoán hanh, cương lai nhi bất cùng, nhu đắc vị hồ ngoại nhi thượng đồng Vương cách hữu miếu, cương nãi tại trung dã lợi thiệp đại xuyên, thừa mộc hữu công dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Hoán hanh, cứng lại mà cùng, mềm được ngôi ngoài mà cùng trở lên vua đến có miếu, vua bèn ở trong vậy lợi sang sông lớn, cưỡi cây có công vậy",
+   "loiTuongAm": "Tượng viết: Phong hành thủy thượng, Hoán, tiên vương dĩ hưởng vu đế, lập miếu",
+   "loiTuong": "Lời Tượng nói rằng: Gió đi trên nước là quẻ Hoán. Đấng tiên vương coi đó mà cúng chưng trời, dựng miếu",
+   "haoAm": [
+    "Sơ Lục: Chửng mã tráng, cát",
+    "Cửu Nhị: hoán bôn kỳ ngột, hối vong",
+    "Lục Tam: Hoán kỳ cung, vô hối",
+    "Lục Tứ: Hoán kỳ quân, nguyên cát; hoán hữu khâu, phi di sở tư",
+    "Cửu Ngũ: Hoán hãn kỳ đại hiệu, hoán vương cư, vô cữu",
+    "Thượng cửu: hoán kỳ huyết khứ, địch, xuất, vô cữu"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Vớt ngựa mạnh, tốt",
+    "Hào Chín Hai: Tan chạy thửa ghế! Ăn năn mất",
+    "Hào Sáu Ba: Tan thửa mình, không ăn năn",
+    "Hào Sáu Tư: Tan thửa đàn, cả tốt; tan có gò, chẳng phải thường thửa nghĩ",
+    "Hào Chín Năm: Tan bồ hôi thửa hiệu lớn, tan chỗ ở của vua, không lỗi",
+    "Hào Chín Trên: Tan thửa máu đi, rùng rợn ra, không lỗi"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Sơ lục chi cát, thuận dã",
+    "Tượng viết: Hoán bôn kỳ ngột, đắc nguyện dã",
+    "Tượng viết: Hoán kỳ cung, chí tại ngoại dã",
+    "Tượng viết: Hoán kỳ quần, nguyên cát, quang đại dã",
+    "Tượng viết: Vương cư vô cữu, chính vị dã",
+    "Tượng viết: Hoán kỳ huyết, viễn hại dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Cái tốt của hào Sáu Đầu, thuận vậy",
+    "Lời Tượng nói rằng: Tan chạy thửa ghết, được ý muốn vậy",
+    "Lời Tượng nói rằng: Tan thửa mình, chí ở ngoài vậy",
+    "Lời Tượng nói rằng: Tan thửa đàn, cả tốt, sáng lớn vậy",
+    "Lời Tượng nói rằng: Chỗ ở của vua ở không lỗi, ngôi chính vậy",
+    "Lời Tượng nói rằng: Tan thửa máu, xa hại vậy"
+   ],
+   "ten": "Phong Thủy Hoán",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 60,
+   "tenTrongSach": "Quẻ Tiết",
+   "quaiTrongSach": "Khảm trên ;Đoài dưới",
+   "loiQueAm": "Tiết hanh, khổ tiết bất khả trinh",
+   "loiQue": "Quẻ Tiết hanh, sự dè dặt khổ không thể chính bền",
+   "thoanAm": "Thoán viết: Tiết hanh, cương nhu phân nhi cương đắc trung. Khổ tiết bất khả trinh kỳ đạo cùng dã. Duyệt dĩ hành hiểm, đáng vị dĩ tiết, trung chính dĩ thông. Thiên địa tiết nhi tứ thì thành. Tiết dĩ chết độ, bá thương tài, bất hại dân",
+   "thoan": "Lời Thoán nói rằng: Quẻ Tiết hanh, cứng mềm bằng nhau mà cứng được giữa. Tiết khổ không thể chính bền, thửa đạo cùng vậy. Đẹp lòng để đi chỗ hiểm, đáng ngôi để dè dặt, giữa chính để suốt. Trời đát có chừng mực là bốn mùa nên. Chừng mực bằng phép tắc, chẳng hại của ai, chẳng hại dân",
+   "loiTuongAm": "Tượng viết: Trạch thượng hữu thuy, Tiết, quân tử dĩ tiết chế số độ, nghị đức hạnh",
+   "loiTuong": "Lời Tượng nói rằng: Trên chằm có nước là quẻ Tiết. Đấng quân tử coi đó mà chế độ, bàn đức nết",
+   "haoAm": [
+    "Sơ cửu: bất xuất hộ đình, vô cữu",
+    "Cửu Nhị: bất xuất môn đình, hung",
+    "Lục Tam: Bất tiết nhược, tắt ta nhược, vô cữu",
+    "Lục Tứ: An tiết, hanh",
+    "Cửu Ngũ: Cam tiết, cát vãng hữu thượng",
+    "Thượng Lục: Khổ tiết, trinh hung, hối vong"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Chẳng ra sân cửa, không lỗi",
+    "Hào Chín Hai: Chẳng ra sân cổng, hung",
+    "Hào Sáu Ba: Chẳng dè dặt vậy, thì than thở vậy, không lỗi",
+    "Hào Sáu Tư: Yên dè dặt, hanh",
+    "Hào Chín Năm: Sự dè dặt ngọt, tốt, đi có chuộng",
+    "Hào Sáu Trên: Sự dè dặt khổ, chính bền hung, ăn năn mất"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: bất xuất hộ đình, tri thông tắc dã",
+    "Tượng viết: Bất xuất môn đình hung, thất thì cực dã",
+    "Tượng viết: Bất tiết chi ta, hựu thùy cữu dã",
+    "Tượng viết: An tiết chi hanh, thừa thượng đạo dã",
+    "Tượng viết: Cam tiết chi cát, cư vị trung dã",
+    "Tượng viết: Khổ tiết trinh hung, kỳ đạo cùng dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Chẳng ra sân cửa, biết thông tắc vậy",
+    "Lời Tượng nói rằng: Chẳng ra sân cổng, hung, lỗi thời đến tột bậc vậy",
+    "Lời Tượng nói rằng: Lời than của kẻ chẳng tự dè dặt, lại đổ lỗi cho ai",
+    "Lời Tượng nói rằng: Yên dè dặt mà hanh, vâng đạo trên vậy",
+    "Lời Tượng nói rằng: Cái tốt của sự dè dặt ngọt ở ngôi giữa vậy",
+    "Lời Tượng nói rằng: Dè dặt khổ, chính bền hung, thửa đạo cùng vậy"
+   ],
+   "ten": "Thủy Trạch Tiết",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 61,
+   "tenTrongSach": "Quẻ Trung Phu",
+   "quaiTrongSach": "Tốn trên;  Đoài dưới",
+   "loiQueAm": "Trung phu, đôn ngư cát, lợi thiệp đại xuyên, lợi trinh",
+   "loiQue": "Quẻ Trung phu: Cá lợn tốt, lợi sang sông lớn, lợi về chính bền",
+   "thoanAm": "Thoán viết: Trung phu, nhu tại nội nhi cương đắc trung. Duyệt nhi tốn, phu nãi hóa bang dã; đôn ngư cát, cập đồn ngư dã; lợi thiệp đại xuyên, thừa mộc châu hư dã; trung phu dĩ lợi trinh nãi ứng hồ thiên dã",
+   "thoan": "Lời thoán nói rằng: Quẻ Trung Phu, mềm ở trong mà cứng được giữa, đẹp lòng mà nhún, tin bèn hóa nước vậy: Lợn cá tốt, tin kịp lợi cá vậy; lơi sang sông lớn, cưỡi cây thuyền không vậy; giữ tin đề lợi về chính bền, bèn ứng với trời vậy",
+   "loiTuongAm": "Tượng viết: Trạch thượng hữu phong, Trung phu, quân tử di nghị ngục hoãn tử",
+   "loiTuong": "Lời Tượng nói rằng: Trên chằm có gió là quẻ Trung phu. Đâng quan tử coi đó mà bàn việc ngục, hoãn tội chết",
+   "haoAm": [
+    "Sơ cửu: Ngu cát, hữu tha, bất yên",
+    "Cửu Nhị: Minh hạc tại âm, kỳ tủ họa chi; ngã hữu hảo tước, ngô dữ nhi my chi",
+    "Lục Tam: Đắc địch, hoặc cổ hoặc bãi, hoặc khấp hoặc ca",
+    "Lục Tứ: Nguyệt cơ vọng, mà xuất vong, vô cữu",
+    "Cửu Ngũ: Hữu phu loan như, vô cữu",
+    "Thượng Cửu: Hàn âm đăng vu thiên, Trinh hung"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Lo tốt, có khác, chẳng yên",
+    "Hào Chín Hai: Con Hạc kêu ở chỗ tối, con nó họa đấy, ta có tước tốt, tớ cùng mày ràng đấy",
+    "Hào Sáu Ba: Được kẻ địch, hoặc khua trông, hoặc thôi, hoặc khóc, hoặc múa",
+    "Hào Sáu Tư: mặt trăng hầu tuần vọng, đôi ngựa mất , không lỗi",
+    "Hào Chín Năm: Có tin dường như co quắp vậy, không lỗi",
+    "Hào Chín Trên: Tiếng cánh lên chưng trời, chính bền hung"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: sơ cửu ngu cát, chí vị biến dã",
+    "Tượng viết: Kỳ Tử họa chi, trung tâm nguyệt dã",
+    "Tượng viết: Hoặc cổ hoặc bãi, vị bất đáng dã",
+    "Tượng viết: Mã thất vong, tuyệt loại thượng dã",
+    "Tượng viết: Hữu phu loan như, vị chính đáng dã",
+    "Tượng viết: Hàn âm đăng vu thiên, hàn khả trường dã"
+   ],
+   "tieuTuong": [
+    "Lời nói Tượng nói rằng: Hào Chín Đầu lo tốt, chí chưa đổi vậy",
+    "Lời Tượng nói rằng: Con có họa đó, trong lòng muốn vậy",
+    "Lời Tượng nói rằng: Hoặc khua trống, hoặc thôi ngôi chẳng đáng vậy",
+    "Lời Tượng nói rằng: Đôi ngựa mất, dứt loài lên vậy",
+    "Lời Tượng nói rằng: Có tin dương như co quắp vậy, ngôi chính đang vậy",
+    "Lời Tượng nói rằng: Tiếng cánh lên chừng trời, sao khá dài vậy?"
+   ],
+   "ten": "Phong Trạch Trung Phu",
+   "tenHao": [
+    "Sơ Cửu",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Cửu"
+   ]
+  },
+  {
+   "so": 62,
+   "tenTrongSach": "Quẻ Tiểu Quá",
+   "quaiTrongSach": "Chấn trên;  Cấn dưới",
+   "loiQueAm": "Tiểu quá hanh, lợi trinh Khả tiểu sự, bất khả đại sự, phi điểu dị chi âm bất nghi thượng, nghi hạ đại cát",
+   "loiQue": "Quẻ Tiểu Quá hanh, lợi về chính bền Khá Việc nhỏ, chẳng khá việc lớn, chim bay để chưng tiếng, chẳng nên lên, nên xuống, cả tốt",
+   "thoanAm": "Quá dĩ lợi trinh, dữ thì hành dã Nhu đắc trung, thị dĩ tiểu sự cát dã Hữu phi điểu chi tượng yên. Phi điểu dị chi âm, bất nghi thượng, nghi hạ, đạt cát, thượng nghiệp nhi hạ thuận dã",
+   "thoan": "Quá để lợi về chính bền, cùng thì đi vậy Mềm được giữa, cho nên việc nhỏ tốt vậy Có Tượng có chim bay vậy. Chim bay để chưng tiếng, chẳng nên lên, nên xuống, cả tốt, lên nghịch mà xuống thuận vậy",
+   "loiTuongAm": "Tượng viết: Sơn thượng hữu lôi, Tiểu quá, quân tử dĩ hạnh quá hồ cung, tang quá hồ ai, dụng quá hồ kiệm",
+   "loiTuong": "Lời Tượng nói rằng: Trên núi có sấm là quẻ Tiểu Quá. Đấng quân tử coi đó mà nên quá chưng kinh, tang quá chưng thương, dùng quá chưng kiệm",
+   "haoAm": [
+    "Sơ Lục: Phi điểu dĩ hung",
+    "Lục Nhị: Quá kỳ tổ, ngộ kỳ tỷ, bất cập kỳ quân, ngộ kỳ thần, vô cữu",
+    "Cửu Tam: Phất quá phòng chi, tòng hoặc tường chi, hung!",
+    "Cửu Tứ: Vô Cữu, phất quá ngộ chi, vãng lệ, tất giới vật dụng vĩnh trinh",
+    "Lục Ngũ: mật vân bất vũ, tự ngã tây giao, công dặc thủ bỉ, tại huyệt",
+    "thượng lục: Phất ngộ quá chi, phi điểm ly chi, hung thị vị tai sảnh"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Chim bay lấy hung",
+    "Hào Sáu Hai: Quá thửa ông, gặp thửa bà; chẳng kịp thửa vua, gặp thửa bề tôi, không lỗi",
+    "Hào Chín Ba: Chẳng quá ngừa đó, theo hoặc hại đó, hung!",
+    "Hào Chín Tự: Không lỗi chẳng quá gặp đấy, đi nguy, ắt răn, chớ dùng dài lâu chính bền",
+    "Hào Sáu Năm: Mây dầy chẳng mưa, ở cõi tây ta, ông bắn lấy nó ở hang",
+    "Hào Sáu Trên: Chẳng gặp, quá đây, chim bay lìa đấy, hung, ấy rằng vạ tội"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Phi điểu dĩ hung, bất khả như hà dã",
+    "Tượng viết: bất cập kỳ quân, thần bất khả dã",
+    "Tượng viết: tòng hoặc tường chi, hung như hà dã",
+    "Tượng viết: Phất quá, ngộ chi, vị bát đáng dã; vãng lệ, tất giới, chung bất khả trường dã",
+    "Tượng viết: Mật vân, bất vũ, dĩ thượng dã",
+    "Tượng viết: Phất ngộ quá chi, dĩ kháng dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Chim bay lấy hung, chẳng khá dường sao vậy",
+    "Lời Tượng nói rằng: Chẳng kịp thửa vua, bề tôi không thể quá vậy",
+    "Lời Tượng nói rằng: Theo hoặc hại đấy, hung dường như sao vậy",
+    "Lời Tượng nói rằng: Chẳng quá, gặp đấy, ngôi chẳng đáng vậy; đi nguy, ắt răn, trọn chẳng khá lớn vậy",
+    "Lời Tượng nói rằng: mây dầy chẳng mưa, đã lên vậy",
+    "Lời Tượng nỏi rằng: Chẳng gặp quá đấy, đã quá cực vậy"
+   ],
+   "ten": "Lôi Sơn Tiểu Quá",
+   "tenHao": [
+    "Sơ Lục",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 63,
+   "tenTrongSach": "Quẻ Ký Tế",
+   "quaiTrongSach": "Khảm trên; Ly Dưới",
+   "loiQueAm": "Ký Tế hanh, tiểu lợi trinh, sơ cát, chung loạn",
+   "loiQue": "Quẻ ký tế hanh, nhỏ lợi về chính bền, đầu tốt, chót loạn",
+   "thoanAm": "Thoán viết:Ký tế hanh, tiểu giả hanh dã Lợi trinh, cương nhu chính nhi vị đáng dã Sơ cát, nhu đắc trung dã; chung chỉ tắc loạn, kỳ đạo cùng dã",
+   "thoan": "Lời Thoán nói rằng: Quẻ Ký tế hanh, cái nhỏ hanh vậy Lợi về chính bền, cứng mềm chính mà ngôi đáng vậy Đầu tốt, mềm được giữa vậy; chót đậu thì loạn, thửa đạo cùng vậy",
+   "loiTuongAm": "Tượng viết: Thủy tại hỏa thượng, Ký tế, quan tử dĩ tư hoạn nhi dự phòng chi",
+   "loiTuong": "Lời Tượng nói rằng: Nước ở trên lửa là quẻ Ký tế, đáng quan tử coi đó để nghĩ sự lo mà ngừa sẵn đấy",
+   "haoAm": [
+    "Sơ Cửu: Duệ kỳ luân, nhu kỳ vy, vô cữu",
+    "Lục Nhị: Phụ táng kỳ phất, vật trục, thất nhật đắc",
+    "Cửu Tam: Cao Tông phạt Quỷ Phương, tam nhiên khắc chi, tiểu nhân vật dụng",
+    "Lục Tứ: Nhu hữu y như, chung nhật giới",
+    "Cửu ngũ: Đông lân sát ngưu, bất như tây lân chi thược tế, thật thụ kỳ phúc",
+    "Thượng lục: Nhu kỳ thủ, lệ!"
+   ],
+   "hao": [
+    "Hào Chín Đầu: Kéo thửa bánh xe, ướt thửa đuôi không lỗi",
+    "Hào Sáu Hai: Đàn bà mất thửa khăn trùm chớ đuổi bảy ngày được",
+    "Hào Chín Ba: Vua Cao Tông đánh nước Quỷ Phương, ba năm được đấy, kẻ tiểu nhân chờ dùng",
+    "Hào Sáu Tư: ướt có áo giẻ, trọn ngày răn",
+    "Hào Chín Năm: Láng giềng bên Đông giết trâu, chẳng bằng láng giềng bên Tây tế Thược, thật chịu thửa phúc",
+    "Hào Sáu Trên: Ướt thửa đầu, nguy!"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: Duệ kỳ luân, nghĩa vô cữu dã",
+    "Tượng viết: Thất nhật đắc, di trung đạo dã",
+    "Tượng viết: Tam niên khắc chi, bại dã",
+    "Tượng viết: Chung nhật giới, hữu sơ nghĩ dã",
+    "Tượng viết: Đông lân sát ngưu bất như tây lân chi thì dã; thậ thụ kỳ phúc, cát đại lai dã",
+    "Tượng viết: Nhu kỳ thủ, lệ, hà khả cửu dã?"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Kéo thửa bánh xe, nghĩa không lỗi vậy",
+    "Lời Tượng nói rằng: bây ngày được, vì đạo giữa vậy",
+    "Lời của Tượng nói rằng: Ba năm được đó, mệt vậy",
+    "Lời Tượng nói rằng: Trọn ngày răn, có thửa ngờ vậy",
+    "Lời Tượng nói rằng: Láng giềng bên Đông giết trâu, chằng bằng láng giềng bên Tây phải thời vậy; thật chịu thửa phúc, tốt cả lại vậy",
+    "Lời Tượng nói rằng: Ướt thửa đầu, nguy, sao khá dài vậy?"
+   ],
+   "ten": "Thủy Hỏa Ký Tế",
+   "tenHao": [
+    "Sơ Cửu",
+    "Lục Nhị",
+    "Cửu Tam",
+    "Lục Tứ",
+    "Cửu Ngũ",
+    "Thượng Lục"
+   ]
+  },
+  {
+   "so": 64,
+   "tenTrongSach": "Quẻ Vị Tế",
+   "quaiTrongSach": "Ly trên; Khảm dưới",
+   "loiQueAm": "Vị tế hanh, tiểu hồ hất tế, nhu kỳ vĩ, vô du lợi",
+   "loiQue": "Quẻ vị tế hanh, con cáo nhỏ hầu sang, ướt thửa đuôi, không thửa lợi",
+   "thoanAm": "Tượng viết: Vị tế hanh, nhu đắc trung dã; tiểu hồ hất tế, vị xuất trung dã; nhu kỳ vĩ, vô sơ lợi, bất dục chung dã; tuy bất đang vị, cương nhu ứng dã",
+   "thoan": "Lời thoán nói rằng: Quẻ Vị tế hanh, mềm được giữa vậy; cáo nhỏ hầu sang, chưa ra trong vậy; ướt thửa đuôi, không thửa lợi, chẳng nối chót vậy; tuy chẳng đang ngôi, cứng mềm ứng nhau vậy",
+   "loiTuongAm": "Tượng viết: Hỏa tại thủy thượng. Vị tế, quân tử dĩ thận biện vật, cư phương",
+   "loiTuong": "Lời Tượng nói rằng: Lửa ở trên nước, là quẻ Vị tế, đấng quân tử coi đó mà cẩn thận phân biệt các vật, ở phương",
+   "haoAm": [
+    "Sơ Lục: Nhu kỳ vĩ lận!",
+    "Cửu Nhị: Duệ kỳ luân, trinh cát",
+    "Lục Tam: Vị tế chinh hung, lợi thiệp đại xuyên",
+    "Cửu Tứ: Trinh cát, hối vong, chấn dụng phát Quỷ Phương, Tam niên hữu thương vu đại quốc",
+    "Lục Ngũ: Trinh cát, vong hối, quân tử chi quang, hữu phu, cát",
+    "Thượng cửu: Hữu Phu vu ẩm tửu, vô cữu, nhu kỳ thủ, hữu phu, thất thị"
+   ],
+   "hao": [
+    "Hào Sáu Đầu: Ướt thửa đuôi, tiếp đáng!",
+    "Hào Chín hai: Kéo thửa bánh xe, chính bền, tốt",
+    "Hào Sáu ba: Chưa sang đi hung, lợi về sang sông lớn",
+    "Hào Chín Tư: Chính bền, ăn năn mất, nhức dùng đánh nước Quỷ Phương, ba năm, có thương chưng nước lớn",
+    "Hào Sáu Năm: chính bền tốt, không ăn năn, sự sáng của đấng quân tử, có tin tốt",
+    "Hào Chín Trên: có tin chưng uống rượu, không lỗi, ướt thửa đầu, có tin, mất phải"
+   ],
+   "tieuTuongAm": [
+    "Tượng viết: nhu kỳ vĩ, Diệc bất trí cực dã",
+    "",
+    "Tượng viết: Vị tế chinh hung, vị bất đáng dã",
+    "Tượng viết: Trinh cát, hối vong, chí hành dã",
+    "Tượng viết: quân tử chi quang, kỳ huy cát dã",
+    "Tượng viết: Ẩm Tửu nhu thủ, diệc bất tri tiết dã"
+   ],
+   "tieuTuong": [
+    "Lời Tượng nói rằng: Ướt thửa đầu, cũng chẳng biết cực vậy",
+    "",
+    "Lời Tượng nói rằng: chưa sang đi hung, ngôi chẳng đang vậy",
+    "Lời Tượng nói rằng: Chính bền tốt, ăn năn mất, chí được thi hành vậy",
+    "Lời Tượng nói rằng: sự sáng của đấng quân tử, thửa tia sáng tốt vậy",
+    "Lời Tượng nói rằng: Uống rượu ướt đầu, cũng chẳng tiết độ vậy"
+   ],
+   "ten": "Hỏa Thủy Vị Tế",
+   "tenHao": [
+    "Sơ Lục",
+    "Cửu Nhị",
+    "Lục Tam",
+    "Cửu Tứ",
+    "Lục Ngũ",
+    "Thượng Cửu"
+   ]
+  }
+ ]
+}

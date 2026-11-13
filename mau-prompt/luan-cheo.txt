@@ -1,0 +1,75 @@
+MODEL: claude-sonnet-5-5 | max_tokens: 4200
+
+===== SYSTEM =====
+Bạn là người luận giải mệnh lý cho một ứng dụng tiếng Việt, am hiểu tử vi Việt Nam, bát tự (tứ trụ), Kinh Dịch và tarot.
+
+NGUYÊN TẮC VỀ DỮ LIỆU
+- Mọi lá số, quẻ, lá bài đều do hệ thống tính sẵn và đưa cho bạn trong khối DỮ LIỆU. Chỉ luận trên dữ liệu đó.
+- Không tự tính lại can chi, không tự an sao, không tự gieo quẻ hay rút bài, không thêm sao hay lá bài không có trong dữ liệu. Nếu thấy thiếu dữ liệu để trả lời, nói rõ là thiếu gì.
+- Khi dẫn lời quẻ, lời hào Kinh Dịch, chỉ dẫn đúng câu có trong dữ liệu. Nếu dữ liệu ghi chưa có nguyên văn thì nói rõ, rồi luận theo tượng quẻ.
+- Mỗi nhận định phải chỉ ra căn cứ: sao nào ở cung nào, trụ nào, hào nào, lá bài ở vị trí nào.
+
+NGUYÊN TẮC VỀ NỘI DUNG
+- Đây là nội dung tham khảo để người xem tự soi xét, không phải lời tiên tri chắc chắn. Nói về xu hướng, thuận lợi, điểm cần lưu ý; không khẳng định điều gì chắc chắn sẽ xảy ra.
+- Không phán về bệnh cụ thể, tuổi thọ, sinh tử, tai nạn chết người. Với sức khỏe chỉ nói mức "nên chú ý giữ gìn" và khuyên đi khám khi có lo ngại.
+- Không khuyên mua bán một tài sản, cổ phiếu, khoản vay cụ thể; không thay cho tư vấn pháp lý, y tế, tài chính.
+- Không dọa dẫm, không gợi ý cúng giải hạn tốn kém, không làm người xem lệ thuộc vào việc xem bói. Khi có điểm xấu, nói thẳng nhưng kèm cách ứng xử thực tế.
+- Nếu người hỏi có dấu hiệu khủng hoảng tinh thần, đặt việc luận giải sang một bên, hỏi han và khuyên họ tìm người thân hoặc chuyên gia hỗ trợ.
+
+CÁCH VIẾT
+- Tiếng Việt tự nhiên, ấm áp, rõ ràng; xưng "tôi", gọi người xem là "bạn" trừ khi hồ sơ ghi cách xưng hô khác.
+- Thuật ngữ chuyên môn dùng đúng, lần đầu xuất hiện giải thích ngắn trong ngoặc.
+- Đi thẳng vào nội dung, không mở đầu bằng lời chào dài, không nhắc lại toàn bộ dữ liệu.
+- Kết bằng 2–3 gợi ý hành động cụ thể, không kết bằng lời chúc chung chung.
+
+LUẬN CHÉO NHIỀU MÔN
+Dữ liệu có từ hai môn trở lên. Lá số (tử vi, bát tự) cho biết nền tảng và vận hạn dài; quẻ Dịch và tarot trả lời việc cụ thể tại thời điểm hỏi.
+Trình tự: (1) kết luận chung cho câu hỏi; (2) mỗi môn nói gì, ngắn gọn, có căn cứ; (3) chỗ các môn cùng chỉ một hướng; (4) chỗ các môn khác nhau: nêu thẳng, giải thích theo phạm vi của từng môn, không gượng ép cho khớp; (5) nên làm gì.
+Độ dài: 600–900 chữ.
+
+===== USER =====
+DỮ LIỆU (do hệ thống tính, dùng nguyên như vậy)
+
+LÁ SỐ TỬ VI (kiểu Việt Nam)
+- Dương Nam, Âm dương thuận lý; sinh giờ Mùi, ngày 21 tháng 4 năm Canh Ngọ (âm lịch)
+- Bản mệnh Lộ Bàng Thổ; Thổ Ngũ Cục; Mệnh tại Tuất; Thân cư Phúc Đức; Mệnh chủ Phá Quân; Thân chủ Hỏa Tinh
+- Tam phương tứ chính của Mệnh: Mệnh (Tuất), Quan Lộc (Dần), Tài Bạch (Ngọ), Thiên Di (Thìn)
+- Năm xem: Bính Ngọ, 37 tuổi âm. Đại hạn hiện tại: cung Điền Trạch (35-44). Tiểu hạn năm nay: cung Thiên Di
+12 cung:
+- Mệnh [Bính Tuất] {TUẦN}: Tử Vi (Vượng), Thiên Tướng (Vượng) | cát: - | sát: - | khác: Địa Giải, Ân Quang, Hoa Cái, Long Trì, Đẩu Quân, Địa Võng | vòng: Quan Phù, Thanh Long, Quan Đới | đại hạn 5-14 | tiểu hạn năm Tý
+- Phụ Mẫu [Đinh Hợi] {TUẦN}: Thiên Lương (Hãm) | cát: Văn Khúc | sát: - | khác: Thiên Giải, Bát Tọa, Văn Tinh, Thiên Quan, Kiếp Sát, Nguyệt Đức | vòng: Tử Phù, Tiểu Hao, Lâm Quan | đại hạn 15-24 | tiểu hạn năm Sửu
+- Phúc Đức [Mậu Tý] {THÂN CƯ}: Thất Sát (Miếu) | cát: - | sát: - | khác: Thiên Hình, Thiên Khốc, Thiên Hư | vòng: Tuế Phá, Tướng Quân, Đế Vượng | đại hạn 25-34 | tiểu hạn năm Dần
+- Điền Trạch [Kỷ Sửu]: vô chính diệu | cát: - | sát: - | khác: Thai Phụ, Đường Phù | vòng: Long Đức, Tấu Thư, Suy | đại hạn 35-44 | tiểu hạn năm Mão
+- Quan Lộc [Mậu Dần]: Liêm Trinh (Vượng) | cát: Thiên Việt | sát: - | khác: Thiên Trù | vòng: Bạch Hổ, Phi Liêm, Bệnh | đại hạn 45-54 | tiểu hạn năm Thìn
+- Nô Bộc [Kỷ Mão]: vô chính diệu | cát: Văn Xương | sát: - | khác: Tam Thai, Đào Hoa, Thiên Hỷ, Thiên Đức, Thiên Thương | vòng: Phúc Đức, Hỷ Thần, Tử | đại hạn 55-64 | tiểu hạn năm Tỵ
+- Thiên Di [Canh Thìn]: Phá Quân (Đắc) | cát: - | sát: Địa Không | khác: Thiên Riêu, Thiên Y, Thiên Quý, Quốc Ấn, Phượng Các, Giải Thần, Quả Tú, Thiên Tài, Thiên La | vòng: Điếu Khách, Bệnh Phù, Mộ | đại hạn 65-74 | tiểu hạn năm Ngọ
+- Tật Ách [Tân Tỵ]: Thiên Đồng (Đắc, Hóa Kỵ) | cát: - | sát: - | khác: Phá Toái, Thiên Sứ | vòng: Trực Phù, Đại Hao, Tuyệt | đại hạn 75-84 | tiểu hạn năm Mùi
+- Tài Bạch [Nhâm Ngọ] {TRIỆT}: Vũ Khúc (Vượng, Hóa Quyền), Thiên Phủ (Miếu) | cát: Thiên Khôi | sát: Địa Kiếp | khác: Thiên Phúc, Thiên Thọ | vòng: Thái Tuế, Phục Binh, Thai | đại hạn 85-94 | tiểu hạn năm Thân
+- Tử Tức [Quý Mùi] {TRIỆT}: Thái Dương (Đắc, Hóa Lộc), Thái Âm (Đắc, Hóa Khoa) | cát: Tả Phù, Hữu Bật | sát: Đà La | khác: Thiên Không | vòng: Thiếu Dương, Quan Phủ, Dưỡng | đại hạn 95-104 | tiểu hạn năm Dậu
+- Phu Thê [Giáp Thân]: Tham Lang (Đắc) | cát: Lộc Tồn, Thiên Mã | sát: Hỏa Tinh, Linh Tinh | khác: Lưu Hà, Cô Thần | vòng: Tang Môn, Bác Sĩ, Tràng Sinh | đại hạn 105-114 | tiểu hạn năm Tuất
+- Huynh Đệ [Ất Dậu]: Thiên Cơ (Miếu), Cự Môn (Miếu) | cát: - | sát: Kình Dương | khác: Phong Cáo, Hồng Loan | vòng: Thiếu Âm, Lực Sĩ, Mộc Dục | đại hạn 115-124 | tiểu hạn năm Hợi
+
+BÁT TỰ (TỨ TRỤ)
+- Trụ năm: Canh Ngọ (Kim/Hỏa), Tỷ Kiên, nạp âm Lộ Bàng Thổ; tàng can: Đinh Chính Quan, Kỷ Chính Ấn
+- Trụ tháng: Tân Tỵ (Kim/Hỏa), Kiếp Tài, nạp âm Bạch Lạp Kim; tàng can: Bính Thất Sát, Canh Tỷ Kiên, Mậu Thiên Ấn
+- Trụ ngày: Canh Thìn (Kim/Thổ), Nhật Chủ, nạp âm Bạch Lạp Kim; tàng can: Mậu Thiên Ấn, Ất Chính Tài, Quý Thương Quan
+- Trụ giờ: Quý Mùi (Thủy/Thổ), Thương Quan, nạp âm Dương Liễu Mộc; tàng can: Kỷ Chính Ấn, Đinh Chính Quan, Ất Chính Tài
+- Nhật chủ: Canh (Dương Kim), sinh sau tiết Lập Hạ
+- Ngũ hành 8 chữ: Mộc 0, Hỏa 2, Thổ 2, Kim 3, Thủy 1; thiếu: Mộc
+- Ngũ hành tính cả tàng can: Mộc 2, Hỏa 3, Thổ 4, Kim 4, Thủy 2
+- Đại vận (thuận, khởi vận sau sinh 7 năm 2 tháng 10 ngày): 8t Nhâm Ngọ (Thực Thần); 18t Quý Mùi (Thương Quan); 28t Giáp Thân (Thiên Tài); 38t Ất Dậu (Chính Tài); 48t Bính Tuất (Thất Sát); 58t Đinh Hợi (Chính Quan); 68t Mậu Tý (Thiên Ấn); 78t Kỷ Sửu (Chính Ấn); 88t Canh Dần (Tỷ Kiên)
+- Đại vận đang hành (2026): Giáp Thân, Thiên Tài, từ 2017
+
+QUẺ KINH DỊCH (gieo 3 đồng xu)
+Câu hỏi: Có nên đổi việc?
+Quẻ chủ: 42. Phong Lôi Ích (Tốn trên, Chấn dưới)
+  Lời quẻ: Quẻ Ích lợi có thửa đi, lợi về sang sông lớn
+  Thoán: Lời Thoán nói rằng: Quẻ Ích, bớt trên thêm dưới, dân đẹp lòng không bờ, tự trên xuống dưới, thửa đạo cả sáng Lợi có thửa đi, trung chính có phúc Lợi sang lớn, đạo ích mới cả thi hành Quẻ Ích động mà nhún, ngày tiến không bờ Trời thi hành, đất sinh, thửa ích không phương Phàm chưng đạo Ích, cùng thì đều đi
+  Đại Tượng: Lời Tượng nói rằng: Gió sấm là quẻ Ích, đấng quân tử coi đó mà thấy điều thiện thì dời sang, có lỗi thì đổi đi
+Không có hào động (quẻ tĩnh): luận theo lời quẻ chủ.
+Quẻ hỗ: 23. Sơn Địa Bác (Cấn trên, Khôn dưới)
+Nguồn lời quẻ: Kinh Dịch — Ngô Tất Tố dịch và chú giải (NXB Văn Học); chỉ gồm kinh văn: dịch âm và dịch nghĩa
+
+YÊU CẦU: Có nên đổi việc?
+
+[kích thước: system 2228 ký tự, dữ liệu 4584 ký tự; ước lượng thô 2271 token đầu vào]

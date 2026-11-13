@@ -1,0 +1,1026 @@
+[
+  {
+    "number": 1,
+    "file": "hexagrams/01-qian.png",
+    "slug": "qian",
+    "name_vi": "Càn",
+    "lower": "Qian",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 2,
+    "file": "hexagrams/02-kun.png",
+    "slug": "kun",
+    "name_vi": "Khôn",
+    "lower": "Kun",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 3,
+    "file": "hexagrams/03-zhun.png",
+    "slug": "zhun",
+    "name_vi": "Truân",
+    "lower": "Zhen",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 4,
+    "file": "hexagrams/04-meng.png",
+    "slug": "meng",
+    "name_vi": "Mông",
+    "lower": "Kan",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 5,
+    "file": "hexagrams/05-xu.png",
+    "slug": "xu",
+    "name_vi": "Nhu",
+    "lower": "Qian",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 6,
+    "file": "hexagrams/06-song.png",
+    "slug": "song",
+    "name_vi": "Tụng",
+    "lower": "Kan",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 7,
+    "file": "hexagrams/07-shi.png",
+    "slug": "shi",
+    "name_vi": "Sư",
+    "lower": "Kan",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 8,
+    "file": "hexagrams/08-bi.png",
+    "slug": "bi",
+    "name_vi": "Tỷ",
+    "lower": "Kun",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 9,
+    "file": "hexagrams/09-xiaoxu.png",
+    "slug": "xiaoxu",
+    "name_vi": "Tiểu Súc",
+    "lower": "Qian",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 10,
+    "file": "hexagrams/10-lu.png",
+    "slug": "lu",
+    "name_vi": "Lý",
+    "lower": "Dui",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 11,
+    "file": "hexagrams/11-tai.png",
+    "slug": "tai",
+    "name_vi": "Thái",
+    "lower": "Qian",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 12,
+    "file": "hexagrams/12-pi.png",
+    "slug": "pi",
+    "name_vi": "Bĩ",
+    "lower": "Kun",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 13,
+    "file": "hexagrams/13-tongren.png",
+    "slug": "tongren",
+    "name_vi": "Đồng Nhân",
+    "lower": "Li",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 14,
+    "file": "hexagrams/14-dayou.png",
+    "slug": "dayou",
+    "name_vi": "Đại Hữu",
+    "lower": "Qian",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 15,
+    "file": "hexagrams/15-qian-2.png",
+    "slug": "qian-2",
+    "name_vi": "Khiêm",
+    "lower": "Gen",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 16,
+    "file": "hexagrams/16-yu.png",
+    "slug": "yu",
+    "name_vi": "Dự",
+    "lower": "Kun",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 17,
+    "file": "hexagrams/17-sui.png",
+    "slug": "sui",
+    "name_vi": "Tùy",
+    "lower": "Zhen",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 18,
+    "file": "hexagrams/18-gu.png",
+    "slug": "gu",
+    "name_vi": "Cổ",
+    "lower": "Xun",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 19,
+    "file": "hexagrams/19-lin.png",
+    "slug": "lin",
+    "name_vi": "Lâm",
+    "lower": "Dui",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 20,
+    "file": "hexagrams/20-guan.png",
+    "slug": "guan",
+    "name_vi": "Quan",
+    "lower": "Kun",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 21,
+    "file": "hexagrams/21-shihe.png",
+    "slug": "shihe",
+    "name_vi": "Phệ Hạp",
+    "lower": "Zhen",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 22,
+    "file": "hexagrams/22-bi-2.png",
+    "slug": "bi-2",
+    "name_vi": "Bí",
+    "lower": "Li",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 23,
+    "file": "hexagrams/23-bo.png",
+    "slug": "bo",
+    "name_vi": "Bác",
+    "lower": "Kun",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 24,
+    "file": "hexagrams/24-fu.png",
+    "slug": "fu",
+    "name_vi": "Phục",
+    "lower": "Zhen",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 25,
+    "file": "hexagrams/25-wuwang.png",
+    "slug": "wuwang",
+    "name_vi": "Vô Vọng",
+    "lower": "Zhen",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 26,
+    "file": "hexagrams/26-daxu.png",
+    "slug": "daxu",
+    "name_vi": "Đại Súc",
+    "lower": "Qian",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 27,
+    "file": "hexagrams/27-yi.png",
+    "slug": "yi",
+    "name_vi": "Di",
+    "lower": "Zhen",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 28,
+    "file": "hexagrams/28-daguo.png",
+    "slug": "daguo",
+    "name_vi": "Đại Quá",
+    "lower": "Xun",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 29,
+    "file": "hexagrams/29-kan.png",
+    "slug": "kan",
+    "name_vi": "Khảm",
+    "lower": "Kan",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 30,
+    "file": "hexagrams/30-li.png",
+    "slug": "li",
+    "name_vi": "Ly",
+    "lower": "Li",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 31,
+    "file": "hexagrams/31-xian.png",
+    "slug": "xian",
+    "name_vi": "Hàm",
+    "lower": "Gen",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 32,
+    "file": "hexagrams/32-heng.png",
+    "slug": "heng",
+    "name_vi": "Hằng",
+    "lower": "Xun",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 33,
+    "file": "hexagrams/33-dun.png",
+    "slug": "dun",
+    "name_vi": "Độn",
+    "lower": "Gen",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 34,
+    "file": "hexagrams/34-dazhuang.png",
+    "slug": "dazhuang",
+    "name_vi": "Đại Tráng",
+    "lower": "Qian",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 35,
+    "file": "hexagrams/35-jin.png",
+    "slug": "jin",
+    "name_vi": "Tấn",
+    "lower": "Kun",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 36,
+    "file": "hexagrams/36-mingyi.png",
+    "slug": "mingyi",
+    "name_vi": "Minh Di",
+    "lower": "Li",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 37,
+    "file": "hexagrams/37-jiaren.png",
+    "slug": "jiaren",
+    "name_vi": "Gia Nhân",
+    "lower": "Li",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 38,
+    "file": "hexagrams/38-kui.png",
+    "slug": "kui",
+    "name_vi": "Khuê",
+    "lower": "Dui",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 39,
+    "file": "hexagrams/39-jian.png",
+    "slug": "jian",
+    "name_vi": "Kiển",
+    "lower": "Gen",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 40,
+    "file": "hexagrams/40-jie.png",
+    "slug": "jie",
+    "name_vi": "Giải",
+    "lower": "Kan",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 41,
+    "file": "hexagrams/41-sun.png",
+    "slug": "sun",
+    "name_vi": "Tổn",
+    "lower": "Dui",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 42,
+    "file": "hexagrams/42-yi-2.png",
+    "slug": "yi-2",
+    "name_vi": "Ích",
+    "lower": "Zhen",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 43,
+    "file": "hexagrams/43-guai.png",
+    "slug": "guai",
+    "name_vi": "Quải",
+    "lower": "Qian",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 44,
+    "file": "hexagrams/44-gou.png",
+    "slug": "gou",
+    "name_vi": "Cấu",
+    "lower": "Xun",
+    "upper": "Qian",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 45,
+    "file": "hexagrams/45-cui.png",
+    "slug": "cui",
+    "name_vi": "Tụy",
+    "lower": "Kun",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 46,
+    "file": "hexagrams/46-sheng.png",
+    "slug": "sheng",
+    "name_vi": "Thăng",
+    "lower": "Xun",
+    "upper": "Kun",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 47,
+    "file": "hexagrams/47-kun-2.png",
+    "slug": "kun-2",
+    "name_vi": "Khốn",
+    "lower": "Kan",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 48,
+    "file": "hexagrams/48-jing.png",
+    "slug": "jing",
+    "name_vi": "Tỉnh",
+    "lower": "Xun",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 49,
+    "file": "hexagrams/49-ge.png",
+    "slug": "ge",
+    "name_vi": "Cách",
+    "lower": "Li",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 50,
+    "file": "hexagrams/50-ding.png",
+    "slug": "ding",
+    "name_vi": "Đỉnh",
+    "lower": "Xun",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 51,
+    "file": "hexagrams/51-zhen.png",
+    "slug": "zhen",
+    "name_vi": "Chấn",
+    "lower": "Zhen",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 52,
+    "file": "hexagrams/52-gen.png",
+    "slug": "gen",
+    "name_vi": "Cấn",
+    "lower": "Gen",
+    "upper": "Gen",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 53,
+    "file": "hexagrams/53-jian-2.png",
+    "slug": "jian-2",
+    "name_vi": "Tiệm",
+    "lower": "Gen",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 54,
+    "file": "hexagrams/54-guimei.png",
+    "slug": "guimei",
+    "name_vi": "Quy Muội",
+    "lower": "Dui",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 55,
+    "file": "hexagrams/55-feng.png",
+    "slug": "feng",
+    "name_vi": "Phong",
+    "lower": "Li",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 56,
+    "file": "hexagrams/56-lu-2.png",
+    "slug": "lu-2",
+    "name_vi": "Lữ",
+    "lower": "Gen",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "number": 57,
+    "file": "hexagrams/57-xun.png",
+    "slug": "xun",
+    "name_vi": "Tốn",
+    "lower": "Xun",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 58,
+    "file": "hexagrams/58-dui.png",
+    "slug": "dui",
+    "name_vi": "Đoài",
+    "lower": "Dui",
+    "upper": "Dui",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 59,
+    "file": "hexagrams/59-huan.png",
+    "slug": "huan",
+    "name_vi": "Hoán",
+    "lower": "Kan",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 60,
+    "file": "hexagrams/60-jie-2.png",
+    "slug": "jie-2",
+    "name_vi": "Tiết",
+    "lower": "Dui",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 61,
+    "file": "hexagrams/61-zhongfu.png",
+    "slug": "zhongfu",
+    "name_vi": "Trung Phu",
+    "lower": "Dui",
+    "upper": "Xun",
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "number": 62,
+    "file": "hexagrams/62-xiaoguo.png",
+    "slug": "xiaoguo",
+    "name_vi": "Tiểu Quá",
+    "lower": "Gen",
+    "upper": "Zhen",
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "number": 63,
+    "file": "hexagrams/63-jiji.png",
+    "slug": "jiji",
+    "name_vi": "Ký Tế",
+    "lower": "Li",
+    "upper": "Kan",
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "number": 64,
+    "file": "hexagrams/64-weiji.png",
+    "slug": "weiji",
+    "name_vi": "Vị Tế",
+    "lower": "Kan",
+    "upper": "Li",
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  }
+]
