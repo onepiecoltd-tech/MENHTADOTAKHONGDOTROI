@@ -16,7 +16,8 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { createInterface } from 'node:readline/promises';
 import { lapVeDa, lapBatTu, lapTuVi, gieoQueDongXu, gieoQueMaiHoa, ganLoiQue, rutBai, type ThongTinSinh } from '../index.js';
-import { rutGonVeDa, rutGonBatTu, rutGonQue, rutGonTarot, rutGonTuVi, taoYeuCau, luanGiai, troChuyen, troChuyenHaiBuoc, taoPhien, taoMayKhachTaiKhoan, kiemTraDangNhap, type YeuCauLuan, type PhienTroChuyen, type MayKhach } from './index.js';
+import { rutGonVeDa, rutGonPhongThuy, rutGonBatTu, rutGonQue, rutGonTarot, rutGonTuVi, taoYeuCau, luanGiai, troChuyen, troChuyenHaiBuoc, taoPhien, taoMayKhachTaiKhoan, kiemTraDangNhap, type YeuCauLuan, type PhienTroChuyen, type MayKhach } from './index.js';
+import { lapPhongThuy } from '../phongthuy/index.js';
 
 const tham = process.argv.slice(2).filter((x) => x !== '--xem-prompt');
 const xemPrompt = process.argv.includes('--xem-prompt');
@@ -35,6 +36,7 @@ function dungYeuCau(): YeuCauLuan {
   switch (lenh) {
     case 'tuvi': return { loai: 'tu-vi', duLieu: [rutGonTuVi(lapTuVi(canSinh()))], cauHoi: a[3] };
     case 'chiemtinh': return { loai: 'chiem-tinh', duLieu: [rutGonVeDa(lapVeDa(canSinh()))], cauHoi: a[3] };
+    case 'phongthuy': { const s = canSinh(); const huong = Number(a[3]); const loai = (a[4] as any) || 'chung'; return { loai: 'phong-thuy', duLieu: [rutGonPhongThuy(lapPhongThuy({ ngaySinh: `${s.nam}-${String(s.thang).padStart(2, '0')}-${String(s.ngay).padStart(2, '0')}`, gioiTinh: s.gioiTinh, huongNhaDo: Number.isFinite(huong) ? huong : undefined, loaiViec: loai }))], cauHoi: a[5] }; }
     case 'batu': return { loai: 'bat-tu', duLieu: [rutGonBatTu(lapBatTu(canSinh()))], cauHoi: a[3] };
     case 'ngay': return { loai: 'tu-vi-ngay', duLieu: [rutGonTuVi(lapTuVi(canSinh())), `Ngày xem: ${new Date().toLocaleDateString('vi-VN')}`] };
     case 'que': return { loai: 'kinh-dich', duLieu: [rutGonQue(ganLoiQue(a[0] === 'maihoa' ? gieoQueMaiHoa(a[1]) : gieoQueDongXu(a[1])))], cauHoi: a[1] };

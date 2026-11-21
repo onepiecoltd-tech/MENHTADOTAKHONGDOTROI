@@ -4,6 +4,8 @@ import type { LaSoTuVi } from '../tuvi/index.js';
 import type { KetQuaTarot } from '../tarot/index.js';
 import type { ganLoiQue } from '../kinhdich/loi-que.js';
 import type { LaSoChiemTinh } from '../chiemtinh/index.js';
+import { danhGiaVan, canChiNamDuong } from '../batu/phan-tich.js';
+import type { KetQuaPhongThuy } from '../phongthuy/index.js';
 import { GRAHA, tenRashi, type LaSoVeDa } from '../chiemtinh/veda.js';
 import { duongSangAm } from '../lich/amlich-viet.js';
 import { CAN, CHI } from '../lich/canchi.js';
@@ -45,6 +47,7 @@ export function rutGonBatTu(b: LaSoBatTu, ngayXem: Date = new Date()): string {
     `- Đại vận (${b.daiVan.thuan ? 'thuận' : 'nghịch'}, khởi vận sau sinh ${b.daiVan.khoiVanSau}): ${b.daiVan.danhSach.map((d) => `${d.tuoiBatDau}t ${d.canChi} (${d.thapThan})`).join('; ')}`,
     hienTai ? `- Đại vận đang hành (${namDuong}): ${hienTai.canChi}, ${hienTai.thapThan}, từ ${hienTai.namBatDau}` : '',
     ...b.ghiChu.map((g) => `- Ghi chú: ${g}`),
+    ...phanTichBatTuChu(b, namDuong),
   ];
   return dong.filter(Boolean).join('\n');
 }
@@ -75,6 +78,7 @@ export function rutGonTuVi(l: LaSoTuVi, ngayXem: Date = new Date()): string {
     `- Tam phương tứ chính của Mệnh: Mệnh (${cung('Mệnh').chi}), Quan Lộc (${cung('Quan Lộc').chi}), Tài Bạch (${cung('Tài Bạch').chi}), Thiên Di (${cung('Thiên Di').chi})`,
     `- Năm xem: ${nay.canChi}, ${tuoiAm} tuổi âm. Đại hạn hiện tại: cung ${daiHan?.ten ?? '?'} (${daiHan?.daiHan.join('-')}). Tiểu hạn năm nay: cung ${tieuHan?.ten ?? '?'}`,
     `- Sao hạn dân gian (cửu diệu, chỉ tham khảo thêm): ${saoHan.join('; ')}. Năm xem là ${nghiaNay.sao}, ${nghiaNay.yNghia}`,
+    ...cachCucTuVi(l),
     '12 cung:',
     ...dongCung,
     ...l.ghiChu.map((g) => `- Ghi chú: ${g}`),
@@ -143,4 +147,57 @@ export function rutGonVeDa(v: LaSoVeDa): string {
     `Quá cảnh ngày ${v.quaCanh.ngayXem}: ${v.quaCanh.graha.map((q) => `${GRAHA[q.ma].phan} ở ${tenRashi(q.rashi).split(' ')[0]} (nhà ${q.tuLagna} từ Lagna, nhà ${q.tuMatTrang} từ Mặt Trăng${q.nghichHanh && q.ma !== 'Rahu' && q.ma !== 'Ketu' ? ', nghịch' : ''})`).join('; ')}. ${v.quaCanh.ghiChu.join('. ')}`,
     ...v.ghiChu.map((g) => `- Ghi chú: ${g}`),
   ].filter(Boolean).join('\n');
+}
+
+export function rutGonPhongThuy(r: KetQuaPhongThuy): string {
+  const dn = (l: { ten: string; huong: string }[]) => l.map((x) => `${x.ten} ${x.huong}`).join('; ');
+  const dong: string[] = [`PHONG THỦY (ngày xem ${r.ngayXem}, năm Lập Xuân ${r.namXem}, vận ${r.van})`];
+  const b = r.batTrach;
+  if (b) {
+    dong.push(`- Mệnh quái: ${b.menhQuai.ten} (${b.menhQuai.hanh}, ${b.menhQuai.nhom}), tuổi ${r.tuoi}`);
+    dong.push(`- Du niên của người: ${dn(b.duNienNguoi)}`);
+    if (b.nha) dong.push(`- Nhà: tọa ${b.nha.toa} hướng ${b.nha.huong}, ${b.nha.quai} (${b.nha.nhom}). ${b.nha.nhan}`, `- Du niên của nhà: ${dn(b.nha.duNien)}`);
+  }
+  const h = r.huyenKhong;
+  if (h) {
+    dong.push(`- Huyền Không vận ${h.van}: tọa ${h.toaSon}, hướng ${h.huongSon}; trung cung sơn ${h.trung.son} hướng ${h.trung.huongTinh}`);
+    dong.push(`  Cung (sơn/hướng/vận): ${h.cung.map((c) => `${c.huong} ${c.son}/${c.huongTinh}/${c.van}`).join('; ')}`);
+    dong.push(`  ${h.theQuai.ghiChu}${h.khongVong ? ' ' + h.khongVong : ''}`);
+    for (const c of h.cachCuc) dong.push(`  ${c}`);
+  }
+  const n = r.luuNien;
+  dong.push(`- Lưu niên ${n.nam} (${n.chiNam}): sao trung cung ${n.saoTrung}; Ngũ Hoàng ${n.nguHoang}; Nhị Hắc ${n.nhiHac}; Thái Tuế ${n.thaiTue}; Tuế Phá ${n.tuePha}; Tam Sát ${n.tamSat}`);
+  dong.push(`- Lưu nguyệt (tháng ${r.luuNguyet.chiThang}): sao trung cung ${r.luuNguyet.saoTrung}`);
+  const c = r.chonNgay;
+  dong.push(`- Ngày tốt (${c.loai}, ${c.soNgay} ngày từ ${c.tuNgay}): ` + (c.ngayTot.map((x) => `${x.ngay} ${x.thu} ${x.canChi} trực ${x.truc} (${x.diem}đ: ${x.lyDo.join(' ')})`).join(' | ') || 'không có'));
+  dong.push(`- Ngày nên tránh: ` + (c.ngayTranh.map((x) => `${x.ngay} ${x.canChi} trực ${x.truc}`).join('; ') || 'không có'));
+  dong.push('Ghi chú nguồn: Bát Trạch, Huyền Không, kiến trừ là quy tắc cổ truyền tính bằng công thức; mục ⚖ là quan niệm dân gian.');
+  return dong.join('\n');
+}
+
+/** Phần phân tích chuyên sâu của bát tự: vượng suy, cách cục, dụng thần, tương tác, thần sát, đếm thập thần, đánh giá vận. */
+function phanTichBatTuChu(b: LaSoBatTu, namXem: number): string[] {
+  const p = b.phanTich, d = p.dungThan, v = p.vuongSuy;
+  const dong: string[] = ['', 'PHÂN TÍCH CHUYÊN SÂU (do hệ thống tính theo cổ pháp, dùng nguyên như vậy)'];
+  dong.push(`- Vượng suy: ${v.muc} (sức đỡ ${(v.diem * 100).toFixed(0)}%). ${v.giaiThich}`);
+  dong.push(`- Tỷ lệ ngũ hành có tàng can theo trọng số vị trí: ${Object.entries(v.chiaHanh).map(([h, n]) => `${h} ${n}%`).join(', ')}`);
+  dong.push(`- Cách cục: ${p.cachCuc.tenViet} (${p.cachCuc.ten})${p.cachCuc.geThan ? `, lấy ${p.cachCuc.geThan}` : ''}. ${p.cachCuc.ghiChu}`);
+  dong.push(`- Dụng thần: ${d.dung}${d.phu ? ` (phụ ${d.phu})` : ''}; hỷ ${d.hy}; kỵ ${d.ky}; cừu ${d.cuu}; nhàn ${d.nhan.join(', ') || '—'}. Phương pháp: ${d.phuongPhap.join(', ')}`);
+  for (const l of d.lyDo) dong.push(`  · ${l}`);
+  dong.push(`- Đếm thập thần kể tàng can: ${p.demThan.filter((x) => x.so > 0).map((x) => `${x.ten} ${x.so}`).join(', ')}`);
+  dong.push(`- Hình xung hợp hội: ${p.tuongTac.length ? p.tuongTac.map((t) => `${t.loai} ${t.chiTiet} (${t.viTri})`).join('; ') : 'không có đáng kể'}`);
+  dong.push(`- Thần sát: ${p.thanSat.length ? p.thanSat.map((t) => `${t.ten} ở ${t.viTri.join(', ')}`).join('; ') : 'không có'}; không vong (theo trụ ngày): ${p.khongVong.join(', ')}`);
+  const dv = b.daiVan.danhSach.map((x) => { const g = danhGiaVan(p, x.chiSo, b.tuTruChi); return `${x.tuoiBatDau}-${x.tuoiKetThuc}t (${x.namBatDau}) ${g.canChi}: ${g.nhan}${g.tuongTac.length ? ' [' + g.tuongTac.join('; ') + ']' : ''}`; });
+  dong.push(`- Đánh giá đại vận theo dụng–kỵ: ${dv.join(' | ')}`);
+  const ln: string[] = [];
+  for (let y = namXem - 1; y <= namXem + 6; y++) { const g = danhGiaVan(p, canChiNamDuong(y), b.tuTruChi); ln.push(`${y} ${g.canChi} (${g.thapThanCan}/${g.thapThanChi}): ${g.nhan}${g.tuongTac.length ? ' [' + g.tuongTac.join('; ') + ']' : ''}`); }
+  dong.push(`- Lưu niên (tính theo năm dương lịch, gần đúng quanh Lập Xuân): ${ln.join(' | ')}`);
+  dong.push('- Chú ý: nhãn Thuận/Nghịch chỉ là xu hướng theo dụng–kỵ, không phải phán quyết; vận nghịch vẫn có thể bình ổn nếu chủ động.');
+  return dong;
+}
+
+/** Cách cục tử vi do máy nhận (bộ 51 của TuViMCP): chỉ đưa tên, loại, mô tả và căn cứ ngắn, không đưa nguyên cổ ca. */
+function cachCucTuVi(l: LaSoTuVi): string[] {
+  if (!l.cachCuc.length) return ['- Cách cục nhận được (51 cách cục): không có cách nào thỏa điều kiện.'];
+  return ['- Cách cục nhận được (51 cách cục, đã kiểm điều kiện bằng máy):', ...l.cachCuc.map((c) => `  · ${c.ten} [${c.loai}]: ${c.moTa} Căn cứ: ${c.lyDo}${c.uuKhuyetDiem ? ' Lưu ý: ' + c.uuKhuyetDiem : ''}`)];
 }

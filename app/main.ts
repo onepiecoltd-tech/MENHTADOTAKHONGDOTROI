@@ -2,9 +2,9 @@ import { app, BrowserWindow, ipcMain, Menu, shell } from 'electron';
 import { join } from 'node:path';
 import { scryptSync, timingSafeEqual, randomBytes, createHmac } from 'node:crypto';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
-import { lapVeDa, lapBatTu, lapTuVi, lapChiemTinh, gieoQueDongXu, gieoQueMaiHoa, ganLoiQue, rutBai, datLoiQue, DIA_DIEM, type ThongTinSinh } from '../src/index.js';
+import { lapVeDa, lapPhongThuy, lapBatTu, lapTuVi, lapChiemTinh, gieoQueDongXu, gieoQueMaiHoa, ganLoiQue, rutBai, datLoiQue, DIA_DIEM, type ThongTinSinh } from '../src/index.js';
 import { taoMayKhach, kiemTraHang, chonModel, GIA_MOI, TEN_NHA_CUNG_CAP, ghiLuotGoi, luotGoiTuKetQua, tongHopLocal, datThuMucLocal, type NhaCungCap } from '../src/ai/index.js';
-import { rutGonBatTu, rutGonTuVi, rutGonQue, rutGonTarot, rutGonChiemTinh, rutGonVeDa, luanGiai, taoMayKhachTaiKhoan, kiemTraDangNhap, type MayKhach, type LoaiLuan } from '../src/ai/index.js';
+import { rutGonBatTu, rutGonTuVi, rutGonQue, rutGonTarot, rutGonChiemTinh, rutGonVeDa, rutGonPhongThuy, luanGiai, taoMayKhachTaiKhoan, kiemTraDangNhap, type MayKhach, type LoaiLuan } from '../src/ai/index.js';
 import loiQue from '../data/kinhdich/loi-que.json';
 
 datLoiQue(loiQue as any);
@@ -13,6 +13,7 @@ interface CauHinh {
   ketNoi: 'taikhoan' | 'api';
   nhaCungCap: NhaCungCap; // 'claude' | 'openai' | 'gemini' | 'grok' | 'meta'
   khoa: Record<string, string>; // khóa theo hãng; chỉ nằm trong tiến trình chính, không gửi sang giao diện
+  modelTaiKhoan?: string; // model khi dùng tài khoản Claude Code
   khoaApi: string; // tương thích cấu hình cũ (= khóa Claude)
   ghiNhoQuanTri?: { nonce: string; mac: string }; // dấu ghi nhớ đăng nhập quản trị trên máy này (ký bằng HMAC, sửa tay file sẽ không có tác dụng)
 }
@@ -26,10 +27,12 @@ function docCauHinh(): CauHinh {
   } catch { return { ketNoi: 'taikhoan', nhaCungCap: 'claude', khoa: {}, khoaApi: '' }; }
 }
 function ghiCauHinh(c: CauHinh) { mkdirSync(app.getPath('userData'), { recursive: true }); writeFileSync(tepCauHinh(), JSON.stringify(c, null, 2)); }
+const MODEL_TK = ['claude-sonnet-5-5', 'claude-opus-5-5'];
+const modelTK = (c: CauHinh) => (c.modelTaiKhoan && MODEL_TK.includes(c.modelTaiKhoan) ? c.modelTaiKhoan : 'claude-sonnet-5-5');
 /** Phần cấu hình an toàn gửi cho giao diện: chỉ cho biết hãng nào đã có khóa, không bao giờ gửi khóa. */
 function cauHinhChoGiaoDien() {
   const c = docCauHinh();
-  return { ketNoi: c.ketNoi, nhaCungCap: c.nhaCungCap, coKhoa: Object.fromEntries(HANG_API.map((h) => [h, Boolean(c.khoa[h])])), quanTri: laQuanTri(c) };
+  return { ketNoi: c.ketNoi, nhaCungCap: c.nhaCungCap, modelTaiKhoan: modelTK(c), coKhoa: Object.fromEntries(HANG_API.map((h) => [h, Boolean(c.khoa[h])])), quanTri: laQuanTri(c) };
 }
 
 /* ---------- Tài khoản quản trị ----------
@@ -99,6 +102,7 @@ const XU_LY: Record<string, (d: any) => unknown> = {
     // Mục Chiêm tinh dùng Vệ Đà: vòng 3D vẽ bản đồ sidereal, AI luận theo Jyotish.
     return { tuVi, batTu, chiemTinh: veDa.banDo, veDa, rutGon: { 'tu-vi': rutGonTuVi(tuVi), 'bat-tu': rutGonBatTu(batTu), 'chiem-tinh': rutGonVeDa(veDa) } };
   },
+  phongThuy: (d: any) => { const pt = lapPhongThuy(d); return { pt, rutGon: rutGonPhongThuy(pt) }; },
   que: (d: { phuongPhap: 'xu' | 'maihoa'; cauHoi: string }) => {
     const kq = ganLoiQue(d.phuongPhap === 'maihoa' ? gieoQueMaiHoa(d.cauHoi) : gieoQueDongXu(d.cauHoi));
     return { que: kq, rutGon: rutGonQue(kq) };
@@ -109,7 +113,7 @@ const XU_LY: Record<string, (d: any) => unknown> = {
     const c = docCauHinh(), hang = hangDangDung(c);
     const ten = hang === 'taikhoan' ? 'Tài khoản Claude' : TEN_NHA_CUNG_CAP[hang];
     // Hãng không phải Claude: chọn model của hãng đó (dinhTuyen chỉ biết model Claude).
-    const model = hang === 'taikhoan' || hang === 'claude' ? undefined : chonModel(hang, d.loai, false, d.soLaBai);
+    const model = hang === 'taikhoan' ? modelTK(c) : hang === 'claude' ? undefined : chonModel(hang, d.loai, false, d.soLaBai);
     try {
       const kq = await luanGiai(moMayKhach(), { loai: d.loai, duLieu: d.duLieu, cauHoi: d.cauHoi, hoSo: d.hoSo, hoiDap: d.hoiDap, nguCanh: { soLaBai: d.soLaBai }, model });
       await ghiLuotGoi(luotGoiTuKetQua({ nhaCungCap: hang, model: kq.model, loaiLuan: d.loai, tenNguoi: d.hoSo, suDung: kq.suDung, chiPhiUSD: kq.chiPhiUSD, thoiGianMs: Date.now() - batDau, thanhCong: true }));
@@ -130,8 +134,9 @@ const XU_LY: Record<string, (d: any) => unknown> = {
   docCauHinh: () => cauHinhChoGiaoDien(),
   dangNhapQuanTri: (d: { id?: string; matKhau?: string; ghiNho?: boolean }) => dangNhapQuanTri(d),
   dangXuatQuanTri: () => dangXuatQuanTri(),
-  ghiCauHinh: (d: { ketNoi?: 'taikhoan' | 'api'; nhaCungCap?: NhaCungCap; khoa?: Record<string, string> }) => {
+  ghiCauHinh: (d: { ketNoi?: 'taikhoan' | 'api'; nhaCungCap?: NhaCungCap; khoa?: Record<string, string>; modelTaiKhoan?: string }) => {
     const c = docCauHinh();
+    if (d.modelTaiKhoan && MODEL_TK.includes(d.modelTaiKhoan)) c.modelTaiKhoan = d.modelTaiKhoan;
     if (d.ketNoi) c.ketNoi = d.ketNoi;
     if (d.nhaCungCap && HANG_API.includes(d.nhaCungCap)) c.nhaCungCap = d.nhaCungCap;
     for (const [h, k] of Object.entries(d.khoa ?? {})) if (HANG_API.includes(h as NhaCungCap) && k.trim()) c.khoa[h] = k.trim(); // ô trống = giữ khóa cũ
@@ -160,7 +165,7 @@ ipcMain.handle('menh', async (_e, ten: string, duLieu: unknown) => {
 async function taoCuaSo() {
   Menu.setApplicationMenu(null);
   const win = new BrowserWindow({
-    width: 1560, height: 940, minWidth: 1180, minHeight: 720, backgroundColor: '#05060f', title: 'Mệnh Lý 3D — Craftbyte', 
+    width: 1560, height: 940, minWidth: 1180, minHeight: 720, backgroundColor: '#05060f', icon: join(__dirname, '..', 'web', 'icon.png'), title: 'Mệnh Lý 3D — Craftbyte', 
     webPreferences: { preload: join(__dirname, '..', 'preload.js'), contextIsolation: true, nodeIntegration: false, backgroundThrottling: false },
   });
   win.webContents.setWindowOpenHandler(({ url }) => { shell.openExternal(url); return { action: 'deny' }; });
@@ -175,7 +180,7 @@ async function taoCuaSo() {
     win.webContents.on('console-message', (_e: any, level: any, message: any) => { if (level >= 2 || String(message).startsWith('[thu]')) loi.push(String(message)); });
     const cho = (ms: number) => new Promise((r) => setTimeout(r, ms));
     await cho(1500);
-    for (const buoc of (process.env.MENH_CHUP_BUOC ? process.env.MENH_CHUP_BUOC.split(',') : ['gioithieu', 'tuvi', 'tuvi-chon', 'batu', 'chiemtinh', 'cho', 'kinhdich', 'tarot', 'tarot-celtic', 'qt-sai', 'quantri'])) {
+    for (const buoc of (process.env.MENH_CHUP_BUOC ? process.env.MENH_CHUP_BUOC.split(',') : ['gioithieu', 'tuvi', 'tuvi-chon', 'batu', 'chiemtinh', 'phongthuy', 'cho', 'kinhdich', 'tarot', 'tarot-celtic', 'qt-sai', 'quantri'])) {
       await win.webContents.executeJavaScript(`window.__thu(${JSON.stringify(buoc)})`);
       await cho(buoc === 'tarot-celtic' ? 14000 : buoc === 'chiemtinh' ? 12000 : buoc === 'tarot' || buoc === 'kinhdich' ? 9000 : 2600);
       writeFileSync(join(dir, `${buoc}.png`), (await win.webContents.capturePage()).toPNG());

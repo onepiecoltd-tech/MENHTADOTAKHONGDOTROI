@@ -10,3 +10,4 @@ export { ganLoiQue, kiemLoiQue, docLoiQue, taoTepMau, type LoiQue } from './kinh
 export { lapChiemTinh, DIA_DIEM, CUNG_HOANG_DAO, type LaSoChiemTinh, type NoiSinh } from './chiemtinh/index.js';
 export { lapVeDa, type LaSoVeDa } from './chiemtinh/veda.js';
 export { datLoiQue } from './kinhdich/loi-que.js';
+export { lapPhongThuy, type KetQuaPhongThuy } from './phongthuy/index.js';

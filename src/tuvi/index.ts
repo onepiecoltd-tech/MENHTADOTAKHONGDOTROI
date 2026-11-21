@@ -3,6 +3,7 @@ import { chuanHoa, chiGio } from '../lich/thoi-gian.js';
 import { duongSangAm, type NgayAm } from '../lich/amlich-viet.js';
 import { CAN, CHI } from '../lich/canchi.js';
 import { anSao, type KetQuaAnSao } from './an-sao.js';
+import { danhCachCuc, type CachCucTuVi } from './cach-cuc.js';
 
 export interface LaSoTuVi extends KetQuaAnSao {
   loai: 'tu-vi';
@@ -10,6 +11,8 @@ export interface LaSoTuVi extends KetQuaAnSao {
   duongLich: string;
   amLich: NgayAm & { canChiNam: string };
   gioSinh: string;
+  /** Các cách cục (trong bộ 51 của TuViMCP, Apache-2.0) mà lá số thỏa điều kiện. */
+  cachCuc: CachCucTuVi[];
   ghiChu: string[];
 }
 
@@ -41,13 +44,16 @@ export function lapTuVi(t: ThongTinSinh): LaSoTuVi {
   const gio = chiGio(g.gio);
   const kq = anSao({ canNam, chiNam, thang, ngay: am.ngay, chiGio: gio, nam: t.gioiTinh === 'nam' });
 
-  return {
+  const la: LaSoTuVi = {
     loai: 'tu-vi',
     phai: 'Tử vi Việt Nam',
     duongLich: `${g.nam}-${g.thang}-${g.ngay} ${String(g.gio).padStart(2, '0')}:${String(g.phut).padStart(2, '0')}`,
     amLich: { ...am, canChiNam: `${CAN[canNam]} ${CHI[chiNam]}` },
     gioSinh: `giờ ${CHI[gio]}`,
     ...kq,
+    cachCuc: [],
     ghiChu,
   };
+  la.cachCuc = danhCachCuc(la);
+  return la;
 }

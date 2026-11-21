@@ -200,8 +200,45 @@ body.live #thanh, body.live #trai, body.live #phai, body.live #goiy3d, body.live
 #liveTieuDe { position: fixed; top: 20px; left: 24px; z-index: 5; background: rgba(5, 8, 24, .55); border: 1px solid var(--vien); border-radius: 14px; padding: 9px 16px; pointer-events: none; }
 #liveTieuDe b { display: block; font-size: 20px; color: var(--vang); line-height: 1.25; }
 #liveTieuDe small { font-size: 13px; color: var(--chu); }
-#phuDe { position: fixed; left: 50%; bottom: 5.5%; transform: translateX(-50%); width: min(1100px, 88vw); z-index: 6; text-align: center; pointer-events: none; min-height: 3.4em; display: flex; align-items: flex-end; justify-content: center; }
-#phuDe span { display: inline-block; font-size: clamp(26px, 2.5vw, 38px); line-height: 1.38; font-weight: 600; color: #fff; padding: 8px 22px; border-radius: 14px; background: rgba(4, 6, 20, .66); text-shadow: 0 2px 8px rgba(0, 0, 0, .9); opacity: 0; transition: opacity .35s; }
-#phuDe span:empty { display: none; }
-#phuDe span.hien { opacity: 1; }
-#phuDe span.loi { color: #ffb4a8; font-size: clamp(20px, 1.8vw, 26px); }
+#phuDe { position: fixed; right: 24px; top: 262px; bottom: 24px; width: min(380px, 28vw); z-index: 6; display: flex; flex-direction: column; background: rgba(5, 8, 24, .8); border: 1px solid var(--vien); border-radius: 16px; padding: 14px 18px; pointer-events: none; }
+#phuDe .pd-tieu { font-size: 12.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--vang); font-weight: 800; padding-bottom: 8px; border-bottom: 1px solid var(--vien); margin-bottom: 10px; }
+#phuDe .pd-than { flex: 1; overflow-y: auto; scrollbar-width: none; }
+#phuDe .pd-than::-webkit-scrollbar { display: none; }
+#phuDe p { margin: 0; font-size: clamp(18px, 1.5vw, 23px); line-height: 1.6; }
+#phuDe p.tinh { color: var(--mo); }
+#phuDe p.tinh.loi { color: #ffb4a8; }
+#phuDe .c { opacity: 0; transition: opacity .5s, color .5s; color: #cfd4ee; }
+#phuDe .c.hien { opacity: .62; }
+#phuDe .c.dang { opacity: 1; color: #fff; font-weight: 600; }
+#liveBar.ban input, #liveBar.ban #liveChay, #liveBar.ban #liveMau button, #liveBar.ban #liveChu button, #liveBar.ban #liveTab button { opacity: .4; pointer-events: none; }
+
+/* Bát tự: phân tích chuyên sâu; Tử vi: cách cục */
+.nv { padding: 1px 7px; border-radius: 9px; font-size: 12px; white-space: nowrap; }
+.nv-a { background: #1f6b3a; } .nv-b { background: #3b7d4a; } .nv-c { background: #55607a; } .nv-d { background: #9a6a2a; } .nv-e { background: #9a2f2f; }
+.hx-dong { display: flex; flex-wrap: wrap; gap: 6px; } .hx { padding: 2px 8px; border-radius: 8px; background: #1a2347; font-size: 13px; } .hx i { font-style: normal; opacity: .7; margin-right: 4px; }
+.hx-dung { outline: 1px solid #f5c451; } .hx-hy { outline: 1px solid #6fc28b; } .hx-ky { outline: 1px solid #d86a6a; } .hx-cuu { outline: 1px solid #d89a6a; }
+.thanh { height: 6px; background: #1a2347; border-radius: 3px; overflow: hidden; margin: 4px 0; } .thanh i { display: block; height: 100%; background: linear-gradient(90deg, #4b8bd8, #f5c451); }
+details.cc { margin: 4px 0; padding: 4px 8px; border-left: 3px solid #6fc28b; background: #11193a; border-radius: 4px; } details.cc-xau { border-left-color: #d86a6a; } details.cc-db { border-left-color: #f5c451; }
+details.cc summary { cursor: pointer; } .nhan { font-size: 11px; opacity: .7; }
+#chitiet table td.mo { font-size: 11.5px; }
+
+/* Ảnh mới 1.9.0 */
+.ico { width: var(--co, 24px); height: var(--co, 24px); vertical-align: middle; margin-right: 5px; object-fit: contain; }
+.hx .ico { margin-right: 3px; }
+.banner-cc, .banner-pt { width: 100%; height: 54px; object-fit: cover; border-radius: 8px; margin: 2px 0 6px; opacity: .92; }
+.banner-pt { height: 104px; }
+.luoi-ts { display: flex; flex-wrap: wrap; gap: 6px 12px; } .luoi-ts span { display: inline-flex; align-items: center; font-size: 13px; }
+details.cc summary .ico { margin-right: 6px; }
+#chitiet[data-tab="phongthuy"] { background: linear-gradient(rgba(10,16,48,.72), rgba(10,16,48,.82)), url(assets/menh-ly-3d/phong-thuy/detail.jpg) center / cover no-repeat; }
+#tamCho.pt::before { content: ""; position: absolute; inset: -40px; z-index: -1; background: url(assets/menh-ly-3d/phong-thuy/bg.jpg) center / cover; opacity: .38; -webkit-mask-image: radial-gradient(ellipse at center, #000 40%, transparent 78%); mask-image: radial-gradient(ellipse at center, #000 40%, transparent 78%); }
+
+#liveMau { flex-wrap: wrap; gap: 6px; }
+#liveMau button.mau { background: transparent; border: 1px dashed var(--vien); border-radius: 999px; padding: 4px 11px; cursor: pointer; color: var(--chu); font-size: 12.5px; }
+#liveMau button.mau:hover { border-color: var(--vang); color: var(--vang); }
+#liveCuPhap { position: fixed; top: 262px; left: 24px; z-index: 5; width: 290px; background: rgba(5, 8, 24, .62); border: 1px solid var(--vien); border-radius: 14px; padding: 12px 16px; pointer-events: none; }
+#liveCuPhap b { display: block; font-size: 17px; color: var(--vang); margin-bottom: 6px; }
+#liveCuPhap p { margin: 4px 0; font-size: 14px; line-height: 1.5; color: var(--chu); }
+#liveCuPhap p span { color: #fff; font-weight: 600; }
+#liveCuPhap .vd { background: rgba(247, 215, 116, .12); border-radius: 8px; padding: 6px 10px; color: var(--vang); font-weight: 700; font-size: 15px; }
+#liveCuPhap small { display: block; margin-top: 6px; font-size: 12px; color: var(--mo); }
+#liveCuPhap.an { display: none; }

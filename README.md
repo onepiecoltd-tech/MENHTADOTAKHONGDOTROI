@@ -106,3 +106,8 @@ Mức đã kiểm: toàn bộ luồng chạy với máy khách giả và lệnh 
 - **Chất lượng bài luận.** Prompt chưa được chấm trên bài luận thật; cần chạy 10–20 ca rồi chỉnh.
 - **Lưu hồ sơ và lịch sử xem** (database), giới hạn lượt dùng theo người: chưa làm.
 - **Lục hào** (nạp giáp, lục thân, dụng thần), sao lưu niên tử vi, thần sát bát tự: chưa làm.
+
+## Ghi công
+
+- Bộ 51 cách cục tử vi (`data/tuvi/cach-cuc.json`) lấy từ TuViMCP của Manh Ha Nguyen (github.com/nmhaaa3218/TuViMCP), giấy phép Apache-2.0 (xem `data/tuvi/LICENSE-TuViMCP.txt`, `NOTICE-TuViMCP.txt`). Bộ đánh giá điều kiện viết lại bằng TypeScript.
+- Phần bát tự (vượng suy, cách cục, dụng thần, thần sát) và phong thủy viết lại theo quy tắc cổ pháp; các ứng dụng tham chiếu chỉ dùng để đối chiếu kết quả, không sao chép mã.

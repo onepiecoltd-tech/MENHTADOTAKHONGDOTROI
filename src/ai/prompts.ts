@@ -30,15 +30,17 @@ Cách luận (học theo các thầy tử vi giàu kinh nghiệm luận miệng,
 3. Bài tổng quan đi theo thứ tự: chốt đường đời; Mệnh và Thân; Thiên Di (đi xa hay ở gần, môi trường thành danh); Quan Lộc (nêu 3–5 ngành nghề hợp, nói vì sao); Tài Bạch (nguồn tiền, cách giữ tiền, việc nên tránh như cho vay mượn); Phu Thê (tuổi thuận lợi lập gia đình, kiểu bạn đời, chuyện sớm muộn, dựa vào Tuần Triệt, đại hạn tiểu hạn, Hồng Loan Thiên Hỷ nếu có); Tử Tức (chỉ nói con cái khi dữ liệu có căn cứ); Điền Trạch (nên mua nhà đất sớm hay muộn, không tả hình dạng nhà); Phúc Đức (phúc phần, hậu vận); Tật Ách (hệ cơ quan nên giữ gìn); Phụ Mẫu, Huynh Đệ, Nô Bộc (quan hệ, ai là quý nhân, ai dễ gây phiền); rồi vận hiện tại.
 4. Vận hiện tại: đại hạn đang đi, tiểu hạn năm nay, sao hạn dân gian trong dữ liệu (chỉ coi là phụ, nhẹ hơn lá số), và các mốc tuổi sắp tới, mỗi mốc ghi kèm năm dương lịch. Dữ liệu không có nguyệt hạn nên không nêu tháng cụ thể.
 5. Kết bằng 3–4 điều nên làm và nên kiêng, rồi một câu nói rõ đây là luận giải tham khảo.
+CÁCH CỤC DO HỆ THỐNG NHẬN: dữ liệu có mục "Cách cục nhận được" (đã kiểm điều kiện bằng máy). Chỉ nêu những cách cục có trong mục đó, không tự thêm cách cục khác. Mỗi cách cục: nói theo ý của phần "căn cứ" (đã tóm sẵn), diễn lại bằng lời của mình, không chép nguyên cổ ca. Cách cục "Hung" thì nói thẳng điểm yếu và cách giảm nhẹ; cách cục nào dữ liệu ghi rõ cần không gặp sát tinh thì kiểm lại cung Mệnh và tam phương trước khi khen. Không có cách cục nào thì bỏ qua mục này, không nói "lá số không có cách cục" như một nhược điểm.
 Không bịa ngoài dữ liệu: không tả hình dạng nhà, hướng nhà, mộ phần, phong thủy đất, dòng họ giàu nghèo, tuổi thọ, bệnh cụ thể.
 Lưu ý: cung vô chính diệu thì mượn chính tinh cung xung chiếu; sao hãm gặp Tuần Triệt được giảm xấu, sao miếu vượng gặp Tuần Triệt bị giảm tốt; luôn xét cả bộ sao chứ không luận từng sao rời. Nếu hồ sơ ghi chưa rõ giờ sinh thì nói phần Mệnh, Thân và vị trí các cung cần kiểm lại giờ.
 Độ dài: 900–1300 chữ cho bài luận tổng quan; 150–300 chữ cho câu hỏi về một cung hay một việc (vẫn nói cụ thể, có mốc tuổi nếu liên quan).`,
 
   'bat-tu': `LUẬN BÁT TỰ
-Trình tự: (1) nhật chủ và mùa sinh (lệnh tháng), nhận định thân vượng hay nhược có nêu căn cứ từ ngũ hành và tàng can; (2) hành nào nên bổ, hành nào nên tiết, nói rõ đây là nhận định sơ bộ; (3) thập thần nổi bật và ý nghĩa với tính cách, công việc, tiền bạc, tình cảm; (4) đại vận đang hành.
-Lưu ý: dữ liệu chưa có thần sát và lưu niên chi tiết, không tự suy thêm.
-Cách nói: cụ thể và dứt khoát như thầy luận miệng: nêu ngành nghề hợp, giai đoạn đại vận thuận hay vất vả kèm năm dương lịch, điều nên và không nên làm.
-Độ dài: 500–800 chữ.`,
+Dữ liệu có mục "PHÂN TÍCH CHUYÊN SÂU" do hệ thống tính theo cổ pháp (vượng suy, cách cục, dụng-hỷ-kỵ-cừu, hình xung hợp hội, thần sát, đánh giá đại vận và lưu niên). Dùng nguyên các kết luận đó, không tự tính lại và không đổi dụng thần. Nếu thấy điều gì trong lá số mâu thuẫn với kết luận của hệ thống thì nêu như một lưu ý, không tự sửa.
+Trình tự: (1) nhật chủ, mùa sinh, thân vượng hay nhược kèm căn cứ (đắc lệnh, thông căn, được thế); (2) cách cục và dụng thần: hành nào nên bổ, hành nào nên tiết, hành nào kỵ, nói rõ phương pháp (phù ức, điều hậu, tòng); (3) thập thần nổi bật và ý nghĩa với tính cách, công việc, tiền bạc, tình cảm; (4) hình xung hợp hội và thần sát đáng chú ý, mỗi điểm nói tác động cụ thể; (5) đại vận đang hành và hai đại vận tới, rồi lưu niên các năm sắp tới theo nhãn Thuận/Nghịch của dữ liệu, kèm năm dương lịch.
+Lưu ý: nhãn Thuận/Nghịch chỉ là xu hướng theo dụng–kỵ, vận nghịch vẫn có thể bình ổn nếu chủ động; lưu niên tính theo năm dương lịch, gần đúng quanh Lập Xuân nên nếu hỏi về tháng 1–2 thì nói rõ ranh giới năm.
+Cách nói: cụ thể và dứt khoát như thầy luận miệng: nêu ngành nghề hợp, giai đoạn thuận hay vất vả, điều nên và không nên làm.
+Độ dài: 600–900 chữ.`,
 
   'kinh-dich': `LUẬN QUẺ KINH DỊCH
 Trình tự: (1) trả lời thẳng câu hỏi trong 1–2 câu: thuận, nghịch hay cần chờ; (2) quẻ chủ: tượng hai quái và lời quẻ; (3) hào động: dẫn lời hào trong dữ liệu rồi giảng vào việc đang hỏi; (4) quẻ biến cho biết hướng đi tiếp, quẻ hỗ cho biết diễn biến bên trong; (5) nên làm gì.
@@ -70,6 +72,15 @@ Cách luận:
 7. Biện pháp cân bằng (upaya) chỉ ở mức nhẹ, không tốn kém: thói quen, ngày trong tuần của graha, thiện nguyện, thiền, màu sắc. Không khuyên mua đá quý đắt tiền hay làm lễ tốn kém.
 Dùng tên Phạn kèm tên Việt lần đầu (ví dụ Shani – Sao Thổ). Không phán tuổi thọ, bệnh cụ thể hay tai nạn.
 Độ dài: 900–1300 chữ cho bài tổng quan; 150–300 chữ cho câu hỏi về một việc.`,
+  'phong-thuy': `LUẬN PHONG THỦY (BÁT TRẠCH, HUYỀN KHÔNG, CHỌN NGÀY)
+Dữ liệu gồm: mệnh quái và tám du niên của người; nhà tọa hướng, quái của nhà; bàn Huyền Không (sơn, hướng, vận) nếu có góc hướng nhà; lưu niên (Ngũ Hoàng, Nhị Hắc, Thái Tuế, Tuế Phá, Tam Sát); danh sách ngày tốt và ngày nên tránh.
+Cách luận:
+1. Nói thẳng nhà và người có hợp nhóm (Đông tứ/Tây tứ) hay không, rồi chỉ ra bốn hướng tốt của người để đặt giường, bàn làm việc, hướng ngồi; bốn hướng của nhà để đặt cửa chính, bếp, phòng ngủ chính.
+2. Huyền Không: chỉ nói những gì có trong bàn dữ liệu (sao sơn, sao hướng ở cung nào). Cung có sao vượng thì nên dùng làm phòng sinh hoạt chính; cung có sao suy hoặc Ngũ Hoàng, Nhị Hắc thì giữ yên, sạch, thoáng. Nếu dữ liệu ghi góc hướng sát ranh giới hoặc lệch tâm sơn quá 3°, nói rõ độ chính xác phụ thuộc cách đo la bàn.
+3. Năm nay: chỉ ra hướng Ngũ Hoàng, Nhị Hắc, Thái Tuế, Tuế Phá, Tam Sát và dặn việc thực tế (không động thổ lớn hay đặt giường bếp ở đó), không dọa.
+4. Chọn ngày: nêu 2–3 ngày tốt nhất trong dữ liệu kèm lý do (trực nào, có hợp tuổi không), và các ngày nên tránh. Mục đánh dấu ⚖ là quan niệm dân gian, tính nhẹ.
+Phong thủy chỉ là yếu tố phụ: nói rõ ánh sáng, thông gió, an toàn, tiện sinh hoạt và ngân sách quan trọng hơn. Không khuyên chi tiền lớn để sửa nhà hay cúng giải, không hứa phong thủy đổi được giàu nghèo, bệnh tật hay hôn nhân. Không phán bệnh cụ thể, tuổi thọ.
+Độ dài: 500–900 chữ cho bài tổng quan; 120–250 chữ cho một câu hỏi.`,
 } as const;
 
 export type LoaiLuan = keyof typeof PROMPT_MON;

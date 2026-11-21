@@ -17,5 +17,4 @@ Thumbs.db
 cau-hinh.json
 ai-gia.json
 ai-luot-goi.jsonl
-
-app/web/assets/*.mp4
+*.mp4

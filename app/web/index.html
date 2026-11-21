@@ -22,6 +22,7 @@
     <button data-tab="tuvi" class="bat">Tử vi</button>
     <button data-tab="batu">Bát tự</button>
     <button data-tab="chiemtinh">Chiêm tinh</button>
+    <button data-tab="phongthuy">Phong thủy</button>
     <button data-tab="kinhdich">Kinh Dịch</button>
     <button data-tab="tarot">Tarot</button>
   </nav>
@@ -31,14 +32,18 @@
 <aside id="trai">
   <section class="the" id="theHoSo">
     <h3>Hồ sơ người xem</h3>
-    <label>Họ tên<input id="ten" placeholder="Không bắt buộc" autocomplete="off"></label>
+    <label>Họ tên<input id="ten" value="Bùi Đức Cường" placeholder="Không bắt buộc" autocomplete="off"></label>
     <div class="hang">
-      <label>Ngày sinh (dương lịch)<input id="ngay" type="date" value="1990-05-15"></label>
-      <label>Giờ sinh<input id="gio" type="time" value="14:30"></label>
+      <label>Ngày sinh (dương lịch)<input id="ngay" type="date" value="1995-12-23"></label>
+      <label>Giờ sinh<input id="gio" type="time" value="04:30"></label>
     </div>
     <div class="hang">
       <label>Giới tính<select id="gioitinh"><option value="nam">Nam</option><option value="nu">Nữ</option></select></label>
       <label>Nơi sinh<select id="noisinh"></select></label>
+    </div>
+    <div class="hang an" id="hangPhongThuy">
+      <label>Hướng nhà (độ, 0 = Bắc)<input id="huongNha" type="number" min="0" max="360" step="1" placeholder="vd 187, bỏ trống nếu chưa đo"></label>
+      <label>Việc cần chọn ngày<select id="loaiViec"><option value="chung">Chung</option><option value="nhap-trach">Nhập trạch</option><option value="khai-truong">Khai trương</option><option value="dong-tho">Động thổ</option><option value="cuoi-hoi">Cưới hỏi</option></select></label>
     </div>
     <button id="nutLap" class="chinh">Lập lá số</button>
   </section>
@@ -69,13 +74,15 @@
     <span class="live-nhan">LIVE</span>
     <div id="liveTab" class="hang nut"><button data-tab="tuvi">Tử vi</button><button data-tab="batu">Bát tự</button><button data-tab="chiemtinh">Chiêm tinh</button><button data-tab="kinhdich">Kinh Dịch</button><button data-tab="tarot">Tarot</button></div>
     <span class="giua"></span>
-    <button id="liveTocDo" class="phu">Tốc độ 1×</button><button id="liveDoc" class="phu">Đọc: tắt</button><button id="liveThoat" class="phu">Thoát (Esc)</button>
+    <button id="liveDung" class="phu an">Dừng luận</button><button id="liveTocDo" class="phu">Tốc độ 1×</button><button id="liveDoc" class="phu">Đọc: tắt</button><button id="liveThoat" class="phu">Thoát (Esc)</button>
   </div>
   <div class="live-hang"><input id="liveNhanh" type="text" autocomplete="off" spellcheck="false"><button id="liveChay" class="chinh">Luận</button></div>
   <div class="live-hang"><div id="liveChu" class="hang nut"><button data-chu="Tổng quan">Tổng quan</button><button data-chu="Tình duyên">Tình duyên</button><button data-chu="Công việc">Công việc</button><button data-chu="Tài lộc">Tài lộc</button></div><span id="liveHieu" class="mo"></span></div>
+  <div class="live-hang" id="liveMau"></div>
 </div>
+<div id="liveCuPhap" class="an"></div>
 <div id="liveTieuDe" class="an"></div>
-<div id="phuDe" class="an"><span></span></div>
+<div id="phuDe" class="an"><div class="pd-tieu">Lời luận</div><div class="pd-than"></div></div>
 
 <div id="goiy3d">Kéo để xoay · lăn chuột để phóng to · bấm vào ô, hành tinh hoặc lá bài để xem chi tiết</div>
 
@@ -90,6 +97,12 @@
         <option value="gemini">Gemini (Google AI)</option>
         <option value="grok">Grok (xAI)</option>
         <option value="meta">Meta (Llama API)</option>
+      </select>
+    </label>
+    <label id="o-model-tk" class="o-model">Model (tài khoản Claude Code)
+      <select id="modelTaiKhoan">
+        <option value="claude-sonnet-5-5">Sonnet 5.5 (nhanh, tiết kiệm)</option>
+        <option value="claude-opus-5-5">Opus 5.5 (sâu hơn, tốn hạn mức hơn)</option>
       </select>
     </label>
     <label class="o-khoa" data-hang="claude">Khóa API Anthropic<input id="khoa-claude" type="password" placeholder="sk-ant-..." autocomplete="off"></label>

@@ -1,0 +1,534 @@
+[
+ {
+  "id": "qianlong",
+  "person": "清高宗乾隆帝 (1711–1799)",
+  "pillars": {
+   "year": "辛卯",
+   "month": "丁酉",
+   "day": "庚午",
+   "hour": "丙子"
+  },
+  "strength": "vượng",
+  "ge": "羊刃格",
+  "yong": "火",
+  "confidence": "high"
+ },
+ {
+  "id": "yuefei",
+  "person": "岳武穆 岳飞 (1103–1142)",
+  "pillars": {
+   "year": "癸未",
+   "month": "乙卯",
+   "day": "甲子",
+   "hour": "己巳"
+  },
+  "strength": "vượng",
+  "ge": "羊刃格",
+  "yong": null,
+  "confidence": "high"
+ },
+ {
+  "id": "zuozongtang",
+  "person": "左宗棠 (1812–1885), 晚清中兴名臣",
+  "pillars": {
+   "year": "壬申",
+   "month": "辛亥",
+   "day": "丙午",
+   "hour": "庚寅"
+  },
+  "strength": "nhược",
+  "ge": "七殺格",
+  "yong": "火",
+  "confidence": "high"
+ },
+ {
+  "id": "maozedong",
+  "person": "毛泽东 (1893–1976)",
+  "pillars": {
+   "year": "癸巳",
+   "month": "甲子",
+   "day": "丁酉",
+   "hour": "甲辰"
+  },
+  "strength": "nhược",
+  "ge": "七殺格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "jiangjieshi",
+  "person": "蒋介石 (1887–1975)",
+  "pillars": {
+   "year": "丁亥",
+   "month": "庚戌",
+   "day": "己巳",
+   "hour": "庚午"
+  },
+  "strength": "vượng",
+  "ge": "傷官格",
+  "yong": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-xiaoer-sharen",
+  "person": "小儿章 例造 (无名氏)",
+  "pillars": {
+   "year": "庚戌",
+   "month": "壬午",
+   "day": "丙寅",
+   "hour": "己亥"
+  },
+  "strength": "vượng",
+  "ge": "七殺格",
+  "yong": "水",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-caide-zhengguan",
+  "person": "才德章 例造 (无名氏) — 德胜才, 君子之风",
+  "pillars": {
+   "year": "癸酉",
+   "month": "戊午",
+   "day": "庚寅",
+   "hour": "丁丑"
+  },
+  "strength": "中和",
+  "ge": "正官格",
+  "yong": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-fenyu-kunlun",
+  "person": "奋郁章 例造 (无名氏) — 昆仑之水",
+  "pillars": {
+   "year": "戊辰",
+   "month": "甲子",
+   "day": "壬子",
+   "hour": "辛亥"
+  },
+  "strength": "vượng",
+  "ge": "羊刃格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-fenyu-jiabingtou",
+  "person": "奋郁章 例造 (无名氏) — 汪洋之水",
+  "pillars": {
+   "year": "甲申",
+   "month": "丙子",
+   "day": "癸亥",
+   "hour": "癸亥"
+  },
+  "strength": "vượng",
+  "ge": null,
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-enyuan-houtu",
+  "person": "恩怨章 例造 (无名氏) — 厚土泄秀",
+  "pillars": {
+   "year": "丁酉",
+   "month": "甲辰",
+   "day": "戊戌",
+   "hour": "戊午"
+  },
+  "strength": "vượng",
+  "ge": null,
+  "yong": "金",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-fenyu-qinghou",
+  "person": "奋郁章 例造 (无名氏) — 清厚任财官",
+  "pillars": {
+   "year": "甲申",
+   "month": "庚午",
+   "day": "丁亥",
+   "hour": "壬寅"
+  },
+  "strength": "vượng",
+  "ge": null,
+  "yong": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-enyuan-huoyan",
+  "person": "恩怨章 例造 (无名氏) — 烈火逢湿土",
+  "pillars": {
+   "year": "丁酉",
+   "month": "乙巳",
+   "day": "丁丑",
+   "hour": "丙午"
+  },
+  "strength": "vượng",
+  "ge": null,
+  "yong": "金",
+  "confidence": "high"
+ },
+ {
+  "id": "lihongzhang",
+  "person": "李鸿章 (1823–1901)",
+  "pillars": {
+   "year": "癸未",
+   "month": "甲寅",
+   "day": "乙亥",
+   "hour": "己卯"
+  },
+  "strength": "vượng",
+  "ge": "曲直格",
+  "yong": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congwang-huoyan",
+  "person": "从象章 例造 (无名氏) — 四柱皆刃",
+  "pillars": {
+   "year": "丙午",
+   "month": "甲午",
+   "day": "丙午",
+   "hour": "甲午"
+  },
+  "strength": "vượng",
+  "ge": "從旺格",
+  "yong": "火",
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-congwang-mu",
+  "person": "从象章 例造 (无名氏) — 甲木从旺",
+  "pillars": {
+   "year": "癸卯",
+   "month": "乙卯",
+   "day": "甲寅",
+   "hour": "乙亥"
+  },
+  "strength": "vượng",
+  "ge": "從旺格",
+  "yong": "木",
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-congcai-tu",
+  "person": "从象章 例造 (无名氏) — 四柱皆财 (土)",
+  "pillars": {
+   "year": "戊戌",
+   "month": "丙辰",
+   "day": "乙未",
+   "hour": "丙戌"
+  },
+  "strength": "nhược",
+  "ge": "從財格",
+  "yong": "土",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congcai-mu",
+  "person": "从象章 例造 (无名氏) — 四寅从财 (木)",
+  "pillars": {
+   "year": "壬寅",
+   "month": "壬寅",
+   "day": "庚寅",
+   "hour": "戊寅"
+  },
+  "strength": "nhược",
+  "ge": "從財格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congcai-hoa",
+  "person": "从象章 例造 (无名氏) — 从财 (火)",
+  "pillars": {
+   "year": "丙寅",
+   "month": "庚寅",
+   "day": "壬午",
+   "hour": "乙巳"
+  },
+  "strength": "nhược",
+  "ge": "從財格",
+  "yong": "火",
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-congsha-xinjin",
+  "person": "假从章 例造 (无名氏) — 辛金从杀",
+  "pillars": {
+   "year": "丁卯",
+   "month": "丙寅",
+   "day": "辛亥",
+   "hour": "庚寅"
+  },
+  "strength": "nhược",
+  "ge": "從殺格",
+  "yong": "火",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congsha-guihai",
+  "person": "从象章 例造 (无名氏) — 己未从杀",
+  "pillars": {
+   "year": "癸亥",
+   "month": "乙卯",
+   "day": "己未",
+   "hour": "丁卯"
+  },
+  "strength": "nhược",
+  "ge": "從殺格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congsha-congguan",
+  "person": "假从章 例造 (无名氏) — 戊土从官",
+  "pillars": {
+   "year": "乙卯",
+   "month": "己卯",
+   "day": "戊辰",
+   "hour": "癸亥"
+  },
+  "strength": "nhược",
+  "ge": "從殺格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congsha-jin",
+  "person": "从象章 例造 (无名氏) — 乙酉从杀",
+  "pillars": {
+   "year": "辛巳",
+   "month": "辛丑",
+   "day": "乙酉",
+   "hour": "乙酉"
+  },
+  "strength": "nhược",
+  "ge": "從殺格",
+  "yong": "金",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congsha-bingchen",
+  "person": "假从章 例造 (无名氏) — 丙申从杀",
+  "pillars": {
+   "year": "丁丑",
+   "month": "壬寅",
+   "day": "丙申",
+   "hour": "壬辰"
+  },
+  "strength": "nhược",
+  "ge": "從殺格",
+  "yong": "水",
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-jiaccong-guisi",
+  "person": "假从章 例造 (无名氏) — 癸巳假从杀",
+  "pillars": {
+   "year": "癸巳",
+   "month": "乙卯",
+   "day": "己亥",
+   "hour": "癸酉"
+  },
+  "strength": "nhược",
+  "ge": "從殺格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congqi-jinshui",
+  "person": "从象章 例造 (无名氏) — 金水从气",
+  "pillars": {
+   "year": "癸酉",
+   "month": "癸亥",
+   "day": "庚申",
+   "hour": "丁亥"
+  },
+  "strength": null,
+  "ge": null,
+  "yong": "水",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-congshi",
+  "person": "从象章 例造 (无名氏) — 从势 (财官伤并旺)",
+  "pillars": {
+   "year": "丙戌",
+   "month": "壬辰",
+   "day": "癸巳",
+   "hour": "甲寅"
+  },
+  "strength": "nhược",
+  "ge": null,
+  "yong": "土",
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-conghua",
+  "person": "从象章 例造 (无名氏) — 丙火从化 (金)",
+  "pillars": {
+   "year": "癸酉",
+   "month": "乙丑",
+   "day": "丙申",
+   "hour": "丙申"
+  },
+  "strength": "nhược",
+  "ge": null,
+  "yong": "金",
+  "confidence": "medium"
+ },
+ {
+  "id": "ditian-caide-yiyang",
+  "person": "才德章 例造 (无名氏) — 一阳解冻",
+  "pillars": {
+   "year": "丙寅",
+   "month": "庚子",
+   "day": "己亥",
+   "hour": "甲戌"
+  },
+  "strength": null,
+  "ge": null,
+  "yong": "火",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-caide-bingxin",
+  "person": "才德章 例造 (无名氏) — 丙辛合水 反增寒湿 (negative)",
+  "pillars": {
+   "year": "丙戌",
+   "month": "辛丑",
+   "day": "己卯",
+   "hour": "甲子"
+  },
+  "strength": null,
+  "ge": null,
+  "yong": "火",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-xiaoer-guansha",
+  "person": "小儿章 例造 (无名氏) — 寒丁得库纳杀",
+  "pillars": {
+   "year": "癸丑",
+   "month": "壬戌",
+   "day": "丁亥",
+   "hour": "壬寅"
+  },
+  "strength": "nhược",
+  "ge": null,
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-fenyu-yinhan",
+  "person": "奋郁章 例造 (无名氏) — 阴寒湿滞 (乞丐命, negative)",
+  "pillars": {
+   "year": "癸丑",
+   "month": "乙丑",
+   "day": "癸丑",
+   "hour": "癸丑"
+  },
+  "strength": "nhược",
+  "ge": "七殺格",
+  "yong": null,
+  "confidence": "high"
+ },
+ {
+  "id": "zengguofan",
+  "person": "曾国藩 (1811–1872)",
+  "pillars": {
+   "year": "辛未",
+   "month": "己亥",
+   "day": "丙辰",
+   "hour": "己亥"
+  },
+  "strength": "nhược",
+  "ge": "七殺格",
+  "yong": "木",
+  "confidence": "high"
+ },
+ {
+  "id": "rentieqiao",
+  "person": "任铁樵 (1773–?) — 《滴天髓阐微》作者",
+  "pillars": {
+   "year": "癸巳",
+   "month": "戊午",
+   "day": "丙午",
+   "hour": "壬辰"
+  },
+  "strength": "vượng",
+  "ge": null,
+  "yong": "水",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-muduozibing",
+  "person": "小儿章 例造 (无名氏) — 母多子病",
+  "pillars": {
+   "year": "壬申",
+   "month": "戊申",
+   "day": "壬申",
+   "hour": "戊申"
+  },
+  "strength": null,
+  "ge": null,
+  "yong": "火",
+  "confidence": "high"
+ },
+ {
+  "id": "ditian-enyuan-guishui",
+  "person": "恩怨章 例造 (无名氏) — 癸水被合 (negative)",
+  "pillars": {
+   "year": "癸酉",
+   "month": "戊午",
+   "day": "丙辰",
+   "hour": "甲午"
+  },
+  "strength": "vượng",
+  "ge": null,
+  "yong": "水",
+  "confidence": "high"
+ },
+ {
+  "id": "zhuyuanzhang",
+  "person": "明太祖 朱元璋 (1328–1398)",
+  "pillars": {
+   "year": "戊辰",
+   "month": "壬戌",
+   "day": "丁丑",
+   "hour": "丁未"
+  },
+  "strength": null,
+  "ge": null,
+  "yong": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "puyi",
+  "person": "爱新觉罗·溥仪 宣统帝 (1906–1967)",
+  "pillars": {
+   "year": "丙午",
+   "month": "庚寅",
+   "day": "壬午",
+   "hour": "丙午"
+  },
+  "strength": "nhược",
+  "ge": null,
+  "yong": null,
+  "confidence": "high"
+ },
+ {
+  "id": "yuanshikai",
+  "person": "袁世凯 (1859–1916)",
+  "pillars": {
+   "year": "己未",
+   "month": "癸酉",
+   "day": "丁巳",
+   "hour": "丁未"
+  },
+  "strength": null,
+  "ge": null,
+  "yong": null,
+  "confidence": "medium"
+ }
+]

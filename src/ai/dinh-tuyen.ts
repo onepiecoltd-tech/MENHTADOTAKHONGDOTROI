@@ -28,6 +28,7 @@ export function dinhTuyen(loai: LoaiLuan, nc: NguCanh = {}): { model: string; ma
     case 'bat-tu': return { model: MODEL.chinh, maxTokens: 3200 };
     case 'tu-vi': return { model: MODEL.chinh, maxTokens: 3600 };
     case 'chiem-tinh': return { model: MODEL.chinh, maxTokens: 3600 };
+    case 'phong-thuy': return { model: MODEL.chinh, maxTokens: 3000 };
     case 'luan-cheo': return { model: MODEL.sau, maxTokens: 4200 };
   }
 }

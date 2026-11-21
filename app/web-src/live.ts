@@ -4,8 +4,18 @@ export interface NhanhKq {
   ngay?: { d: number; m: number; y: number };
   gio?: { h: number; p: number };
   gioiTinh?: 'nam' | 'nu';
+  /** Chủ đề khách hỏi, nhận từ bình luận (khớp khóa CHU_DE trong main.ts). */
+  chuDe?: 'Tổng quan' | 'Tình duyên' | 'Công việc' | 'Tài lộc';
   ten: string;
 }
+
+/** Các cụm từ nhận chủ đề. Không dùng từ đơn dễ trùng tên người (Duyên, Tiền...). */
+const CHU_DE_TU: [NonNullable<NhanhKq['chuDe']>, string][] = [
+  ['Tình duyên', 'tình duyên|tinh duyen|tình yêu|tinh yeu|người yêu|nguoi yeu|hôn nhân|hon nhan|yêu đương|yeu duong|vợ chồng|vo chong|chuyện tình|chuyen tinh|lấy chồng|lay chong|lấy vợ|lay vo'],
+  ['Công việc', 'công việc|cong viec|sự nghiệp|su nghiep|nghề nghiệp|nghe nghiep|thăng tiến|thang tien|việc làm|viec lam|kinh doanh|đổi việc|doi viec|xin việc|xin viec'],
+  ['Tài lộc', 'tài lộc|tai loc|tiền bạc|tien bac|tài chính|tai chinh|làm giàu|lam giau|tiền tài|tien tai|đầu tư|dau tu'],
+  ['Tổng quan', 'tổng quan|tong quan|tử vi|tu vi|bát tự|bat tu|vận mệnh|van menh|cuộc đời|cuoc doi|năm nay|nam nay'],
+];
 
 const CHU = '\\p{L}';
 const tu = (s: string, g = '') => new RegExp(`(?<![${CHU}])(?:${s})(?![${CHU}])`, 'iu' + g);
@@ -14,6 +24,14 @@ const tu = (s: string, g = '') => new RegExp(`(?<![${CHU}])(?:${s})(?![${CHU}])`
 export function phanTichNhanh(vao: string): NhanhKq {
   let con = ' ' + vao.normalize('NFC') + ' ';
   const kq: NhanhKq = { ten: '' };
+
+  // Chủ đề: tìm rồi bỏ khỏi chuỗi để không lẫn vào tên.
+  for (const [chu, tuKhoa] of CHU_DE_TU) {
+    const re = tu(tuKhoa, 'g');
+    if (re.test(con)) { kq.chuDe ??= chu; con = con.replace(tu(tuKhoa, 'g'), ' '); }
+  }
+  const iso = con.match(/(?<!\d)(\d{4})\s*[/\-.]\s*(\d{1,2})\s*[/\-.]\s*(\d{1,2})(?!\d)/);
+  if (iso && Number(iso[2]) <= 12 && Number(iso[3]) <= 31) con = con.replace(iso[0], ` ${iso[3]}/${iso[2]}/${iso[1]} `);
 
   let m = con.match(/(\d{1,2})\s*[/\-.]\s*(\d{1,2})\s*[/\-.]\s*(\d{4}|\d{2})(?!\d)/) ?? con.match(new RegExp(`(\\d{1,2})\\s*(?:tháng|thang|th)\\s*(\\d{1,2})\\s*(?:năm|nam|n)\\s*(\\d{4})(?!\\d)`, 'iu')) ?? con.match(/(?<!\d)(\d{2})(\d{2})(\d{4})(?!\d)/);
   if (m) {
@@ -38,7 +56,7 @@ export function phanTichNhanh(vao: string): NhanhKq {
   if (tu('nữ|nu|gái|gai|female').test(con)) { kq.gioiTinh = 'nu'; con = con.replace(tu('nữ|nu|gái|gai|female'), ' '); }
   else if (tu('nam|trai|male').test(con)) { kq.gioiTinh = 'nam'; con = con.replace(tu('nam|trai|male'), ' '); }
 
-  kq.ten = con.replace(tu('sinh|ngày|ngay|lúc|luc|giờ|gio|tháng|thang|năm|dương lịch|duong lich|dl|là|xem|giúp|giup|tên', 'g'), ' ')
+  kq.ten = con.replace(tu('sinh|ngày|ngay|lúc|luc|giờ|gio|tháng|thang|năm|dương lịch|duong lich|dl|là|xem|giúp|giup|tên|cho|mình|ơi|nhé|nhe|nha|ạ|về|luận|luan|xin|ad|admin|thầy|thay|bói|boi|nhờ|nho|lá số|la so', 'g'), ' ')
     .replace(/[\d/\-.:,;!?()]+/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 40);
   return kq;
 }
@@ -70,25 +88,29 @@ export function chiaDoan(van: string, toiDa = 90): string[] {
   return ra;
 }
 
-const nghi = (ms: number) => new Promise<void>((r) => setTimeout(r, ms));
+/** Tách lời luận thành từng câu để đọc và hiện lần lượt. Câu quá dài thì cắt ở dấu phẩy. */
+export const chiaCau = (van: string): string[] => chiaDoan(van, 130).flatMap((d) => d.split(/(?<=[.!?…])\s+/)).map((x) => x.trim()).filter(Boolean);
 
+const nghi = (ms: number) => new Promise<void>((r) => setTimeout(r, ms));
+const NGHI_GIUA_CAU = 750;
+
+/** Khung lời luận bên phải: mỗi câu hiện ra rồi mới đọc, nghỉ một nhịp giữa các câu. */
 export class PhuDe {
   docTo = false;
   tocDo = 1;
   private phien = 0;
-  private readonly ben: HTMLElement;
-  constructor(el: HTMLElement) { this.ben = el.querySelector('span')!; }
+  private readonly than: HTMLElement;
+  constructor(el: HTMLElement) { this.than = el.querySelector('.pd-than')!; }
 
-  private dat(text: string, loai = '') {
-    this.ben.className = loai;
-    this.ben.textContent = text;
-    void this.ben.offsetWidth; // chạy lại hiệu ứng hiện dần
-    this.ben.classList.add('hien');
-  }
   /** Hiện một dòng cố định (đang chờ, lỗi, hướng dẫn). */
-  hienTinh(text: string, loai = '') { this.phien++; this.dung1(); this.dat(text, loai); }
+  hienTinh(text: string, loai = '') {
+    this.phien++; this.dung1();
+    this.than.innerHTML = '';
+    const p = document.createElement('p'); p.className = 'tinh ' + loai; p.textContent = text;
+    this.than.append(p);
+  }
   private dung1() { try { window.speechSynthesis?.cancel(); } catch { /* không có giọng đọc */ } }
-  dung() { this.phien++; this.dung1(); this.ben.className = ''; this.ben.textContent = ''; }
+  dung() { this.phien++; this.dung1(); this.than.innerHTML = ''; }
 
   private doc(d: string): Promise<void> {
     return new Promise((xong) => {
@@ -103,19 +125,25 @@ export class PhuDe {
     });
   }
 
-  /** Hiện lời luận từng đoạn; gọi lại hoặc dung() sẽ dừng lượt cũ. */
+  /** Hiện và đọc từng câu; gọi lại hoặc dung() sẽ dừng lượt cũ. Trả về khi đã đọc xong câu cuối. */
   async chay(van: string): Promise<void> {
     const p = ++this.phien;
     this.dung1();
-    for (const d of chiaDoan(van)) {
+    this.than.innerHTML = '';
+    const doan = document.createElement('p'); doan.className = 'luan'; this.than.append(doan);
+    let truoc: HTMLElement | undefined;
+    for (const c of chiaCau(van)) {
       if (p !== this.phien) return;
-      this.dat(d);
-      const ms = Math.max(2200, d.length * 62) / this.tocDo;
-      if (this.docTo) await Promise.race([this.doc(d), nghi(ms * 2.5)]); else await nghi(ms);
-      if (this.docTo && p === this.phien) await nghi(220);
+      truoc?.classList.remove('dang');
+      const sp = document.createElement('span'); sp.className = 'c dang'; sp.textContent = c + ' ';
+      doan.append(sp); truoc = sp;
+      requestAnimationFrame(() => sp.classList.add('hien'));
+      this.than.scrollTo({ top: this.than.scrollHeight, behavior: 'smooth' });
+      const ms = Math.max(1800, c.length * 58) / this.tocDo;
+      if (this.docTo) await Promise.race([this.doc(c), nghi(ms * 2.5)]); else await nghi(ms);
+      if (p !== this.phien) return;
+      await nghi(NGHI_GIUA_CAU / this.tocDo);
     }
-    if (p !== this.phien) return;
-    await nghi(7000);
-    if (p === this.phien) this.ben.className = '';
+    if (p === this.phien) truoc?.classList.remove('dang');
   }
 }

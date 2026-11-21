@@ -6,6 +6,7 @@ import {
   CAN, CHI, NGU_HANH, type CanChi, type NguHanh, amDuongCuaCan, hanhCuaCan, hanhCuaChi,
   napAm, tangCan, tenCanChi, thapThan, tuChuHan,
 } from '../lich/canchi.js';
+import { phanTichTuTru, type PhanTichBatTu, type TuTruChi } from './phan-tich.js';
 
 const TIET_KHI: Record<string, string> = {
   立春: 'Lập Xuân', 雨水: 'Vũ Thủy', 惊蛰: 'Kinh Trập', 春分: 'Xuân Phân', 清明: 'Thanh Minh', 谷雨: 'Cốc Vũ',
@@ -26,7 +27,7 @@ export interface Tru {
   tangCan: { can: string; hanh: NguHanh; thapThan: string }[];
 }
 
-export interface DaiVan { tuoiBatDau: number; tuoiKetThuc: number; namBatDau: number; canChi: string; thapThan: string }
+export interface DaiVan { tuoiBatDau: number; tuoiKetThuc: number; namBatDau: number; canChi: string; thapThan: string; chiSo: CanChi }
 
 export interface LaSoBatTu {
   loai: 'bat-tu';
@@ -41,6 +42,10 @@ export interface LaSoBatTu {
   amLich: { ngay: number; thang: number; nam: number; nhuan: boolean };
   daiVan: { khoiVanSau: string; thuan: boolean; danhSach: DaiVan[] };
   ghiChu: string[];
+  /** Bốn trụ dạng chỉ số, để các hàm phân tích và đánh giá vận dùng lại. */
+  tuTruChi: TuTruChi;
+  /** Vượng suy, cách cục, dụng thần, thần sát, hình xung hợp hội, đếm thập thần. */
+  phanTich: PhanTichBatTu;
 }
 
 const solar = (g: GioTuong) => Solar.fromYmdHms(g.nam, g.thang, g.ngay, g.gio, g.phut, 0);
@@ -90,12 +95,16 @@ export function lapBatTu(t: ThongTinSinh): LaSoBatTu {
   const yun = ecA.getYun(t.gioiTinh === 'nam' ? 1 : 0);
   const danhSach: DaiVan[] = yun.getDaYun().filter((d) => d.getGanZhi()).map((d) => {
     const cc = tuChuHan(d.getGanZhi());
-    return { tuoiBatDau: d.getStartAge(), tuoiKetThuc: d.getEndAge(), namBatDau: d.getStartYear(), canChi: tenCanChi(cc), thapThan: thapThan(nc, cc.can) };
+    return { tuoiBatDau: d.getStartAge(), tuoiKetThuc: d.getEndAge(), namBatDau: d.getStartYear(), canChi: tenCanChi(cc), thapThan: thapThan(nc, cc.can), chiSo: cc };
   });
 
   if (tg.dieuChinhPhut) ghiChu.push(`Đã quy về giờ mặt trời thực: ${tg.dieuChinhPhut > 0 ? '+' : ''}${tg.dieuChinhPhut} phút.`);
   if (t.gio === 23) ghiChu.push(`Sinh giờ Tý muộn (23h): trụ ngày tính theo ${(t.tyMuon ?? 'homSau') === 'homSau' ? 'ngày hôm sau' : 'ngày hiện tại'}.`);
   const tk = lunarA.getPrevJieQi(false);
+  const tuTruChi: TuTruChi = { nam, thang, ngay, gio };
+  const jie = lunarA.getPrevJie(false);
+  const ngayTuTiet = Math.max(0, solar(tg.gioBacKinh).getJulianDay() - jie.getSolar().getJulianDay());
+  const phanTich = phanTichTuTru(tuTruChi, ngayTuTiet);
   const g = tg.gioDiaPhuong;
 
   return {
@@ -113,5 +122,7 @@ export function lapBatTu(t: ThongTinSinh): LaSoBatTu {
       danhSach,
     },
     ghiChu,
+    tuTruChi,
+    phanTich,
   };
 }
