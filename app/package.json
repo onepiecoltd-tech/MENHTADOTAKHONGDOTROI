@@ -1,8 +1,8 @@
 {
   "name": "menh-ly-3d",
-  "productName": "Menh Ly 3D",
+  "productName": "Huyen Co Do",
   "version": "1.0.0",
-  "description": "Mệnh Lý 3D: tử vi, bát tự, chiêm tinh, Kinh Dịch, tarot với AI luận giải",
+  "description": "Huyền Cơ Đồ: tử vi, bát tự, chiêm tinh, Kinh Dịch, tarot với AI luận giải",
   "author": "Craftbyte",
   "main": "dist/main.js",
   "license": "MIT",
@@ -20,7 +20,7 @@
   },
   "build": {
     "appId": "asia.craftbyte.menhly3d",
-    "productName": "Menh Ly 3D",
+    "productName": "Huyen Co Do",
     "copyright": "Craftbyte",
     "files": [
       "dist/main.js",
@@ -46,7 +46,7 @@
       "icon": "build/icon.ico"
     },
     "portable": {
-      "artifactName": "MenhLy3D-${version}.exe"
+      "artifactName": "HuyenCoDo-${version}.exe"
     }
   }
 }

@@ -5,7 +5,7 @@ AI chỉ nhận JSON này để luận giải, không tự tính lịch hay an s
 
 ## Ứng dụng desktop 3D
 
-Thư mục `app` là ứng dụng Electron + Three.js "Mệnh Lý 3D" (tử vi, bát tự, chiêm tinh, Kinh Dịch, tarot, khung luận giải AI), đóng gói thành `MenhLy3D-1.0.0.exe`. Xem `app/HUONG-DAN.md`.
+Thư mục `app` là ứng dụng Electron + Three.js "Huyền Cơ Đồ" (tử vi, bát tự, chiêm tinh, Kinh Dịch, tarot, khung luận giải AI), đóng gói thành `MenhLy3D-1.0.0.exe`. Xem `app/HUONG-DAN.md`.
 Tiến trình chính (`app/main.ts`) gọi thẳng bộ máy trong `src`; giao diện (`app/web-src`) chỉ vẽ và gọi qua IPC.
 
 ## Chạy thử

@@ -1,10 +1,10 @@
-# Mệnh Lý 3D (Craftbyte)
+# Huyền Cơ Đồ (Craftbyte)
 
 Ứng dụng desktop 3D gồm năm môn: tử vi Việt Nam, bát tự, chiêm tinh phương Tây, Kinh Dịch và tarot. Chương trình tự tính lá số, gieo quẻ, rút bài; AI chỉ luận giải trên dữ liệu đã tính.
 
 ## Chạy ứng dụng
 
-1. Bấm đúp `MenhLy3D-1.0.0.exe`. Bản chạy ngay, không cần cài đặt, không cần Node.js.
+1. Bấm đúp `HuyenCoDo-<phiên bản>.exe`. Bản chạy ngay, không cần cài đặt, không cần Node.js.
 2. Windows có thể hiện cảnh báo SmartScreen vì tệp chưa ký số. Bấm **More info** → **Run anyway**.
 3. Lần mở đầu mất vài giây vì ứng dụng tự giải nén.
 
@@ -48,5 +48,5 @@ npm install
 cd app
 npm install
 npm start          # chạy thử
-npm run build:win  # tạo app\release\MenhLy3D-1.0.0.exe
+npm run build:win  # tạo app\release\HuyenCoDo-<phiên bản>.exe
 ```

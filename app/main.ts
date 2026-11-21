@@ -5,6 +5,9 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { lapVeDa, lapPhongThuy, lapBatTu, lapTuVi, lapChiemTinh, gieoQueDongXu, gieoQueMaiHoa, ganLoiQue, rutBai, datLoiQue, DIA_DIEM, type ThongTinSinh } from '../src/index.js';
 import { taoMayKhach, kiemTraHang, chonModel, GIA_MOI, TEN_NHA_CUNG_CAP, ghiLuotGoi, luotGoiTuKetQua, tongHopLocal, datThuMucLocal, type NhaCungCap } from '../src/ai/index.js';
 import { rutGonBatTu, rutGonTuVi, rutGonQue, rutGonTarot, rutGonChiemTinh, rutGonVeDa, rutGonPhongThuy, luanGiai, taoMayKhachTaiKhoan, kiemTraDangNhap, type MayKhach, type LoaiLuan } from '../src/ai/index.js';
+
+// Giữ nguyên thư mục dữ liệu của tên cũ để không mất cấu hình, khóa API và hồ sơ đã lưu khi đổi tên app.
+app.setPath('userData', join(app.getPath('appData'), 'Menh Ly 3D'));
 import loiQue from '../data/kinhdich/loi-que.json';
 
 datLoiQue(loiQue as any);
@@ -165,7 +168,7 @@ ipcMain.handle('menh', async (_e, ten: string, duLieu: unknown) => {
 async function taoCuaSo() {
   Menu.setApplicationMenu(null);
   const win = new BrowserWindow({
-    width: 1560, height: 940, minWidth: 1180, minHeight: 720, backgroundColor: '#05060f', icon: join(__dirname, '..', 'web', 'icon.png'), title: 'Mệnh Lý 3D — Craftbyte', 
+    width: 1560, height: 940, minWidth: 1180, minHeight: 720, backgroundColor: '#05060f', icon: join(__dirname, '..', 'web', 'icon.png'), title: 'Huyền Cơ Đồ — Craftbyte', 
     webPreferences: { preload: join(__dirname, '..', 'preload.js'), contextIsolation: true, nodeIntegration: false, backgroundThrottling: false },
   });
   win.webContents.setWindowOpenHandler(({ url }) => { shell.openExternal(url); return { action: 'deny' }; });
